@@ -1,0 +1,1538 @@
+Name,Team,Position,Age,Games,PA,HR,RBI,AVG,OBP,SLG,WAR,PlayerType,IP,ERA,WHIP,SO,TeamFull
+Aaron Judge,NYY,Batter,33,152,679.0,53.0,114.0,0.331,0.457,0.688,10.1,Batter,,,,,New York Yankees
+Cal Raleigh,SEA,Batter,28,159,705.0,60.0,125.0,0.247,0.359,0.589,9.1,Batter,,,,,Seattle Mariners
+Bobby Witt Jr.,KCR,Batter,25,157,687.0,23.0,88.0,0.295,0.351,0.501,8.0,Batter,,,,,Kansas City Royals
+Shohei Ohtani,LAD,Batter,30,158,727.0,55.0,102.0,0.282,0.392,0.622,7.5,Batter,,,,,Los Angeles Dodgers
+Geraldo Perdomo,ARI,Batter,25,161,720.0,20.0,100.0,0.29,0.389,0.462,7.1,Batter,,,,,Arizona Diamondbacks
+Trea Turner,PHI,Batter,32,141,639.0,15.0,69.0,0.304,0.355,0.457,6.7,Batter,,,,,Philadelphia Phillies
+Corbin Carroll,ARI,Batter,24,143,642.0,31.0,84.0,0.259,0.343,0.541,6.5,Batter,,,,,Arizona Diamondbacks
+Jose Ramirez,CLE,Batter,32,158,673.0,30.0,85.0,0.283,0.36,0.503,6.3,Batter,,,,,Cleveland Guardians
+Francisco Lindor,NYM,Batter,31,160,732.0,31.0,86.0,0.267,0.346,0.466,6.3,Batter,,,,,New York Mets
+Fernando Tatis Jr.,SDP,Batter,26,155,691.0,25.0,71.0,0.268,0.368,0.446,6.1,Batter,,,,,San Diego Padres
+Juan Soto,NYM,Batter,26,160,715.0,43.0,105.0,0.263,0.396,0.525,5.8,Batter,,,,,New York Mets
+Jeremy Pena,HOU,Batter,27,125,543.0,17.0,62.0,0.304,0.363,0.477,5.7,Batter,,,,,Houston Astros
+Julio Rodriguez,SEA,Batter,24,160,710.0,32.0,95.0,0.267,0.324,0.474,5.7,Batter,,,,,Seattle Mariners
+Maikel Garcia,KCR,Batter,25,160,666.0,16.0,74.0,0.286,0.351,0.449,5.6,Batter,,,,,Kansas City Royals
+Pete Crow-Armstrong,CHC,Batter,23,157,647.0,31.0,95.0,0.247,0.287,0.481,5.4,Batter,,,,,Chicago Cubs
+George Springer,TOR,Batter,35,140,586.0,32.0,84.0,0.309,0.399,0.56,5.2,Batter,,,,,Toronto Blue Jays
+Byron Buxton,MIN,Batter,31,126,542.0,35.0,83.0,0.264,0.327,0.551,5.0,Batter,,,,,Minnesota Twins
+Kyle Schwarber,PHI,Batter,32,162,724.0,56.0,132.0,0.24,0.365,0.563,4.9,Batter,,,,,Philadelphia Phillies
+Cody Bellinger,NYY,Batter,29,152,656.0,29.0,98.0,0.272,0.334,0.48,4.9,Batter,,,,,New York Yankees
+Gunnar Henderson,BAL,Batter,24,154,651.0,17.0,68.0,0.274,0.349,0.438,4.8,Batter,,,,,Baltimore Orioles
+Nico Hoerner,CHC,Batter,28,156,649.0,7.0,61.0,0.297,0.345,0.394,4.8,Batter,,,,,Chicago Cubs
+Matt Olson,ATL,Batter,31,162,724.0,29.0,95.0,0.272,0.366,0.484,4.7,Batter,,,,,Atlanta Braves
+Alejandro Kirk,TOR,Batter,26,130,506.0,15.0,76.0,0.282,0.348,0.421,4.7,Batter,,,,,Toronto Blue Jays
+Nick Kurtz,ATH,Batter,22,117,489.0,36.0,86.0,0.29,0.383,0.619,4.6,Batter,,,,,ATH
+Ketel Marte,ARI,Batter,31,126,556.0,28.0,72.0,0.283,0.376,0.517,4.6,Batter,,,,,Arizona Diamondbacks
+Junior Caminero,TBR,Batter,21,154,653.0,45.0,110.0,0.264,0.311,0.535,4.6,Batter,,,,,Tampa Bay Rays
+Kyle Tucker,CHC,Batter,28,136,597.0,22.0,73.0,0.266,0.377,0.464,4.5,Batter,,,,,Chicago Cubs
+Jazz Chisholm Jr.,NYY,Batter,27,130,531.0,31.0,80.0,0.242,0.332,0.481,4.4,Batter,,,,,New York Yankees
+Brice Turang,MIL,Batter,25,156,659.0,18.0,81.0,0.288,0.359,0.435,4.4,Batter,,,,,Milwaukee Brewers
+Elly De La Cruz,CIN,Batter,23,162,699.0,22.0,86.0,0.264,0.336,0.44,4.3,Batter,,,,,Cincinnati Reds
+Will Smith,LAD,Batter,30,110,436.0,17.0,61.0,0.296,0.404,0.497,4.1,Batter,,,,,Los Angeles Dodgers
+Wyatt Langford,TEX,Batter,23,134,573.0,22.0,62.0,0.241,0.344,0.431,4.1,Batter,,,,,Texas Rangers
+Andy Pages,LAD,Batter,24,156,624.0,27.0,86.0,0.272,0.313,0.461,4.1,Batter,,,,,Los Angeles Dodgers
+Dillon Dingler,DET,Batter,26,126,469.0,13.0,57.0,0.278,0.327,0.425,4.1,Batter,,,,,Detroit Tigers
+Kyle Stowers,MIA,Batter,27,117,457.0,25.0,73.0,0.288,0.368,0.544,4.0,Batter,,,,,Miami Marlins
+Corey Seager,TEX,Batter,31,102,445.0,21.0,50.0,0.271,0.373,0.487,4.0,Batter,,,,,Texas Rangers
+Willy Adames,SFG,Batter,29,160,686.0,30.0,87.0,0.225,0.318,0.421,4.0,Batter,,,,,San Francisco Giants
+Freddie Freeman,LAD,Batter,35,147,627.0,24.0,90.0,0.295,0.367,0.502,3.9,Batter,,,,,Los Angeles Dodgers
+Shea Langeliers,ATH,Batter,27,123,523.0,31.0,72.0,0.277,0.325,0.536,3.9,Batter,,,,,ATH
+Vladimir Guerrero Jr.,TOR,Batter,26,156,680.0,23.0,84.0,0.292,0.381,0.467,3.9,Batter,,,,,Toronto Blue Jays
+Jarren Duran,BOS,Batter,28,157,696.0,16.0,84.0,0.256,0.332,0.442,3.9,Batter,,,,,Boston Red Sox
+Bo Bichette,TOR,Batter,27,139,628.0,18.0,94.0,0.311,0.357,0.483,3.8,Batter,,,,,Toronto Blue Jays
+Eugenio Suarez,- - -,Batter,33,159,657.0,49.0,118.0,0.228,0.298,0.526,3.8,Batter,,,,,- - -
+Manny Machado,SDP,Batter,32,159,678.0,27.0,95.0,0.275,0.335,0.46,3.8,Batter,,,,,San Diego Padres
+Ceddanne Rafaela,BOS,Batter,24,156,587.0,16.0,63.0,0.249,0.295,0.414,3.8,Batter,,,,,Boston Red Sox
+Matt Chapman,SFG,Batter,32,128,535.0,21.0,61.0,0.231,0.34,0.43,3.7,Batter,,,,,San Francisco Giants
+Pete Alonso,NYM,Batter,30,162,709.0,38.0,126.0,0.272,0.347,0.524,3.6,Batter,,,,,New York Mets
+Sal Frelick,MIL,Batter,25,142,594.0,12.0,63.0,0.288,0.351,0.405,3.6,Batter,,,,,Milwaukee Brewers
+William Contreras,MIL,Batter,27,150,659.0,17.0,76.0,0.26,0.355,0.399,3.6,Batter,,,,,Milwaukee Brewers
+Ronald Acuna Jr.,ATL,Batter,27,95,412.0,21.0,42.0,0.29,0.417,0.518,3.5,Batter,,,,,Atlanta Braves
+Michael Busch,CHC,Batter,27,155,592.0,34.0,90.0,0.261,0.343,0.523,3.5,Batter,,,,,Chicago Cubs
+Bryce Harper,PHI,Batter,32,132,580.0,27.0,75.0,0.261,0.357,0.487,3.5,Batter,,,,,Philadelphia Phillies
+Alex Bregman,BOS,Batter,31,114,495.0,18.0,62.0,0.273,0.36,0.462,3.5,Batter,,,,,Boston Red Sox
+Jacob Wilson,ATH,Batter,23,125,523.0,13.0,63.0,0.311,0.355,0.444,3.5,Batter,,,,,ATH
+Masyn Winn,STL,Batter,23,129,537.0,9.0,51.0,0.253,0.31,0.363,3.5,Batter,,,,,St. Louis Cardinals
+Hunter Goodman,COL,Batter,25,144,579.0,31.0,91.0,0.278,0.323,0.52,3.4,Batter,,,,,Colorado Rockies
+Tyler Soderstrom,ATH,Batter,23,158,624.0,25.0,93.0,0.276,0.346,0.474,3.4,Batter,,,,,ATH
+Mookie Betts,LAD,Batter,32,150,663.0,20.0,82.0,0.258,0.326,0.406,3.4,Batter,,,,,Los Angeles Dodgers
+Rafael Devers,- - -,Batter,28,163,729.0,35.0,109.0,0.252,0.372,0.479,3.3,Batter,,,,,- - -
+James Wood,WSN,Batter,22,157,689.0,31.0,94.0,0.256,0.35,0.475,3.3,Batter,,,,,Washington Nationals
+Dansby Swanson,CHC,Batter,31,159,645.0,24.0,77.0,0.244,0.3,0.417,3.3,Batter,,,,,Chicago Cubs
+Trent Grisham,NYY,Batter,28,143,581.0,34.0,74.0,0.235,0.348,0.464,3.2,Batter,,,,,New York Yankees
+Harrison Bader,- - -,Batter,31,146,501.0,17.0,54.0,0.277,0.347,0.449,3.2,Batter,,,,,- - -
+Zach Neto,LAA,Batter,24,128,554.0,26.0,62.0,0.257,0.319,0.474,3.2,Batter,,,,,Los Angeles Angels
+Zach McKinstry,DET,Batter,30,144,511.0,12.0,49.0,0.259,0.333,0.438,3.2,Batter,,,,,Detroit Tigers
+Xander Bogaerts,SDP,Batter,32,136,552.0,11.0,53.0,0.263,0.328,0.391,3.2,Batter,,,,,San Diego Padres
+Ernie Clement,TOR,Batter,29,157,588.0,9.0,50.0,0.277,0.313,0.398,3.2,Batter,,,,,Toronto Blue Jays
+Steven Kwan,CLE,Batter,27,156,693.0,11.0,56.0,0.272,0.33,0.374,3.2,Batter,,,,,Cleveland Guardians
+Patrick Bailey,SFG,Batter,26,135,452.0,6.0,55.0,0.222,0.277,0.325,3.2,Batter,,,,,San Francisco Giants
+Josh Naylor,- - -,Batter,28,147,604.0,20.0,92.0,0.295,0.353,0.462,3.1,Batter,,,,,- - -
+Drake Baldwin,ATL,Batter,24,124,446.0,19.0,80.0,0.274,0.341,0.469,3.1,Batter,,,,,Atlanta Braves
+CJ Abrams,WSN,Batter,24,144,635.0,19.0,60.0,0.257,0.315,0.433,3.1,Batter,,,,,Washington Nationals
+Bryson Stott,PHI,Batter,27,147,560.0,13.0,66.0,0.257,0.328,0.391,3.1,Batter,,,,,Philadelphia Phillies
+Ramon Laureano,- - -,Batter,30,132,488.0,24.0,76.0,0.281,0.342,0.512,3.0,Batter,,,,,- - -
+Ben Rice,NYY,Batter,26,138,530.0,26.0,65.0,0.255,0.337,0.499,3.0,Batter,,,,,New York Yankees
+Ryan O'Hearn,- - -,Batter,31,144,544.0,17.0,63.0,0.281,0.366,0.437,3.0,Batter,,,,,- - -
+Jackson Merrill,SDP,Batter,22,115,483.0,16.0,67.0,0.264,0.317,0.457,3.0,Batter,,,,,San Diego Padres
+Brandon Nimmo,NYM,Batter,32,155,652.0,25.0,92.0,0.262,0.324,0.436,3.0,Batter,,,,,New York Mets
+Trevor Story,BOS,Batter,32,157,654.0,25.0,96.0,0.263,0.308,0.433,3.0,Batter,,,,,Boston Red Sox
+Austin Wells,NYY,Batter,25,126,448.0,21.0,71.0,0.219,0.275,0.436,3.0,Batter,,,,,New York Yankees
+Yandy Diaz,TBR,Batter,33,150,651.0,25.0,83.0,0.3,0.366,0.482,2.9,Batter,,,,,Tampa Bay Rays
+Max Muncy,LAD,Batter,34,100,388.0,19.0,67.0,0.243,0.376,0.47,2.9,Batter,,,,,Los Angeles Dodgers
+Riley Greene,DET,Batter,24,157,655.0,36.0,111.0,0.258,0.313,0.493,2.9,Batter,,,,,Detroit Tigers
+Taylor Ward,LAA,Batter,31,157,663.0,36.0,103.0,0.228,0.317,0.475,2.9,Batter,,,,,Los Angeles Angels
+Brendan Donovan,STL,Batter,28,118,515.0,10.0,50.0,0.287,0.353,0.422,2.9,Batter,,,,,St. Louis Cardinals
+Jackson Chourio,MIL,Batter,21,131,589.0,21.0,78.0,0.27,0.308,0.463,2.9,Batter,,,,,Milwaukee Brewers
+Randy Arozarena,SEA,Batter,30,160,709.0,27.0,76.0,0.238,0.334,0.426,2.9,Batter,,,,,Seattle Mariners
+Jake Cronenworth,SDP,Batter,31,135,515.0,11.0,59.0,0.246,0.367,0.377,2.9,Batter,,,,,San Diego Padres
+TJ Friedl,CIN,Batter,29,152,685.0,14.0,53.0,0.261,0.364,0.378,2.9,Batter,,,,,Cincinnati Reds
+Willson Contreras,STL,Batter,33,135,563.0,20.0,80.0,0.257,0.344,0.447,2.8,Batter,,,,,St. Louis Cardinals
+Ian Happ,CHC,Batter,30,150,663.0,23.0,79.0,0.243,0.342,0.42,2.8,Batter,,,,,Chicago Cubs
+J.P. Crawford,SEA,Batter,30,157,654.0,12.0,58.0,0.265,0.352,0.37,2.8,Batter,,,,,Seattle Mariners
+Roman Anthony,BOS,Batter,21,71,303.0,8.0,32.0,0.292,0.396,0.463,2.7,Batter,,,,,Boston Red Sox
+Colson Montgomery,CHW,Batter,23,71,284.0,21.0,55.0,0.239,0.311,0.529,2.7,Batter,,,,,Chicago White Sox
+Ivan Herrera,STL,Batter,25,107,452.0,19.0,66.0,0.284,0.373,0.464,2.7,Batter,,,,,St. Louis Cardinals
+Gabriel Moreno,ARI,Batter,25,83,309.0,9.0,40.0,0.285,0.353,0.433,2.7,Batter,,,,,Arizona Diamondbacks
+Carlos Narvaez,BOS,Batter,26,118,446.0,15.0,50.0,0.241,0.306,0.419,2.7,Batter,,,,,Boston Red Sox
+Jorge Polanco,SEA,Batter,31,138,524.0,26.0,78.0,0.265,0.326,0.495,2.6,Batter,,,,,Seattle Mariners
+Seiya Suzuki,CHC,Batter,30,151,651.0,32.0,103.0,0.245,0.326,0.478,2.6,Batter,,,,,Chicago Cubs
+Isaac Collins,MIL,Batter,27,130,441.0,9.0,54.0,0.263,0.368,0.411,2.6,Batter,,,,,Milwaukee Brewers
+Carson Kelly,CHC,Batter,30,111,421.0,17.0,50.0,0.249,0.333,0.428,2.6,Batter,,,,,Chicago Cubs
+Gleyber Torres,DET,Batter,28,145,628.0,16.0,74.0,0.256,0.358,0.387,2.6,Batter,,,,,Detroit Tigers
+Carlos Correa,- - -,Batter,30,144,584.0,13.0,52.0,0.276,0.332,0.402,2.6,Batter,,,,,- - -
+Caleb Durbin,MIL,Batter,25,136,506.0,11.0,53.0,0.256,0.334,0.387,2.6,Batter,,,,,Milwaukee Brewers
+Jonathan Aranda,TBR,Batter,27,106,422.0,14.0,59.0,0.316,0.393,0.489,2.5,Batter,,,,,Tampa Bay Rays
+Isaac Paredes,HOU,Batter,26,102,438.0,20.0,53.0,0.254,0.352,0.458,2.5,Batter,,,,,Houston Astros
+Xavier Edwards,MIA,Batter,25,139,619.0,3.0,43.0,0.283,0.343,0.353,2.5,Batter,,,,,Miami Marlins
+Brent Rooker,ATH,Batter,30,162,699.0,30.0,89.0,0.262,0.335,0.479,2.4,Batter,,,,,ATH
+Christian Yelich,MIL,Batter,33,150,644.0,29.0,103.0,0.264,0.343,0.452,2.4,Batter,,,,,Milwaukee Brewers
+Wilyer Abreu,BOS,Batter,26,115,417.0,22.0,69.0,0.247,0.317,0.469,2.4,Batter,,,,,Boston Red Sox
+Brandon Marsh,PHI,Batter,27,133,425.0,11.0,43.0,0.28,0.342,0.443,2.4,Batter,,,,,Philadelphia Phillies
+Jung Hoo Lee,SFG,Batter,26,150,617.0,8.0,55.0,0.266,0.327,0.407,2.4,Batter,,,,,San Francisco Giants
+Spencer Torkelson,DET,Batter,25,155,649.0,31.0,78.0,0.24,0.333,0.456,2.3,Batter,,,,,Detroit Tigers
+Brett Baty,NYM,Batter,25,130,432.0,18.0,50.0,0.254,0.313,0.435,2.3,Batter,,,,,New York Mets
+Mike Yastrzemski,- - -,Batter,34,147,558.0,17.0,46.0,0.233,0.333,0.403,2.3,Batter,,,,,- - -
+Jake Meyers,HOU,Batter,29,104,381.0,3.0,24.0,0.292,0.354,0.373,2.3,Batter,,,,,Houston Astros
+Otto Lopez,MIA,Batter,26,143,594.0,15.0,77.0,0.246,0.305,0.368,2.3,Batter,,,,,Miami Marlins
+Jakob Marsee,MIA,Batter,24,55,234.0,5.0,33.0,0.292,0.363,0.478,2.2,Batter,,,,,Miami Marlins
+Daulton Varsho,TOR,Batter,28,71,271.0,20.0,55.0,0.238,0.284,0.548,2.2,Batter,,,,,Toronto Blue Jays
+Addison Barger,TOR,Batter,25,135,502.0,21.0,74.0,0.243,0.301,0.454,2.2,Batter,,,,,Toronto Blue Jays
+Mauricio Dubon,HOU,Batter,30,133,398.0,7.0,33.0,0.241,0.289,0.355,2.2,Batter,,,,,Houston Astros
+Alec Burleson,STL,Batter,26,139,546.0,18.0,69.0,0.29,0.343,0.459,2.1,Batter,,,,,St. Louis Cardinals
+Tyler Heineman,TOR,Batter,34,64,174.0,3.0,20.0,0.289,0.361,0.416,2.1,Batter,,,,,Toronto Blue Jays
+Jose Altuve,HOU,Batter,35,155,654.0,26.0,77.0,0.265,0.329,0.442,2.1,Batter,,,,,Houston Astros
+Ryan Jeffers,MIN,Batter,28,119,464.0,9.0,47.0,0.266,0.356,0.397,2.1,Batter,,,,,Minnesota Twins
+Jeff McNeil,NYM,Batter,33,122,462.0,12.0,54.0,0.243,0.335,0.411,2.1,Batter,,,,,New York Mets
+J.T. Realmuto,PHI,Batter,34,134,550.0,12.0,52.0,0.257,0.315,0.384,2.1,Batter,,,,,Philadelphia Phillies
+Jose Caballero,- - -,Batter,28,126,370.0,5.0,36.0,0.236,0.339,0.347,2.1,Batter,,,,,- - -
+Marcus Semien,TEX,Batter,34,127,534.0,15.0,62.0,0.23,0.305,0.364,2.1,Batter,,,,,Texas Rangers
+Lawrence Butler,ATH,Batter,24,152,630.0,21.0,63.0,0.234,0.306,0.404,2.0,Batter,,,,,ATH
+Sean Murphy,ATL,Batter,30,94,337.0,16.0,45.0,0.199,0.3,0.409,2.0,Batter,,,,,Atlanta Braves
+Giancarlo Stanton,NYY,Batter,35,77,281.0,24.0,66.0,0.273,0.35,0.594,1.9,Batter,,,,,New York Yankees
+Kyle Teel,CHW,Batter,23,78,297.0,8.0,35.0,0.273,0.375,0.411,1.9,Batter,,,,,Chicago White Sox
+Jordan Westburg,BAL,Batter,26,85,352.0,17.0,41.0,0.265,0.313,0.457,1.9,Batter,,,,,Baltimore Orioles
+Ryan McMahon,- - -,Batter,30,154,586.0,20.0,53.0,0.214,0.312,0.381,1.9,Batter,,,,,- - -
+Mike Trout,LAA,Batter,33,130,556.0,26.0,64.0,0.232,0.359,0.439,1.8,Batter,,,,,Los Angeles Angels
+Francisco Alvarez,NYM,Batter,23,76,277.0,11.0,32.0,0.256,0.339,0.447,1.8,Batter,,,,,New York Mets
+Nathan Lukes,TOR,Batter,30,135,438.0,12.0,65.0,0.255,0.323,0.407,1.8,Batter,,,,,Toronto Blue Jays
+Josh Smith,TEX,Batter,27,144,563.0,10.0,35.0,0.251,0.335,0.366,1.8,Batter,,,,,Texas Rangers
+Jake Mangum,TBR,Batter,29,118,428.0,3.0,40.0,0.296,0.33,0.368,1.8,Batter,,,,,Tampa Bay Rays
+Myles Straw,TOR,Batter,30,137,299.0,4.0,32.0,0.262,0.313,0.367,1.8,Batter,,,,,Toronto Blue Jays
+Spencer Horwitz,PIT,Batter,27,108,411.0,11.0,51.0,0.272,0.353,0.434,1.7,Batter,,,,,Pittsburgh Pirates
+Brandon Lowe,TBR,Batter,30,134,553.0,31.0,83.0,0.256,0.307,0.477,1.7,Batter,,,,,Tampa Bay Rays
+Alec Bohm,PHI,Batter,28,120,504.0,11.0,59.0,0.287,0.331,0.409,1.7,Batter,,,,,Philadelphia Phillies
+Wenceel Perez,DET,Batter,25,100,383.0,13.0,43.0,0.244,0.308,0.43,1.7,Batter,,,,,Detroit Tigers
+Austin Riley,ATL,Batter,28,102,447.0,16.0,54.0,0.26,0.309,0.428,1.7,Batter,,,,,Atlanta Braves
+Miguel Rojas,LAD,Batter,36,114,317.0,7.0,27.0,0.262,0.318,0.397,1.7,Batter,,,,,Los Angeles Dodgers
+Josh Jung,TEX,Batter,27,131,511.0,14.0,61.0,0.251,0.294,0.39,1.7,Batter,,,,,Texas Rangers
+Victor Scott II,STL,Batter,24,138,463.0,5.0,37.0,0.216,0.305,0.296,1.7,Batter,,,,,St. Louis Cardinals
+Luke Keaschall,MIN,Batter,22,49,207.0,4.0,28.0,0.302,0.382,0.445,1.6,Batter,,,,,Minnesota Twins
+Edmundo Sosa,PHI,Batter,29,89,261.0,11.0,39.0,0.276,0.307,0.469,1.6,Batter,,,,,Philadelphia Phillies
+Colt Keith,DET,Batter,23,137,468.0,13.0,45.0,0.256,0.333,0.413,1.6,Batter,,,,,Detroit Tigers
+Yainer Diaz,HOU,Batter,26,143,567.0,20.0,70.0,0.256,0.284,0.417,1.6,Batter,,,,,Houston Astros
+Oneil Cruz,PIT,Batter,26,135,544.0,20.0,61.0,0.2,0.298,0.378,1.6,Batter,,,,,Pittsburgh Pirates
+Pedro Pages,STL,Batter,26,112,389.0,11.0,45.0,0.23,0.272,0.363,1.6,Batter,,,,,St. Louis Cardinals
+Luis Torrens,NYM,Batter,29,93,283.0,5.0,29.0,0.226,0.284,0.345,1.6,Batter,,,,,New York Mets
+Dominic Canzone,SEA,Batter,27,82,268.0,11.0,32.0,0.3,0.358,0.481,1.5,Batter,,,,,Seattle Mariners
+Romy Gonzalez,BOS,Batter,28,96,341.0,9.0,53.0,0.305,0.343,0.483,1.5,Batter,,,,,Boston Red Sox
+Vinnie Pasquantino,KCR,Batter,27,160,682.0,32.0,113.0,0.264,0.323,0.475,1.5,Batter,,,,,Kansas City Royals
+Kerry Carpenter,DET,Batter,27,130,464.0,26.0,62.0,0.252,0.291,0.497,1.5,Batter,,,,,Detroit Tigers
+Jared Triolo,PIT,Batter,27,107,376.0,7.0,24.0,0.227,0.311,0.356,1.5,Batter,,,,,Pittsburgh Pirates
+Bo Naylor,CLE,Batter,25,123,414.0,14.0,47.0,0.195,0.282,0.379,1.5,Batter,,,,,Cleveland Guardians
+Daylen Lile,WSN,Batter,22,91,351.0,9.0,41.0,0.299,0.347,0.498,1.4,Batter,,,,,Washington Nationals
+Matt Wallner,MIN,Batter,27,104,392.0,22.0,40.0,0.202,0.311,0.464,1.4,Batter,,,,,Minnesota Twins
+Mike Tauchman,CHW,Batter,34,93,385.0,9.0,40.0,0.263,0.356,0.4,1.4,Batter,,,,,Chicago White Sox
+Nolan Schanuel,LAA,Batter,23,132,564.0,12.0,53.0,0.264,0.353,0.389,1.4,Batter,,,,,Los Angeles Angels
+Evan Carter,TEX,Batter,22,63,220.0,5.0,25.0,0.247,0.336,0.392,1.4,Batter,,,,,Texas Rangers
+Kody Clemens,- - -,Batter,29,119,386.0,19.0,52.0,0.213,0.281,0.434,1.4,Batter,,,,,- - -
+Matt Shaw,CHC,Batter,23,126,437.0,13.0,44.0,0.226,0.295,0.394,1.4,Batter,,,,,Chicago Cubs
+Javier Baez,DET,Batter,32,126,437.0,12.0,57.0,0.257,0.282,0.398,1.4,Batter,,,,,Detroit Tigers
+Michael Harris II,ATL,Batter,24,160,641.0,20.0,86.0,0.249,0.268,0.409,1.4,Batter,,,,,Atlanta Braves
+Matt McLain,CIN,Batter,25,147,577.0,15.0,50.0,0.22,0.3,0.343,1.4,Batter,,,,,Cincinnati Reds
+Ke'Bryan Hayes,- - -,Batter,28,152,570.0,5.0,49.0,0.235,0.29,0.306,1.4,Batter,,,,,- - -
+Joey Ortiz,MIL,Batter,26,149,506.0,7.0,45.0,0.23,0.276,0.317,1.4,Batter,,,,,Milwaukee Brewers
+Davis Schneider,TOR,Batter,26,82,227.0,11.0,31.0,0.234,0.361,0.436,1.3,Batter,,,,,Toronto Blue Jays
+Jurickson Profar,ATL,Batter,32,80,371.0,14.0,43.0,0.245,0.353,0.434,1.3,Batter,,,,,Atlanta Braves
+Heriberto Hernandez,MIA,Batter,25,87,294.0,10.0,45.0,0.266,0.347,0.438,1.3,Batter,,,,,Miami Marlins
+Gavin Sheets,SDP,Batter,29,145,545.0,19.0,71.0,0.252,0.317,0.429,1.3,Batter,,,,,San Diego Padres
+Lenyn Sosa,CHW,Batter,25,140,544.0,22.0,75.0,0.264,0.293,0.434,1.3,Batter,,,,,Chicago White Sox
+Danny Jansen,- - -,Batter,30,98,337.0,14.0,36.0,0.215,0.321,0.399,1.3,Batter,,,,,- - -
+Miguel Vargas,CHW,Batter,25,138,569.0,16.0,60.0,0.234,0.316,0.401,1.3,Batter,,,,,Chicago White Sox
+Joey Bart,PIT,Batter,28,93,332.0,4.0,30.0,0.249,0.355,0.34,1.3,Batter,,,,,Pittsburgh Pirates
+Cedric Mullins,- - -,Batter,30,133,498.0,17.0,59.0,0.216,0.299,0.391,1.3,Batter,,,,,- - -
+Ozzie Albies,ATL,Batter,28,157,667.0,16.0,74.0,0.24,0.306,0.365,1.3,Batter,,,,,Atlanta Braves
+Luis Robert Jr.,CHW,Batter,27,110,431.0,14.0,53.0,0.223,0.297,0.364,1.3,Batter,,,,,Chicago White Sox
+Chase Meidroth,CHW,Batter,23,122,505.0,5.0,23.0,0.253,0.329,0.32,1.3,Batter,,,,,Chicago White Sox
+Denzel Clarke,ATH,Batter,25,47,159.0,3.0,8.0,0.23,0.274,0.372,1.3,Batter,,,,,ATH
+Daniel Schneemann,CLE,Batter,28,131,422.0,12.0,41.0,0.206,0.283,0.354,1.3,Batter,,,,,Cleveland Guardians
+Jo Adell,LAA,Batter,26,152,573.0,37.0,98.0,0.236,0.293,0.485,1.2,Batter,,,,,Los Angeles Angels
+Kyle Manzardo,CLE,Batter,24,142,531.0,27.0,70.0,0.234,0.313,0.455,1.2,Batter,,,,,Cleveland Guardians
+Austin Hays,CIN,Batter,29,103,416.0,15.0,64.0,0.266,0.315,0.453,1.2,Batter,,,,,Cincinnati Reds
+Marcell Ozuna,ATL,Batter,34,145,592.0,21.0,68.0,0.232,0.355,0.4,1.2,Batter,,,,,Atlanta Braves
+Jackson Holliday,BAL,Batter,21,149,649.0,17.0,55.0,0.242,0.314,0.375,1.2,Batter,,,,,Baltimore Orioles
+Adley Rutschman,BAL,Batter,27,90,365.0,9.0,29.0,0.22,0.307,0.366,1.2,Batter,,,,,Baltimore Orioles
+Tommy Edman,LAD,Batter,30,97,377.0,13.0,49.0,0.225,0.274,0.382,1.2,Batter,,,,,Los Angeles Dodgers
+Austin Hedges,CLE,Batter,32,70,180.0,5.0,10.0,0.161,0.25,0.277,1.2,Batter,,,,,Cleveland Guardians
+Jahmai Jones,DET,Batter,27,72,150.0,7.0,23.0,0.287,0.387,0.55,1.1,Batter,,,,,Detroit Tigers
+Miguel Andujar,- - -,Batter,30,94,341.0,10.0,44.0,0.318,0.352,0.47,1.1,Batter,,,,,- - -
+Alex Jackson,BAL,Batter,29,37,100.0,5.0,8.0,0.22,0.29,0.473,1.1,Batter,,,,,Baltimore Orioles
+Noelvi Marte,CIN,Batter,23,90,360.0,14.0,51.0,0.263,0.3,0.448,1.1,Batter,,,,,Cincinnati Reds
+Tyler Stephenson,CIN,Batter,28,88,342.0,13.0,50.0,0.231,0.316,0.421,1.1,Batter,,,,,Cincinnati Reds
+Heliot Ramos,SFG,Batter,25,157,695.0,21.0,69.0,0.256,0.328,0.4,1.1,Batter,,,,,San Francisco Giants
+Bryan Reynolds,PIT,Batter,30,154,654.0,16.0,73.0,0.245,0.318,0.402,1.1,Batter,,,,,Pittsburgh Pirates
+Christian Walker,HOU,Batter,34,154,640.0,27.0,88.0,0.238,0.297,0.421,1.1,Batter,,,,,Houston Astros
+Ramon Urias,- - -,Batter,31,112,391.0,11.0,44.0,0.241,0.292,0.384,1.1,Batter,,,,,- - -
+Kyle Isbel,KCR,Batter,28,135,409.0,4.0,33.0,0.255,0.301,0.353,1.1,Batter,,,,,Kansas City Royals
+Gabriel Arias,CLE,Batter,25,129,471.0,11.0,54.0,0.22,0.274,0.363,1.1,Batter,,,,,Cleveland Guardians
+Austin Wynns,- - -,Batter,34,40,110.0,6.0,21.0,0.291,0.321,0.544,1.0,Batter,,,,,- - -
+Rob Refsnyder,BOS,Batter,34,70,209.0,9.0,30.0,0.269,0.354,0.484,1.0,Batter,,,,,Boston Red Sox
+Austin Martin,MIN,Batter,26,50,181.0,1.0,7.0,0.282,0.374,0.365,1.0,Batter,,,,,Minnesota Twins
+Spencer Steer,CIN,Batter,27,146,568.0,21.0,75.0,0.238,0.312,0.411,1.0,Batter,,,,,Cincinnati Reds
+Blaze Alexander,ARI,Batter,26,74,266.0,7.0,28.0,0.23,0.323,0.383,1.0,Batter,,,,,Arizona Diamondbacks
+Jesus Sanchez,- - -,Batter,27,134,497.0,14.0,48.0,0.237,0.304,0.395,1.0,Batter,,,,,- - -
+Liam Hicks,MIA,Batter,26,119,390.0,6.0,45.0,0.247,0.346,0.346,1.0,Batter,,,,,Miami Marlins
+Kyle Higashioka,TEX,Batter,35,94,327.0,11.0,47.0,0.241,0.291,0.403,1.0,Batter,,,,,Texas Rangers
+Graham Pauley,MIA,Batter,24,62,184.0,4.0,11.0,0.224,0.311,0.366,1.0,Batter,,,,,Miami Marlins
+Cam Smith,HOU,Batter,22,134,493.0,9.0,51.0,0.236,0.312,0.358,1.0,Batter,,,,,Houston Astros
+Royce Lewis,MIN,Batter,26,106,403.0,13.0,52.0,0.237,0.283,0.388,1.0,Batter,,,,,Minnesota Twins
+Anthony Volpe,NYY,Batter,24,153,596.0,19.0,72.0,0.212,0.272,0.391,1.0,Batter,,,,,New York Yankees
+Nick Fortes,- - -,Batter,28,97,242.0,5.0,21.0,0.229,0.296,0.349,1.0,Batter,,,,,- - -
+Freddy Fermin,- - -,Batter,30,109,347.0,5.0,26.0,0.251,0.297,0.339,1.0,Batter,,,,,- - -
+Andres Gimenez,TOR,Batter,26,101,369.0,7.0,35.0,0.21,0.285,0.313,1.0,Batter,,,,,Toronto Blue Jays
+Jacob Young,WSN,Batter,25,120,364.0,2.0,31.0,0.231,0.296,0.287,1.0,Batter,,,,,Washington Nationals
+Rhys Hoskins,MIL,Batter,32,90,328.0,12.0,43.0,0.237,0.332,0.416,0.9,Batter,,,,,Milwaukee Brewers
+Alex Call,- - -,Batter,30,110,322.0,5.0,31.0,0.267,0.361,0.385,0.9,Batter,,,,,- - -
+Jordan Beck,COL,Batter,24,148,588.0,16.0,53.0,0.258,0.317,0.416,0.9,Batter,,,,,Colorado Rockies
+Luis Arraez,SDP,Batter,28,154,675.0,8.0,61.0,0.292,0.327,0.392,0.9,Batter,,,,,San Diego Padres
+Ty France,- - -,Batter,30,138,490.0,7.0,52.0,0.257,0.32,0.36,0.9,Batter,,,,,- - -
+Nolan Arenado,STL,Batter,34,107,436.0,12.0,52.0,0.237,0.289,0.377,0.9,Batter,,,,,St. Louis Cardinals
+Nick Gonzales,PIT,Batter,26,96,408.0,5.0,30.0,0.26,0.299,0.362,0.9,Batter,,,,,Pittsburgh Pirates
+Miguel Amaya,CHC,Batter,26,28,103.0,4.0,25.0,0.281,0.314,0.5,0.8,Batter,,,,,Chicago Cubs
+Jeremiah Jackson,BAL,Batter,25,48,183.0,5.0,21.0,0.276,0.328,0.447,0.8,Batter,,,,,Baltimore Orioles
+Jake Bauers,MIL,Batter,29,86,218.0,7.0,28.0,0.235,0.353,0.399,0.8,Batter,,,,,Milwaukee Brewers
+Paul Goldschmidt,NYY,Batter,37,146,534.0,10.0,45.0,0.274,0.328,0.403,0.8,Batter,,,,,New York Yankees
+Victor Caratini,HOU,Batter,31,114,386.0,12.0,46.0,0.259,0.324,0.404,0.8,Batter,,,,,Houston Astros
+Leo Rivas,SEA,Batter,27,48,111.0,2.0,9.0,0.244,0.387,0.333,0.8,Batter,,,,,Seattle Mariners
+Lourdes Gurriel Jr.,ARI,Batter,31,129,546.0,19.0,80.0,0.248,0.295,0.418,0.8,Batter,,,,,Arizona Diamondbacks
+Hyeseong Kim,LAD,Batter,26,71,170.0,3.0,17.0,0.28,0.314,0.385,0.8,Batter,,,,,Los Angeles Dodgers
+Nasim Nunez,WSN,Batter,24,39,92.0,4.0,13.0,0.232,0.297,0.402,0.8,Batter,,,,,Washington Nationals
+Ezequiel Tovar,COL,Batter,23,95,390.0,9.0,33.0,0.253,0.294,0.4,0.8,Batter,,,,,Colorado Rockies
+Reese McGuire,CHC,Batter,30,45,140.0,9.0,24.0,0.226,0.245,0.444,0.8,Batter,,,,,Chicago Cubs
+Lars Nootbaar,STL,Batter,27,135,583.0,13.0,48.0,0.234,0.325,0.361,0.8,Batter,,,,,St. Louis Cardinals
+Tyrone Taylor,NYM,Batter,31,113,341.0,2.0,27.0,0.223,0.279,0.319,0.8,Batter,,,,,New York Mets
+Carter Jensen,KCR,Batter,21,20,69.0,3.0,13.0,0.3,0.391,0.55,0.7,Batter,,,,,Kansas City Royals
+Joey Loperfido,TOR,Batter,26,41,104.0,4.0,14.0,0.333,0.379,0.5,0.7,Batter,,,,,Toronto Blue Jays
+Carlos Cortes,ATH,Batter,28,42,99.0,4.0,14.0,0.309,0.323,0.543,0.7,Batter,,,,,ATH
+Bryce Johnson,SDP,Batter,29,55,84.0,1.0,8.0,0.342,0.383,0.434,0.7,Batter,,,,,San Diego Padres
+Pavin Smith,ARI,Batter,29,87,288.0,8.0,28.0,0.258,0.362,0.434,0.7,Batter,,,,,Arizona Diamondbacks
+Yoan Moncada,LAA,Batter,30,84,289.0,12.0,35.0,0.234,0.336,0.448,0.7,Batter,,,,,Los Angeles Angels
+Dylan Beavers,BAL,Batter,23,35,137.0,4.0,14.0,0.227,0.375,0.4,0.7,Batter,,,,,Baltimore Orioles
+Andruw Monasterio,MIL,Batter,28,68,135.0,4.0,16.0,0.27,0.319,0.437,0.7,Batter,,,,,Milwaukee Brewers
+James McCann,ARI,Batter,35,42,137.0,5.0,17.0,0.26,0.324,0.431,0.7,Batter,,,,,Arizona Diamondbacks
+Starling Marte,NYM,Batter,36,98,329.0,9.0,34.0,0.27,0.335,0.41,0.7,Batter,,,,,New York Mets
+Casey Schmitt,SFG,Batter,26,95,348.0,12.0,40.0,0.237,0.305,0.401,0.7,Batter,,,,,San Francisco Giants
+Luis Garcia Jr.,WSN,Batter,25,139,526.0,16.0,66.0,0.252,0.289,0.412,0.7,Batter,,,,,Washington Nationals
+Adam Frazier,- - -,Batter,33,134,459.0,7.0,44.0,0.267,0.319,0.365,0.7,Batter,,,,,- - -
+Javier Sanoja,MIA,Batter,22,120,342.0,6.0,38.0,0.243,0.287,0.396,0.7,Batter,,,,,Miami Marlins
+Eli White,ATL,Batter,31,105,271.0,10.0,35.0,0.234,0.27,0.406,0.7,Batter,,,,,Atlanta Braves
+Chandler Simpson,TBR,Batter,24,109,441.0,0.0,26.0,0.295,0.326,0.345,0.7,Batter,,,,,Tampa Bay Rays
+Adolis Garcia,TEX,Batter,32,135,547.0,19.0,75.0,0.227,0.271,0.394,0.7,Batter,,,,,Texas Rangers
+Ronny Mauricio,NYM,Batter,24,61,184.0,6.0,10.0,0.226,0.293,0.369,0.7,Batter,,,,,New York Mets
+Isiah Kiner-Falefa,- - -,Batter,30,138,459.0,2.0,40.0,0.262,0.297,0.334,0.7,Batter,,,,,- - -
+Derek Hill,- - -,Batter,29,57,149.0,3.0,11.0,0.216,0.281,0.328,0.7,Batter,,,,,- - -
+Nick Allen,ATL,Batter,26,135,416.0,0.0,22.0,0.221,0.284,0.251,0.7,Batter,,,,,Atlanta Braves
+Mickey Moniak,COL,Batter,27,135,461.0,24.0,68.0,0.27,0.306,0.518,0.6,Batter,,,,,Colorado Rockies
+Jonny DeLuca,TBR,Batter,26,20,59.0,0.0,4.0,0.333,0.356,0.456,0.6,Batter,,,,,Tampa Bay Rays
+Drew Millas,WSN,Batter,27,18,55.0,0.0,7.0,0.306,0.358,0.449,0.6,Batter,,,,,Washington Nationals
+Jose Fermin,STL,Batter,26,30,70.0,1.0,9.0,0.283,0.377,0.417,0.6,Batter,,,,,St. Louis Cardinals
+Michael Helman,TEX,Batter,29,38,110.0,5.0,20.0,0.232,0.29,0.455,0.6,Batter,,,,,Texas Rangers
+Teoscar Hernandez,LAD,Batter,32,134,546.0,25.0,89.0,0.247,0.284,0.454,0.6,Batter,,,,,Los Angeles Dodgers
+Jasson Dominguez,NYY,Batter,22,123,429.0,10.0,47.0,0.257,0.331,0.388,0.6,Batter,,,,,New York Yankees
+Andrew Vaughn,- - -,Batter,27,112,447.0,14.0,65.0,0.254,0.307,0.411,0.6,Batter,,,,,- - -
+Max Kepler,PHI,Batter,32,127,474.0,18.0,52.0,0.216,0.3,0.391,0.6,Batter,,,,,Philadelphia Phillies
+Willi Castro,- - -,Batter,28,120,454.0,11.0,33.0,0.226,0.313,0.366,0.6,Batter,,,,,- - -
+Colton Cowser,BAL,Batter,25,92,360.0,16.0,40.0,0.196,0.269,0.385,0.6,Batter,,,,,Baltimore Orioles
+Matt Thaiss,- - -,Batter,30,60,190.0,1.0,16.0,0.218,0.349,0.288,0.6,Batter,,,,,- - -
+Max Schuemann,ATH,Batter,28,101,213.0,2.0,13.0,0.197,0.295,0.273,0.6,Batter,,,,,ATH
+Bryce Teodosio,LAA,Batter,26,50,150.0,1.0,7.0,0.203,0.248,0.304,0.6,Batter,,,,,Los Angeles Angels
+Zach Cole,HOU,Batter,24,15,52.0,4.0,11.0,0.255,0.327,0.553,0.5,Batter,,,,,Houston Astros
+Yordan Alvarez,HOU,Batter,28,48,199.0,6.0,27.0,0.273,0.367,0.43,0.5,Batter,,,,,Houston Astros
+Salvador Perez,KCR,Batter,35,155,641.0,30.0,100.0,0.236,0.284,0.446,0.5,Batter,,,,,Kansas City Royals
+Connor Norby,MIA,Batter,25,88,337.0,8.0,34.0,0.251,0.3,0.389,0.5,Batter,,,,,Miami Marlins
+Christian Koss,SFG,Batter,27,76,191.0,3.0,23.0,0.264,0.309,0.368,0.5,Batter,,,,,San Francisco Giants
+Alek Thomas,ARI,Batter,25,143,469.0,9.0,38.0,0.249,0.289,0.37,0.5,Batter,,,,,Arizona Diamondbacks
+Thomas Saggese,STL,Batter,23,82,295.0,2.0,25.0,0.258,0.299,0.342,0.5,Batter,,,,,St. Louis Cardinals
+J.C. Escarra,NYY,Batter,30,40,98.0,2.0,11.0,0.202,0.296,0.333,0.5,Batter,,,,,New York Yankees
+Sal Stewart,CIN,Batter,21,18,58.0,5.0,8.0,0.255,0.293,0.545,0.4,Batter,,,,,Cincinnati Reds
+Dominic Smith,SFG,Batter,30,63,225.0,5.0,33.0,0.284,0.333,0.417,0.4,Batter,,,,,San Francisco Giants
+Amed Rosario,- - -,Batter,29,63,191.0,6.0,23.0,0.276,0.309,0.436,0.4,Batter,,,,,- - -
+Joey Wiemer,MIA,Batter,26,27,61.0,3.0,12.0,0.236,0.279,0.436,0.4,Batter,,,,,Miami Marlins
+Mark Vientos,NYM,Batter,25,121,463.0,17.0,61.0,0.233,0.289,0.413,0.4,Batter,,,,,New York Mets
+Brett Harris,ATH,Batter,27,32,84.0,0.0,5.0,0.274,0.349,0.342,0.4,Batter,,,,,ATH
+Marcelo Mayer,BOS,Batter,22,44,136.0,4.0,10.0,0.228,0.272,0.402,0.4,Batter,,,,,Boston Red Sox
+Andy Ibanez,DET,Batter,32,91,193.0,4.0,21.0,0.239,0.301,0.352,0.4,Batter,,,,,Detroit Tigers
+Brenton Doyle,COL,Batter,27,138,538.0,15.0,57.0,0.233,0.274,0.376,0.4,Batter,,,,,Colorado Rockies
+Blake Perkins,MIL,Batter,28,54,171.0,3.0,19.0,0.226,0.298,0.348,0.4,Batter,,,,,Milwaukee Brewers
+Kyren Paris,LAA,Batter,23,44,140.0,6.0,11.0,0.19,0.266,0.381,0.4,Batter,,,,,Los Angeles Angels
+Brayan Rocchio,CLE,Batter,24,115,383.0,5.0,44.0,0.233,0.29,0.34,0.4,Batter,,,,,Cleveland Guardians
+Elias Diaz,SDP,Batter,34,106,283.0,9.0,29.0,0.204,0.27,0.337,0.4,Batter,,,,,San Diego Padres
+Ben Williamson,SEA,Batter,24,85,295.0,1.0,21.0,0.253,0.294,0.31,0.4,Batter,,,,,Seattle Mariners
+Garrett Mitchell,MIL,Batter,26,25,78.0,0.0,3.0,0.206,0.286,0.294,0.4,Batter,,,,,Milwaukee Brewers
+Johan Rojas,PHI,Batter,24,71,172.0,1.0,18.0,0.224,0.28,0.289,0.4,Batter,,,,,Philadelphia Phillies
+Luisangel Acuna,NYM,Batter,23,95,193.0,0.0,8.0,0.234,0.293,0.274,0.4,Batter,,,,,New York Mets
+Moises Ballesteros,CHC,Batter,21,20,66.0,2.0,11.0,0.298,0.394,0.474,0.3,Batter,,,,,Chicago Cubs
+Ryan Fitzgerald,MIN,Batter,31,24,53.0,4.0,9.0,0.196,0.302,0.457,0.3,Batter,,,,,Minnesota Twins
+Dominic Fletcher,CHW,Batter,27,12,34.0,1.0,2.0,0.219,0.265,0.469,0.3,Batter,,,,,Chicago White Sox
+Nate Eaton,BOS,Batter,28,41,90.0,1.0,4.0,0.296,0.348,0.383,0.3,Batter,,,,,Boston Red Sox
+Gavin Lux,CIN,Batter,27,140,503.0,5.0,53.0,0.269,0.35,0.374,0.3,Batter,,,,,Cincinnati Reds
+Jake Fraley,- - -,Batter,30,76,217.0,6.0,23.0,0.241,0.332,0.382,0.3,Batter,,,,,- - -
+Luke Maile,KCR,Batter,34,25,54.0,1.0,6.0,0.244,0.346,0.356,0.3,Batter,,,,,Kansas City Royals
+Tyler Tolbert,KCR,Batter,27,64,57.0,1.0,6.0,0.28,0.321,0.38,0.3,Batter,,,,,Kansas City Royals
+DJ LeMahieu,NYY,Batter,36,45,142.0,2.0,12.0,0.266,0.338,0.336,0.3,Batter,,,,,New York Yankees
+Brooks Lee,MIN,Batter,24,139,527.0,16.0,64.0,0.236,0.285,0.37,0.3,Batter,,,,,Minnesota Twins
+Ha-seong Kim,- - -,Batter,29,48,191.0,5.0,17.0,0.234,0.304,0.345,0.3,Batter,,,,,- - -
+Eric Haase,MIL,Batter,32,30,77.0,2.0,9.0,0.229,0.289,0.357,0.3,Batter,,,,,Milwaukee Brewers
+Carlos Santana,- - -,Batter,39,124,474.0,11.0,54.0,0.219,0.308,0.325,0.3,Batter,,,,,- - -
+Jose Trevino,CIN,Batter,32,94,302.0,4.0,22.0,0.238,0.272,0.351,0.3,Batter,,,,,Cincinnati Reds
+Miles Mastrobuoni,SEA,Batter,29,76,175.0,1.0,12.0,0.25,0.324,0.296,0.3,Batter,,,,,Seattle Mariners
+Kameron Misner,TBR,Batter,27,71,217.0,5.0,22.0,0.213,0.273,0.345,0.3,Batter,,,,,Tampa Bay Rays
+Jake Rogers,DET,Batter,30,49,142.0,3.0,19.0,0.187,0.277,0.333,0.3,Batter,,,,,Detroit Tigers
+Alex Freeland,LAD,Batter,23,29,97.0,2.0,6.0,0.19,0.292,0.31,0.3,Batter,,,,,Los Angeles Dodgers
+Taylor Walls,TBR,Batter,28,101,317.0,4.0,38.0,0.22,0.28,0.319,0.3,Batter,,,,,Tampa Bay Rays
+Rafael Marchan,PHI,Batter,26,42,118.0,2.0,13.0,0.21,0.282,0.305,0.3,Batter,,,,,Philadelphia Phillies
+Brandon Lockridge,- - -,Batter,28,67,148.0,0.0,11.0,0.231,0.276,0.299,0.3,Batter,,,,,- - -
+Christian Vazquez,MIN,Batter,34,65,214.0,3.0,14.0,0.189,0.271,0.274,0.3,Batter,,,,,Minnesota Twins
+Brewer Hicklen,DET,Batter,29,1,4.0,0.0,0.0,0.667,0.75,0.667,0.2,Batter,,,,,Detroit Tigers
+Korey Lee,CHW,Batter,26,26,40.0,1.0,3.0,0.257,0.333,0.429,0.2,Batter,,,,,Chicago White Sox
+Troy Johnston,MIA,Batter,28,44,121.0,4.0,13.0,0.277,0.331,0.42,0.2,Batter,,,,,Miami Marlins
+Andrew Benintendi,CHW,Batter,30,116,470.0,20.0,63.0,0.24,0.307,0.431,0.2,Batter,,,,,Chicago White Sox
+Trevor Larnach,MIN,Batter,28,142,567.0,17.0,60.0,0.25,0.323,0.404,0.2,Batter,,,,,Minnesota Twins
+C.J. Kayfus,CLE,Batter,23,44,138.0,4.0,19.0,0.22,0.292,0.415,0.2,Batter,,,,,Cleveland Guardians
+Tommy Pham,PIT,Batter,37,120,449.0,10.0,52.0,0.245,0.33,0.37,0.2,Batter,,,,,Pittsburgh Pirates
+Sam Haggerty,TEX,Batter,31,64,182.0,2.0,13.0,0.253,0.328,0.37,0.2,Batter,,,,,Texas Rangers
+Coby Mayo,BAL,Batter,23,85,294.0,11.0,28.0,0.217,0.299,0.388,0.2,Batter,,,,,Baltimore Orioles
+Ildemaro Vargas,ARI,Batter,33,38,121.0,3.0,19.0,0.27,0.292,0.383,0.2,Batter,,,,,Arizona Diamondbacks
+Christian Moore,LAA,Batter,22,53,184.0,7.0,16.0,0.198,0.284,0.37,0.2,Batter,,,,,Los Angeles Angels
+Paul DeJong,WSN,Batter,31,57,208.0,6.0,23.0,0.228,0.269,0.373,0.2,Batter,,,,,Washington Nationals
+Yohel Pozo,STL,Batter,28,67,168.0,5.0,19.0,0.231,0.262,0.375,0.2,Batter,,,,,St. Louis Cardinals
+Luke Raley,SEA,Batter,30,73,219.0,4.0,19.0,0.202,0.319,0.311,0.2,Batter,,,,,Seattle Mariners
+Dylan Crews,WSN,Batter,23,85,322.0,10.0,27.0,0.208,0.28,0.352,0.2,Batter,,,,,Washington Nationals
+Nacho Alvarez Jr.,ATL,Batter,22,58,208.0,2.0,15.0,0.234,0.296,0.33,0.2,Batter,,,,,Atlanta Braves
+Parker Meadows,DET,Batter,25,58,213.0,4.0,16.0,0.215,0.291,0.33,0.2,Batter,,,,,Detroit Tigers
+Andrew Knizner,SFG,Batter,30,33,88.0,1.0,5.0,0.221,0.299,0.299,0.2,Batter,,,,,San Francisco Giants
+Nathan Church,STL,Batter,24,27,65.0,1.0,8.0,0.179,0.254,0.25,0.2,Batter,,,,,St. Louis Cardinals
+Ryne Nelson,ARI,Batter,27,34,1.0,0.0,1.0,1.0,1.0,1.0,0.1,Batter,,,,,Arizona Diamondbacks
+Trey Lipscomb,WSN,Batter,25,3,4.0,0.0,0.0,0.5,0.5,0.5,0.1,Batter,,,,,Washington Nationals
+Brian Navarreto,MIA,Batter,30,8,15.0,1.0,5.0,0.286,0.267,0.643,0.1,Batter,,,,,Miami Marlins
+Richie Palacios,TBR,Batter,28,17,48.0,1.0,3.0,0.333,0.396,0.452,0.1,Batter,,,,,Tampa Bay Rays
+Petey Halpin,CLE,Batter,23,6,8.0,0.0,0.0,0.333,0.5,0.333,0.1,Batter,,,,,Cleveland Guardians
+Kevin Alcantara,CHC,Batter,22,10,12.0,0.0,1.0,0.364,0.417,0.364,0.1,Batter,,,,,Chicago Cubs
+George Valera,CLE,Batter,24,16,48.0,2.0,5.0,0.22,0.333,0.415,0.1,Batter,,,,,Cleveland Guardians
+Josh Bell,WSN,Batter,32,140,533.0,22.0,63.0,0.237,0.325,0.417,0.1,Batter,,,,,Washington Nationals
+Rowdy Tellez,- - -,Batter,30,112,312.0,17.0,49.0,0.228,0.276,0.443,0.1,Batter,,,,,- - -
+Tomas Nido,DET,Batter,31,11,37.0,0.0,2.0,0.343,0.361,0.343,0.1,Batter,,,,,Detroit Tigers
+Tristan Gray,TBR,Batter,29,30,86.0,3.0,9.0,0.231,0.282,0.41,0.1,Batter,,,,,Tampa Bay Rays
+Zach Dezenzo,HOU,Batter,25,34,109.0,2.0,10.0,0.245,0.321,0.367,0.1,Batter,,,,,Houston Astros
+Brice Matthews,HOU,Batter,23,13,47.0,4.0,9.0,0.167,0.222,0.452,0.1,Batter,,,,,Houston Astros
+Jhonny Pereda,- - -,Batter,29,30,78.0,0.0,4.0,0.246,0.325,0.333,0.1,Batter,,,,,- - -
+Enmanuel Valdez,PIT,Batter,26,31,102.0,2.0,12.0,0.209,0.294,0.363,0.1,Batter,,,,,Pittsburgh Pirates
+Luis Urias,ATH,Batter,28,96,330.0,8.0,25.0,0.23,0.315,0.338,0.1,Batter,,,,,ATH
+Liover Peguero,PIT,Batter,24,33,88.0,4.0,8.0,0.2,0.273,0.363,0.1,Batter,,,,,Pittsburgh Pirates
+Nick Loftin,KCR,Batter,26,67,188.0,4.0,20.0,0.208,0.278,0.357,0.1,Batter,,,,,Kansas City Royals
+Ryan Ritter,COL,Batter,24,60,207.0,1.0,18.0,0.241,0.296,0.337,0.1,Batter,,,,,Colorado Rockies
+Oswaldo Cabrera,NYY,Batter,26,34,122.0,1.0,11.0,0.243,0.322,0.308,0.1,Batter,,,,,New York Yankees
+Curtis Mead,- - -,Batter,24,90,264.0,3.0,19.0,0.233,0.299,0.321,0.1,Batter,,,,,- - -
+Vidal Brujan,- - -,Batter,27,61,95.0,0.0,8.0,0.253,0.305,0.31,0.1,Batter,,,,,- - -
+Bobby Dalbec,CHW,Batter,30,7,21.0,0.0,1.0,0.222,0.333,0.278,0.1,Batter,,,,,Chicago White Sox
+Tyler Fitzgerald,SFG,Batter,27,72,243.0,4.0,14.0,0.217,0.278,0.327,0.1,Batter,,,,,San Francisco Giants
+Drew Gilbert,SFG,Batter,24,39,109.0,3.0,13.0,0.19,0.248,0.35,0.1,Batter,,,,,San Francisco Giants
+John Rave,KCR,Batter,27,72,175.0,4.0,14.0,0.196,0.283,0.307,0.1,Batter,,,,,Kansas City Royals
+David Hamilton,BOS,Batter,27,91,194.0,6.0,19.0,0.198,0.257,0.333,0.1,Batter,,,,,Boston Red Sox
+Jerar Encarnacion,SFG,Batter,27,19,56.0,2.0,7.0,0.2,0.214,0.364,0.1,Batter,,,,,San Francisco Giants
+Blake Dunn,CIN,Batter,26,30,75.0,1.0,7.0,0.15,0.32,0.233,0.1,Batter,,,,,Cincinnati Reds
+Brett Sullivan,PIT,Batter,31,3,9.0,0.0,2.0,0.167,0.333,0.167,0.1,Batter,,,,,Pittsburgh Pirates
+Tim Anderson,LAA,Batter,32,31,90.0,0.0,3.0,0.205,0.258,0.241,0.1,Batter,,,,,Los Angeles Angels
+Steward Berroa,MIL,Batter,26,2,6.0,0.0,0.0,0.0,0.167,0.0,0.1,Batter,,,,,Milwaukee Brewers
+Tyler Black,MIL,Batter,24,5,13.0,0.0,1.0,0.25,0.538,0.375,0.0,Batter,,,,,Milwaukee Brewers
+Rob Brantly,MIA,Batter,35,3,7.0,0.0,1.0,0.429,0.429,0.429,0.0,Batter,,,,,Miami Marlins
+Sam Hilliard,COL,Batter,31,20,61.0,2.0,3.0,0.196,0.328,0.412,0.0,Batter,,,,,Colorado Rockies
+Griffin Conine,MIA,Batter,27,24,86.0,2.0,8.0,0.253,0.314,0.418,0.0,Batter,,,,,Miami Marlins
+Jared Young,NYM,Batter,29,23,47.0,4.0,6.0,0.186,0.234,0.488,0.0,Batter,,,,,New York Mets
+Will Benson,CIN,Batter,27,90,253.0,12.0,41.0,0.226,0.273,0.435,0.0,Batter,,,,,Cincinnati Reds
+Agustin Ramirez,MIA,Batter,23,136,585.0,21.0,67.0,0.231,0.287,0.413,0.0,Batter,,,,,Miami Marlins
+Luken Baker,STL,Batter,28,19,41.0,0.0,2.0,0.235,0.366,0.324,0.0,Batter,,,,,St. Louis Cardinals
+Omar Narvaez,CHW,Batter,33,4,10.0,0.0,3.0,0.286,0.4,0.286,0.0,Batter,,,,,Chicago White Sox
+Colby Thomas,ATH,Batter,24,49,132.0,6.0,19.0,0.225,0.267,0.417,0.0,Batter,,,,,ATH
+Adrian Del Castillo,ARI,Batter,25,44,131.0,4.0,17.0,0.242,0.29,0.392,0.0,Batter,,,,,Arizona Diamondbacks
+Zack Short,HOU,Batter,30,22,56.0,2.0,7.0,0.22,0.291,0.38,0.0,Batter,,,,,Houston Astros
+Jose Tena,WSN,Batter,24,50,169.0,0.0,16.0,0.243,0.314,0.355,0.0,Batter,,,,,Washington Nationals
+Billy Cook,PIT,Batter,26,3,6.0,0.0,0.0,0.333,0.333,0.333,0.0,Batter,,,,,Pittsburgh Pirates
+Justyn-Henry Malloy,DET,Batter,25,52,127.0,1.0,17.0,0.221,0.346,0.308,0.0,Batter,,,,,Detroit Tigers
+Corey Julks,CHW,Batter,29,6,13.0,0.0,1.0,0.25,0.231,0.417,0.0,Batter,,,,,Chicago White Sox
+Austin Slater,- - -,Batter,32,65,160.0,5.0,13.0,0.216,0.27,0.372,0.0,Batter,,,,,- - -
+Victor Mesa Jr.,MIA,Batter,23,16,38.0,1.0,6.0,0.188,0.297,0.344,0.0,Batter,,,,,Miami Marlins
+Mitch Garver,SEA,Batter,34,87,290.0,9.0,30.0,0.209,0.297,0.343,0.0,Batter,,,,,Seattle Mariners
+Donovan Solano,- - -,Batter,37,71,179.0,3.0,21.0,0.247,0.291,0.337,0.0,Batter,,,,,- - -
+Rafael Flores,PIT,Batter,24,7,17.0,0.0,0.0,0.2,0.294,0.333,0.0,Batter,,,,,Pittsburgh Pirates
+Luis Rengifo,LAA,Batter,28,147,541.0,9.0,43.0,0.238,0.287,0.335,0.0,Batter,,,,,Los Angeles Angels
+Tim Tawa,ARI,Batter,26,74,225.0,7.0,18.0,0.201,0.274,0.347,0.0,Batter,,,,,Arizona Diamondbacks
+Jhostynxon Garcia,BOS,Batter,22,5,9.0,0.0,0.0,0.143,0.333,0.286,0.0,Batter,,,,,Boston Red Sox
+Gustavo Campero,LAA,Batter,27,28,66.0,3.0,8.0,0.172,0.273,0.345,0.0,Batter,,,,,Los Angeles Angels
+Matt Vierling,DET,Batter,28,31,100.0,1.0,11.0,0.239,0.31,0.307,0.0,Batter,,,,,Detroit Tigers
+Dane Myers,MIA,Batter,29,106,333.0,6.0,31.0,0.235,0.291,0.326,0.0,Batter,,,,,Miami Marlins
+Keston Hiura,COL,Batter,28,8,21.0,0.0,1.0,0.222,0.333,0.278,0.0,Batter,,,,,Colorado Rockies
+Cesar Salazar,HOU,Batter,29,11,16.0,0.0,1.0,0.231,0.375,0.231,0.0,Batter,,,,,Houston Astros
+Stuart Fairchild,ATL,Batter,29,28,55.0,0.0,2.0,0.216,0.273,0.333,0.0,Batter,,,,,Atlanta Braves
+Ryan Bliss,SEA,Batter,25,11,39.0,1.0,3.0,0.2,0.282,0.314,0.0,Batter,,,,,Seattle Mariners
+Esteury Ruiz,LAD,Batter,26,19,23.0,1.0,2.0,0.19,0.261,0.333,0.0,Batter,,,,,Los Angeles Dodgers
+Alejandro Osuna,TEX,Batter,22,63,176.0,2.0,15.0,0.212,0.313,0.278,0.0,Batter,,,,,Texas Rangers
+Kyle Karros,COL,Batter,22,43,156.0,1.0,9.0,0.226,0.308,0.277,0.0,Batter,,,,,Colorado Rockies
+Travis Jankowski,- - -,Batter,34,26,50.0,0.0,2.0,0.244,0.286,0.289,0.0,Batter,,,,,- - -
+Dom Nunez,CLE,Batter,30,2,7.0,0.0,0.0,0.286,0.286,0.286,0.0,Batter,,,,,Cleveland Guardians
+Owen Caissie,CHC,Batter,22,12,27.0,1.0,4.0,0.192,0.222,0.346,0.0,Batter,,,,,Chicago Cubs
+Tucker Barnhart,TEX,Batter,34,8,15.0,0.0,0.0,0.231,0.333,0.231,0.0,Batter,,,,,Texas Rangers
+Ezequiel Duran,TEX,Batter,26,90,219.0,0.0,14.0,0.224,0.266,0.293,0.0,Batter,,,,,Texas Rangers
+Vimael Machin,BAL,Batter,31,4,12.0,1.0,1.0,0.091,0.167,0.364,0.0,Batter,,,,,Baltimore Orioles
+Ali Sanchez,- - -,Batter,28,12,23.0,0.0,0.0,0.217,0.217,0.304,0.0,Batter,,,,,- - -
+David Banuelos,BAL,Batter,28,1,2.0,0.0,0.0,0.0,0.5,0.0,0.0,Batter,,,,,Baltimore Orioles
+Kenedy Corona,HOU,Batter,25,3,4.0,0.0,0.0,0.0,0.5,0.0,0.0,Batter,,,,,Houston Astros
+Bryan Ramos,CHW,Batter,23,4,12.0,0.0,2.0,0.167,0.167,0.333,0.0,Batter,,,,,Chicago White Sox
+Logan Porter,SFG,Batter,29,5,9.0,0.0,1.0,0.143,0.333,0.143,0.0,Batter,,,,,San Francisco Giants
+Michael Stefanic,TOR,Batter,29,9,25.0,0.0,0.0,0.182,0.28,0.182,0.0,Batter,,,,,Toronto Blue Jays
+Mason McCoy,SDP,Batter,30,18,26.0,0.0,1.0,0.136,0.269,0.182,0.0,Batter,,,,,San Diego Padres
+Owen Miller,COL,Batter,28,9,17.0,0.0,1.0,0.143,0.294,0.143,0.0,Batter,,,,,Colorado Rockies
+Harry Ford,SEA,Batter,22,8,8.0,0.0,1.0,0.167,0.25,0.167,0.0,Batter,,,,,Seattle Mariners
+Hayden Senger,NYM,Batter,28,33,78.0,0.0,4.0,0.181,0.221,0.194,0.0,Batter,,,,,New York Mets
+Coco Montes,TBR,Batter,28,5,10.0,0.0,1.0,0.2,0.2,0.2,0.0,Batter,,,,,Tampa Bay Rays
+Akil Baddoo,DET,Batter,26,7,18.0,0.0,1.0,0.118,0.167,0.176,0.0,Batter,,,,,Detroit Tigers
+Luis Guillorme,HOU,Batter,30,12,21.0,0.0,0.0,0.15,0.19,0.15,0.0,Batter,,,,,Houston Astros
+Colin Rea,CHC,Batter,34,32,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Batter,,,,,Chicago Cubs
+Tyler Alexander,- - -,Batter,30,52,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Batter,,,,,- - -
+Garrett Stubbs,PHI,Batter,32,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Batter,,,,,Philadelphia Phillies
+Chuckie Robinson,LAD,Batter,30,1,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Batter,,,,,Los Angeles Dodgers
+Trevor Rogers,BAL,Batter,27,18,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Batter,,,,,Baltimore Orioles
+Terrin Vavra,BAL,Batter,28,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Batter,,,,,Baltimore Orioles
+Justin Dean,LAD,Batter,28,18,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Batter,,,,,Los Angeles Dodgers
+Greg Jones,CHW,Batter,27,3,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Batter,,,,,Chicago White Sox
+Jack Leiter,TEX,Batter,25,30,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Batter,,,,,Texas Rangers
+Shinnosuke Ogasawara,WSN,Batter,27,23,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Batter,,,,,Washington Nationals
+Blaine Crim,- - -,Batter,28,20,74.0,5.0,12.0,0.2,0.27,0.462,-0.1,Batter,,,,,- - -
+Gary Sanchez,BAL,Batter,32,30,101.0,5.0,24.0,0.231,0.297,0.418,-0.1,Batter,,,,,Baltimore Orioles
+Jesse Winker,NYM,Batter,31,26,81.0,1.0,10.0,0.229,0.309,0.4,-0.1,Batter,,,,,New York Mets
+Andrew McCutchen,PIT,Batter,38,135,551.0,13.0,57.0,0.239,0.333,0.367,-0.1,Batter,,,,,Pittsburgh Pirates
+JJ Bleday,ATH,Batter,27,98,344.0,14.0,39.0,0.212,0.294,0.404,-0.1,Batter,,,,,ATH
+Masataka Yoshida,BOS,Batter,31,55,205.0,4.0,26.0,0.266,0.307,0.388,-0.1,Batter,,,,,Boston Red Sox
+Jake Burger,TEX,Batter,29,103,376.0,16.0,53.0,0.236,0.269,0.419,-0.1,Batter,,,,,Texas Rangers
+Maximo Acosta,MIA,Batter,22,19,61.0,3.0,5.0,0.204,0.295,0.389,-0.1,Batter,,,,,Miami Marlins
+Christopher Morel,TBR,Batter,26,105,305.0,11.0,33.0,0.219,0.289,0.396,-0.1,Batter,,,,,Tampa Bay Rays
+Nick Sogard,BOS,Batter,27,30,104.0,0.0,9.0,0.26,0.317,0.344,-0.1,Batter,,,,,Boston Red Sox
+Josh Lowe,TBR,Batter,27,108,435.0,11.0,40.0,0.22,0.283,0.366,-0.1,Batter,,,,,Tampa Bay Rays
+Dylan Moore,- - -,Batter,32,106,243.0,11.0,25.0,0.201,0.267,0.374,-0.1,Batter,,,,,- - -
+Angel Martinez,CLE,Batter,23,139,484.0,11.0,45.0,0.224,0.269,0.359,-0.1,Batter,,,,,Cleveland Guardians
+Michael A. Taylor,CHW,Batter,34,134,325.0,9.0,35.0,0.2,0.259,0.366,-0.1,Batter,,,,,Chicago White Sox
+Enrique Hernandez,LAD,Batter,33,93,256.0,10.0,35.0,0.203,0.255,0.366,-0.1,Batter,,,,,Los Angeles Dodgers
+Manuel Margot,DET,Batter,30,6,20.0,0.0,3.0,0.316,0.3,0.316,-0.1,Batter,,,,,Detroit Tigers
+David Villar,SFG,Batter,28,9,25.0,0.0,1.0,0.2,0.36,0.25,-0.1,Batter,,,,,San Francisco Giants
+Dustin Harris,TEX,Batter,25,19,43.0,1.0,2.0,0.2,0.256,0.35,-0.1,Batter,,,,,Texas Rangers
+Nick Maton,CHW,Batter,28,25,63.0,2.0,4.0,0.167,0.286,0.315,-0.1,Batter,,,,,Chicago White Sox
+Darell Hernaiz,ATH,Batter,23,51,197.0,2.0,16.0,0.231,0.292,0.306,-0.1,Batter,,,,,ATH
+Jose Azocar,- - -,Batter,29,14,21.0,0.0,1.0,0.263,0.333,0.263,-0.1,Batter,,,,,- - -
+Brett Wisely,- - -,Batter,26,26,63.0,1.0,10.0,0.185,0.279,0.315,-0.1,Batter,,,,,- - -
+Jake McCarthy,ARI,Batter,27,67,222.0,4.0,20.0,0.204,0.247,0.345,-0.1,Batter,,,,,Arizona Diamondbacks
+Nick Yorke,PIT,Batter,23,22,72.0,1.0,8.0,0.232,0.264,0.319,-0.1,Batter,,,,,Pittsburgh Pirates
+Dalton Rushing,LAD,Batter,24,53,155.0,4.0,24.0,0.204,0.258,0.324,-0.1,Batter,,,,,Los Angeles Dodgers
+Willie MacIver,ATH,Batter,28,33,111.0,3.0,9.0,0.186,0.252,0.324,-0.1,Batter,,,,,ATH
+Chas McCormick,HOU,Batter,30,66,116.0,1.0,5.0,0.21,0.279,0.29,-0.1,Batter,,,,,Houston Astros
+Alan Roden,- - -,Batter,25,55,153.0,2.0,9.0,0.191,0.261,0.294,-0.1,Batter,,,,,- - -
+Michael Siani,STL,Batter,25,19,19.0,0.0,0.0,0.235,0.316,0.235,-0.1,Batter,,,,,St. Louis Cardinals
+Daniel Johnson,- - -,Batter,29,31,57.0,1.0,1.0,0.189,0.246,0.302,-0.1,Batter,,,,,- - -
+Jonathan Ornelas,- - -,Batter,25,6,10.0,0.0,0.0,0.222,0.3,0.222,-0.1,Batter,,,,,- - -
+Chadwick Tromp,- - -,Batter,30,8,22.0,1.0,1.0,0.143,0.182,0.333,-0.1,Batter,,,,,- - -
+Henry Davis,PIT,Batter,25,87,283.0,7.0,22.0,0.167,0.234,0.278,-0.1,Batter,,,,,Pittsburgh Pirates
+Daz Cameron,MIL,Batter,28,21,42.0,1.0,3.0,0.195,0.214,0.293,-0.1,Batter,,,,,Milwaukee Brewers
+Cal Stevenson,PHI,Batter,28,5,8.0,0.0,1.0,0.25,0.25,0.25,-0.1,Batter,,,,,Philadelphia Phillies
+Dairon Blanco,KCR,Batter,32,9,8.0,0.0,1.0,0.167,0.167,0.333,-0.1,Batter,,,,,Kansas City Royals
+Rhylan Thomas,SEA,Batter,25,3,10.0,0.0,2.0,0.125,0.2,0.25,-0.1,Batter,,,,,Seattle Mariners
+Sandy Leon,ATL,Batter,36,5,12.0,1.0,3.0,0.083,0.083,0.333,-0.1,Batter,,,,,Atlanta Braves
+Jacob Hurtubise,CIN,Batter,27,12,15.0,0.0,0.0,0.083,0.267,0.083,-0.1,Batter,,,,,Cincinnati Reds
+Tyler Callihan,CIN,Batter,25,4,6.0,0.0,1.0,0.167,0.167,0.167,-0.1,Batter,,,,,Cincinnati Reds
+Cesar Prieto,STL,Batter,26,3,6.0,0.0,0.0,0.167,0.167,0.167,-0.1,Batter,,,,,St. Louis Cardinals
+Justin Foscue,TEX,Batter,26,4,9.0,0.0,2.0,0.111,0.111,0.222,-0.1,Batter,,,,,Texas Rangers
+Will Brennan,CLE,Batter,27,6,13.0,0.0,0.0,0.091,0.231,0.091,-0.1,Batter,,,,,Cleveland Guardians
+Eddie Rosario,- - -,Batter,33,5,8.0,0.0,0.0,0.125,0.125,0.125,-0.1,Batter,,,,,- - -
+Donovan Walton,PHI,Batter,31,2,9.0,0.0,1.0,0.125,0.125,0.125,-0.1,Batter,,,,,Philadelphia Phillies
+Samad Taylor,SEA,Batter,26,4,9.0,0.0,0.0,0.125,0.125,0.125,-0.1,Batter,,,,,Seattle Mariners
+Nick Ahmed,TEX,Batter,35,5,10.0,0.0,0.0,0.0,0.1,0.0,-0.1,Batter,,,,,Texas Rangers
+Sergio Alcantara,SFG,Batter,28,1,4.0,0.0,0.0,0.0,0.0,0.0,-0.1,Batter,,,,,San Francisco Giants
+Aramis Garcia,ARI,Batter,32,2,4.0,0.0,0.0,0.0,0.0,0.0,-0.1,Batter,,,,,Arizona Diamondbacks
+Jordyn Adams,BAL,Batter,25,10,5.0,0.0,0.0,0.0,0.0,0.0,-0.1,Batter,,,,,Baltimore Orioles
+C.J. Stubbs,WSN,Batter,28,1,3.0,0.0,0.0,0.0,0.0,0.0,-0.1,Batter,,,,,Washington Nationals
+Drew Romo,COL,Batter,23,3,3.0,0.0,0.0,0.0,0.0,0.0,-0.1,Batter,,,,,Colorado Rockies
+Tsung-Che Cheng,PIT,Batter,23,3,7.0,0.0,0.0,0.0,0.0,0.0,-0.1,Batter,,,,,Pittsburgh Pirates
+Otto Kemp,PHI,Batter,25,62,218.0,8.0,28.0,0.234,0.298,0.411,-0.2,Batter,,,,,Philadelphia Phillies
+Brooks Baldwin,CHW,Batter,24,103,328.0,11.0,38.0,0.24,0.29,0.407,-0.2,Batter,,,,,Chicago White Sox
+Luis Matos,SFG,Batter,23,57,184.0,8.0,22.0,0.221,0.266,0.424,-0.2,Batter,,,,,San Francisco Giants
+Edgar Quero,CHW,Batter,22,111,403.0,5.0,36.0,0.268,0.333,0.356,-0.2,Batter,,,,,Chicago White Sox
+Wilmer Flores,SFG,Batter,33,125,463.0,16.0,71.0,0.241,0.307,0.379,-0.2,Batter,,,,,San Francisco Giants
+Nolan Gorman,STL,Batter,25,111,402.0,14.0,46.0,0.205,0.296,0.37,-0.2,Batter,,,,,St. Louis Cardinals
+Kristian Campbell,BOS,Batter,23,67,263.0,6.0,21.0,0.223,0.319,0.345,-0.2,Batter,,,,,Boston Red Sox
+Taylor Trammell,HOU,Batter,27,52,135.0,3.0,12.0,0.197,0.296,0.333,-0.2,Batter,,,,,Houston Astros
+Jack Winkler,MIA,Batter,26,14,16.0,0.0,0.0,0.25,0.25,0.375,-0.2,Batter,,,,,Miami Marlins
+Victor Robles,SEA,Batter,28,32,114.0,1.0,9.0,0.245,0.281,0.33,-0.2,Batter,,,,,Seattle Mariners
+Sam Huff,SFG,Batter,27,20,58.0,2.0,4.0,0.208,0.259,0.34,-0.2,Batter,,,,,San Francisco Giants
+Jose Iglesias,SDP,Batter,35,112,343.0,3.0,36.0,0.229,0.298,0.294,-0.2,Batter,,,,,San Diego Padres
+Cooper Hummel,- - -,Batter,30,37,105.0,3.0,7.0,0.17,0.298,0.273,-0.2,Batter,,,,,- - -
+Cavan Biggio,KCR,Batter,30,37,83.0,1.0,4.0,0.174,0.296,0.246,-0.2,Batter,,,,,Kansas City Royals
+Jorbit Vivas,NYY,Batter,24,29,66.0,1.0,5.0,0.161,0.266,0.25,-0.2,Batter,,,,,New York Yankees
+Anthony Seigler,MIL,Batter,26,34,73.0,0.0,5.0,0.194,0.292,0.21,-0.2,Batter,,,,,Milwaukee Brewers
+Carter Kieboom,LAA,Batter,27,3,8.0,0.0,1.0,0.25,0.25,0.25,-0.2,Batter,,,,,Los Angeles Angels
+Billy McKinney,TEX,Batter,30,6,21.0,0.0,1.0,0.2,0.238,0.25,-0.2,Batter,,,,,Texas Rangers
+Gage Workman,- - -,Batter,25,12,17.0,0.0,2.0,0.188,0.235,0.25,-0.2,Batter,,,,,- - -
+Bryce Eldridge,SFG,Batter,20,10,37.0,0.0,4.0,0.107,0.297,0.179,-0.2,Batter,,,,,San Francisco Giants
+Jose Barrero,STL,Batter,27,22,31.0,1.0,3.0,0.138,0.194,0.276,-0.2,Batter,,,,,St. Louis Cardinals
+Luis Vazquez,BAL,Batter,25,36,53.0,1.0,3.0,0.16,0.208,0.24,-0.2,Batter,,,,,Baltimore Orioles
+Sebastian Rivero,LAA,Batter,26,11,34.0,0.0,2.0,0.182,0.206,0.242,-0.2,Batter,,,,,Los Angeles Angels
+Garrett Hampson,- - -,Batter,30,62,91.0,0.0,1.0,0.143,0.25,0.169,-0.2,Batter,,,,,- - -
+Blake Sabol,BOS,Batter,27,8,18.0,0.0,1.0,0.125,0.167,0.188,-0.2,Batter,,,,,Boston Red Sox
+Connor Kaiser,ARI,Batter,28,11,19.0,0.0,2.0,0.111,0.158,0.167,-0.2,Batter,,,,,Arizona Diamondbacks
+Ji Hwan Bae,PIT,Batter,25,13,25.0,0.0,0.0,0.05,0.24,0.05,-0.2,Batter,,,,,Pittsburgh Pirates
+Ryan Vilade,- - -,Batter,26,8,15.0,0.0,0.0,0.077,0.2,0.077,-0.2,Batter,,,,,- - -
+Tirso Ornelas,SDP,Batter,25,7,16.0,0.0,1.0,0.071,0.188,0.071,-0.2,Batter,,,,,San Diego Padres
+Jon Singleton,HOU,Batter,33,3,9.0,0.0,0.0,0.111,0.111,0.111,-0.2,Batter,,,,,Houston Astros
+J.D. Davis,LAA,Batter,32,5,9.0,0.0,0.0,0.111,0.111,0.111,-0.2,Batter,,,,,Los Angeles Angels
+Will Banfield,CIN,Batter,25,7,10.0,0.0,0.0,0.1,0.1,0.1,-0.2,Batter,,,,,Cincinnati Reds
+Matthew Lugo,LAA,Batter,24,31,70.0,4.0,9.0,0.232,0.243,0.464,-0.3,Batter,,,,,Los Angeles Angels
+Nathaniel Lowe,- - -,Batter,29,153,609.0,18.0,84.0,0.228,0.307,0.381,-0.3,Batter,,,,,- - -
+Tyler O'Neill,BAL,Batter,30,54,209.0,9.0,26.0,0.199,0.292,0.392,-0.3,Batter,,,,,Baltimore Orioles
+Jorge Soler,LAA,Batter,33,82,315.0,12.0,34.0,0.215,0.293,0.387,-0.3,Batter,,,,,Los Angeles Angels
+Jonathan India,KCR,Batter,28,136,567.0,9.0,45.0,0.233,0.323,0.346,-0.3,Batter,,,,,Kansas City Royals
+Thairo Estrada,COL,Batter,29,39,165.0,3.0,21.0,0.253,0.285,0.37,-0.3,Batter,,,,,Colorado Rockies
+Cole Young,SEA,Batter,21,77,257.0,4.0,24.0,0.211,0.302,0.305,-0.3,Batter,,,,,Seattle Mariners
+Matt Gorski,PIT,Batter,27,15,42.0,2.0,4.0,0.195,0.214,0.39,-0.3,Batter,,,,,Pittsburgh Pirates
+Will Wagner,- - -,Batter,26,55,149.0,0.0,7.0,0.225,0.324,0.279,-0.3,Batter,,,,,- - -
+Justin Turner,CHC,Batter,40,80,191.0,3.0,18.0,0.219,0.288,0.314,-0.3,Batter,,,,,Chicago Cubs
+Cody Freeman,TEX,Batter,24,36,121.0,3.0,15.0,0.228,0.258,0.342,-0.3,Batter,,,,,Texas Rangers
+Travis d'Arnaud,LAA,Batter,36,69,231.0,6.0,21.0,0.197,0.255,0.343,-0.3,Batter,,,,,Los Angeles Angels
+Jonatan Clase,TOR,Batter,23,34,112.0,2.0,9.0,0.21,0.288,0.3,-0.3,Batter,,,,,Toronto Blue Jays
+Santiago Espinal,CIN,Batter,30,114,328.0,0.0,16.0,0.243,0.292,0.282,-0.3,Batter,,,,,Cincinnati Reds
+Emmanuel Rivera,BAL,Batter,29,43,127.0,0.0,13.0,0.25,0.291,0.283,-0.3,Batter,,,,,Baltimore Orioles
+Brady House,WSN,Batter,22,73,274.0,4.0,29.0,0.234,0.252,0.322,-0.3,Batter,,,,,Washington Nationals
+Carson Williams,TBR,Batter,22,32,106.0,5.0,12.0,0.172,0.219,0.354,-0.3,Batter,,,,,Tampa Bay Rays
+Jorge Alfaro,WSN,Batter,32,14,39.0,0.0,3.0,0.256,0.256,0.308,-0.3,Batter,,,,,Washington Nationals
+Tyler Wade,SDP,Batter,30,60,127.0,0.0,9.0,0.206,0.309,0.252,-0.3,Batter,,,,,San Diego Padres
+Samuel Basallo,BAL,Batter,20,31,118.0,4.0,15.0,0.165,0.229,0.33,-0.3,Batter,,,,,Baltimore Orioles
+Jose Herrera,ARI,Batter,28,58,204.0,2.0,17.0,0.187,0.285,0.259,-0.3,Batter,,,,,Arizona Diamondbacks
+Brendan Rodgers,HOU,Batter,28,43,128.0,2.0,11.0,0.191,0.266,0.278,-0.3,Batter,,,,,Houston Astros
+Bob Seymour,TBR,Batter,26,26,83.0,1.0,5.0,0.205,0.253,0.282,-0.3,Batter,,,,,Tampa Bay Rays
+Austin Barnes,LAD,Batter,35,13,44.0,0.0,2.0,0.214,0.233,0.286,-0.3,Batter,,,,,Los Angeles Dodgers
+Zack Gelof,ATH,Batter,25,30,101.0,2.0,7.0,0.174,0.23,0.272,-0.3,Batter,,,,,ATH
+Oscar Gonzalez,SDP,Batter,27,21,61.0,0.0,4.0,0.22,0.246,0.237,-0.3,Batter,,,,,San Diego Padres
+Kevin Pillar,TEX,Batter,36,20,43.0,0.0,1.0,0.209,0.209,0.256,-0.3,Batter,,,,,Texas Rangers
+Oliver Dunn,MIL,Batter,27,14,41.0,0.0,6.0,0.167,0.205,0.222,-0.3,Batter,,,,,Milwaukee Brewers
+Zac Veen,COL,Batter,23,12,37.0,1.0,2.0,0.118,0.189,0.235,-0.3,Batter,,,,,Colorado Rockies
+Jacob Melton,HOU,Batter,24,32,78.0,0.0,7.0,0.157,0.234,0.186,-0.3,Batter,,,,,Houston Astros
+Aaron Schunk,COL,Batter,27,16,33.0,0.0,0.0,0.188,0.188,0.219,-0.3,Batter,,,,,Colorado Rockies
+Scott Kingery,LAA,Batter,31,19,29.0,0.0,0.0,0.148,0.207,0.185,-0.3,Batter,,,,,Los Angeles Angels
+C.J. Alexander,ATH,Batter,28,6,17.0,0.0,0.0,0.176,0.176,0.176,-0.3,Batter,,,,,ATH
+Shay Whitcomb,HOU,Batter,26,20,32.0,1.0,1.0,0.125,0.125,0.219,-0.3,Batter,,,,,Houston Astros
+Jace Jung,DET,Batter,24,21,55.0,0.0,3.0,0.106,0.236,0.106,-0.3,Batter,,,,,Detroit Tigers
+Leo Jimenez,TOR,Batter,24,18,32.0,1.0,1.0,0.069,0.129,0.172,-0.3,Batter,,,,,Toronto Blue Jays
+Tristin English,ARI,Batter,28,7,23.0,0.0,1.0,0.091,0.13,0.136,-0.3,Batter,,,,,Arizona Diamondbacks
+Drew Avans,- - -,Batter,29,8,18.0,0.0,1.0,0.118,0.111,0.118,-0.3,Batter,,,,,- - -
+Nicky Lopez,- - -,Batter,30,19,28.0,0.0,1.0,0.042,0.179,0.042,-0.3,Batter,,,,,- - -
+Greg Allen,BAL,Batter,32,7,14.0,0.0,0.0,0.0,0.0,0.0,-0.3,Batter,,,,,Baltimore Orioles
+Warming Bernabel,COL,Batter,23,40,146.0,4.0,14.0,0.252,0.288,0.41,-0.4,Batter,,,,,Colorado Rockies
+Eric Wagaman,MIA,Batter,27,140,514.0,9.0,53.0,0.25,0.296,0.378,-0.4,Batter,,,,,Miami Marlins
+Randal Grichuk,- - -,Batter,33,113,293.0,9.0,27.0,0.228,0.273,0.401,-0.4,Batter,,,,,- - -
+Ryan Mountcastle,BAL,Batter,28,89,357.0,7.0,35.0,0.25,0.286,0.367,-0.4,Batter,,,,,Baltimore Orioles
+Weston Wilson,PHI,Batter,30,54,125.0,5.0,17.0,0.198,0.282,0.369,-0.4,Batter,,,,,Philadelphia Phillies
+Max Muncy,ATH,Batter,22,63,220.0,9.0,23.0,0.214,0.259,0.379,-0.4,Batter,,,,,ATH
+Matt Mervis,MIA,Batter,27,42,134.0,7.0,14.0,0.175,0.254,0.383,-0.4,Batter,,,,,Miami Marlins
+Johnathan Rodriguez,CLE,Batter,25,31,77.0,2.0,10.0,0.197,0.26,0.366,-0.4,Batter,,,,,Cleveland Guardians
+Dylan Carlson,BAL,Batter,26,83,241.0,6.0,20.0,0.203,0.278,0.336,-0.4,Batter,,,,,Baltimore Orioles
+Gio Urshela,ATH,Batter,33,59,197.0,0.0,20.0,0.238,0.287,0.326,-0.4,Batter,,,,,ATH
+Nolan Jones,CLE,Batter,27,136,403.0,5.0,34.0,0.211,0.296,0.304,-0.4,Batter,,,,,Cleveland Guardians
+Michael Massey,KCR,Batter,27,77,277.0,3.0,20.0,0.244,0.268,0.313,-0.4,Batter,,,,,Kansas City Royals
+Seth Brown,ATH,Batter,32,38,76.0,1.0,3.0,0.185,0.303,0.262,-0.4,Batter,,,,,ATH
+Chris Taylor,- - -,Batter,34,58,125.0,2.0,12.0,0.186,0.256,0.301,-0.4,Batter,,,,,- - -
+Will Wilson,CLE,Batter,26,34,91.0,0.0,2.0,0.192,0.267,0.244,-0.4,Batter,,,,,Cleveland Guardians
+Andres Chaparro,WSN,Batter,26,34,73.0,1.0,5.0,0.182,0.247,0.258,-0.4,Batter,,,,,Washington Nationals
+Jon Berti,CHC,Batter,35,53,107.0,0.0,2.0,0.21,0.262,0.23,-0.4,Batter,,,,,Chicago Cubs
+Hunter Feduccia,- - -,Batter,28,38,105.0,0.0,8.0,0.148,0.267,0.205,-0.4,Batter,,,,,- - -
+Pablo Reyes,NYY,Batter,31,25,34.0,0.0,2.0,0.194,0.242,0.226,-0.4,Batter,,,,,New York Yankees
+Bryan De La Cruz,ATL,Batter,28,16,50.0,0.0,0.0,0.191,0.24,0.213,-0.4,Batter,,,,,Atlanta Braves
+Ryan Noda,- - -,Batter,29,23,59.0,1.0,2.0,0.106,0.276,0.17,-0.4,Batter,,,,,- - -
+Austin Nola,COL,Batter,35,15,41.0,0.0,1.0,0.184,0.225,0.211,-0.4,Batter,,,,,Colorado Rockies
+Jose Miranda,MIN,Batter,27,12,36.0,1.0,5.0,0.167,0.167,0.25,-0.4,Batter,,,,,Minnesota Twins
+Alan Trejo,COL,Batter,29,14,43.0,0.0,1.0,0.175,0.19,0.225,-0.4,Batter,,,,,Colorado Rockies
+Jimmy Crooks,STL,Batter,23,15,46.0,1.0,1.0,0.133,0.152,0.244,-0.4,Batter,,,,,St. Louis Cardinals
+Jorge Barrosa,ARI,Batter,24,33,77.0,1.0,7.0,0.141,0.169,0.225,-0.4,Batter,,,,,Arizona Diamondbacks
+Carson McCusker,MIN,Batter,27,16,30.0,0.0,1.0,0.172,0.2,0.172,-0.4,Batter,,,,,Minnesota Twins
+Cam Devanney,PIT,Batter,28,14,38.0,0.0,1.0,0.139,0.184,0.167,-0.4,Batter,,,,,Pittsburgh Pirates
+Grant McCray,SFG,Batter,24,22,26.0,0.0,2.0,0.091,0.16,0.182,-0.4,Batter,,,,,San Francisco Giants
+Yuli Gurriel,SDP,Batter,41,16,40.0,0.0,3.0,0.111,0.2,0.139,-0.4,Batter,,,,,San Diego Padres
+Niko Kavadas,LAA,Batter,26,10,23.0,0.0,0.0,0.1,0.217,0.1,-0.4,Batter,,,,,Los Angeles Angels
+Chad Stevens,LAA,Batter,26,5,14.0,0.0,0.0,0.154,0.154,0.154,-0.4,Batter,,,,,Los Angeles Angels
+Ryan Kreidler,DET,Batter,27,17,44.0,0.0,0.0,0.105,0.19,0.105,-0.4,Batter,,,,,Detroit Tigers
+Jose Siri,NYM,Batter,29,16,36.0,0.0,1.0,0.063,0.167,0.125,-0.4,Batter,,,,,New York Mets
+Luis Campusano,SDP,Batter,26,10,27.0,0.0,0.0,0.0,0.222,0.0,-0.4,Batter,,,,,San Diego Padres
+Nick Solak,PIT,Batter,30,4,11.0,0.0,0.0,0.091,0.091,0.091,-0.4,Batter,,,,,Pittsburgh Pirates
+Tristan Peters,TBR,Batter,25,4,12.0,0.0,0.0,0.0,0.0,0.0,-0.4,Batter,,,,,Tampa Bay Rays
+Alexander Canario,PIT,Batter,25,87,234.0,6.0,20.0,0.218,0.274,0.338,-0.5,Batter,,,,,Pittsburgh Pirates
+Jonah Heim,TEX,Batter,30,124,433.0,11.0,43.0,0.213,0.271,0.332,-0.5,Batter,,,,,Texas Rangers
+Braxton Fulford,COL,Batter,26,38,120.0,1.0,16.0,0.213,0.267,0.324,-0.5,Batter,,,,,Colorado Rockies
+Nick Martini,COL,Batter,35,43,111.0,1.0,4.0,0.225,0.288,0.294,-0.5,Batter,,,,,Colorado Rockies
+Robert Hassell III,WSN,Batter,23,70,206.0,3.0,18.0,0.223,0.257,0.315,-0.5,Batter,,,,,Washington Nationals
+Denzer Guzman,LAA,Batter,21,13,43.0,2.0,3.0,0.19,0.209,0.357,-0.5,Batter,,,,,Los Angeles Angels
+Jordan Lawlar,ARI,Batter,22,28,74.0,0.0,5.0,0.182,0.257,0.288,-0.5,Batter,,,,,Arizona Diamondbacks
+James Outman,- - -,Batter,28,59,148.0,6.0,11.0,0.134,0.216,0.321,-0.5,Batter,,,,,- - -
+Jack Suwinski,PIT,Batter,26,59,178.0,3.0,10.0,0.147,0.281,0.253,-0.5,Batter,,,,,Pittsburgh Pirates
+Jarred Kelenic,ATL,Batter,25,24,65.0,2.0,2.0,0.167,0.231,0.3,-0.5,Batter,,,,,Atlanta Braves
+Tim Elko,CHW,Batter,26,23,72.0,4.0,8.0,0.134,0.194,0.328,-0.5,Batter,,,,,Chicago White Sox
+Lane Thomas,CLE,Batter,29,39,142.0,4.0,11.0,0.16,0.246,0.272,-0.5,Batter,,,,,Cleveland Guardians
+Jason Heyward,SDP,Batter,35,34,95.0,2.0,12.0,0.176,0.223,0.271,-0.5,Batter,,,,,San Diego Padres
+Jorge Mateo,BAL,Batter,30,43,83.0,1.0,3.0,0.177,0.217,0.266,-0.5,Batter,,,,,Baltimore Orioles
+Everson Pereira,TBR,Batter,24,23,73.0,2.0,8.0,0.138,0.219,0.246,-0.5,Batter,,,,,Tampa Bay Rays
+Trenton Brooks,SDP,Batter,29,25,43.0,1.0,2.0,0.146,0.186,0.268,-0.5,Batter,,,,,San Diego Padres
+Ben Rortvedt,- - -,Batter,27,44,128.0,1.0,10.0,0.152,0.24,0.205,-0.5,Batter,,,,,- - -
+Rece Hinds,CIN,Batter,24,15,44.0,2.0,3.0,0.116,0.136,0.279,-0.5,Batter,,,,,Cincinnati Reds
+Kris Bryant,COL,Batter,33,11,41.0,0.0,1.0,0.154,0.195,0.205,-0.5,Batter,,,,,Colorado Rockies
+Luke Williams,ATL,Batter,28,45,34.0,0.0,5.0,0.129,0.176,0.194,-0.5,Batter,,,,,Atlanta Braves
+Buddy Kennedy,- - -,Batter,26,13,32.0,0.0,1.0,0.069,0.156,0.103,-0.5,Batter,,,,,- - -
+Nick Castellanos,PHI,Batter,33,147,589.0,17.0,72.0,0.25,0.294,0.4,-0.6,Batter,,,,,Philadelphia Phillies
+Michael Conforto,LAD,Batter,32,138,486.0,12.0,36.0,0.199,0.305,0.333,-0.6,Batter,,,,,Los Angeles Dodgers
+Christian Encarnacion-Strand,CIN,Batter,25,36,137.0,6.0,19.0,0.208,0.234,0.377,-0.6,Batter,,,,,Cincinnati Reds
+Drew Waters,KCR,Batter,26,71,219.0,1.0,14.0,0.243,0.288,0.316,-0.6,Batter,,,,,Kansas City Royals
+David Fry,CLE,Batter,29,66,157.0,8.0,23.0,0.171,0.229,0.363,-0.6,Batter,,,,,Cleveland Guardians
+Triston Casas,BOS,Batter,25,29,112.0,3.0,11.0,0.182,0.277,0.303,-0.6,Batter,,,,,Boston Red Sox
+Ronny Simon,- - -,Batter,25,27,88.0,0.0,7.0,0.234,0.299,0.273,-0.6,Batter,,,,,- - -
+Riley Adams,WSN,Batter,29,83,286.0,8.0,24.0,0.186,0.252,0.308,-0.6,Batter,,,,,Washington Nationals
+Logan Davidson,- - -,Batter,27,19,47.0,1.0,4.0,0.167,0.222,0.286,-0.6,Batter,,,,,- - -
+Endy Rodriguez,PIT,Batter,25,18,57.0,0.0,2.0,0.173,0.246,0.25,-0.6,Batter,,,,,Pittsburgh Pirates
+MJ Melendez,KCR,Batter,26,23,65.0,1.0,1.0,0.083,0.154,0.167,-0.6,Batter,,,,,Kansas City Royals
+Maverick Handley,BAL,Batter,27,16,47.0,0.0,3.0,0.073,0.133,0.073,-0.6,Batter,,,,,Baltimore Orioles
+Tyler Freeman,COL,Batter,26,110,428.0,2.0,31.0,0.281,0.354,0.361,-0.7,Batter,,,,,Colorado Rockies
+Abraham Toro,BOS,Batter,28,77,284.0,7.0,27.0,0.239,0.289,0.371,-0.7,Batter,,,,,Boston Red Sox
+Joshua Palacios,CHW,Batter,29,51,145.0,3.0,9.0,0.203,0.292,0.305,-0.7,Batter,,,,,Chicago White Sox
+Mark Canha,KCR,Batter,36,46,125.0,1.0,6.0,0.212,0.272,0.265,-0.7,Batter,,,,,Kansas City Royals
+Tyler Locklear,ARI,Batter,24,31,116.0,3.0,6.0,0.175,0.267,0.262,-0.7,Batter,,,,,Arizona Diamondbacks
+Connor Wong,BOS,Batter,29,63,188.0,0.0,7.0,0.19,0.262,0.238,-0.7,Batter,,,,,Boston Red Sox
+Sean Bouchard,COL,Batter,29,32,73.0,1.0,7.0,0.167,0.247,0.242,-0.7,Batter,,,,,Colorado Rockies
+Mickey Gasper,MIN,Batter,29,45,110.0,2.0,11.0,0.158,0.257,0.232,-0.7,Batter,,,,,Minnesota Twins
+Kevin Newman,LAA,Batter,31,57,116.0,2.0,11.0,0.202,0.209,0.272,-0.7,Batter,,,,,Los Angeles Angels
+Jonah Bride,- - -,Batter,29,45,125.0,0.0,5.0,0.17,0.248,0.188,-0.7,Batter,,,,,- - -
+Jeimer Candelario,CIN,Batter,31,22,91.0,2.0,10.0,0.113,0.198,0.213,-0.7,Batter,,,,,Cincinnati Reds
+Edouard Julien,MIN,Batter,26,64,208.0,3.0,12.0,0.22,0.309,0.324,-0.8,Batter,,,,,Minnesota Twins
+Logan O'Hoppe,LAA,Batter,25,119,451.0,19.0,43.0,0.213,0.258,0.371,-0.8,Batter,,,,,Los Angeles Angels
+Joc Pederson,TEX,Batter,33,96,306.0,9.0,26.0,0.181,0.285,0.328,-0.8,Batter,,,,,Texas Rangers
+Yanquiel Fernandez,COL,Batter,22,52,147.0,4.0,11.0,0.225,0.265,0.348,-0.8,Batter,,,,,Colorado Rockies
+Martin Maldonado,SDP,Batter,38,64,161.0,4.0,12.0,0.204,0.245,0.327,-0.8,Batter,,,,,San Diego Padres
+Leody Taveras,- - -,Batter,26,58,180.0,3.0,17.0,0.205,0.226,0.304,-0.8,Batter,,,,,- - -
+Connor Joe,- - -,Batter,32,42,80.0,0.0,4.0,0.186,0.263,0.243,-0.8,Batter,,,,,- - -
+Oswald Peraza,- - -,Batter,25,106,265.0,5.0,20.0,0.164,0.223,0.25,-0.8,Batter,,,,,- - -
+Will Robertson,- - -,Batter,27,27,75.0,0.0,9.0,0.129,0.173,0.143,-0.8,Batter,,,,,- - -
+Jacob Amaya,CHW,Batter,26,37,73.0,0.0,8.0,0.106,0.139,0.121,-0.8,Batter,,,,,Chicago White Sox
+Alex Verdugo,ATL,Batter,29,56,213.0,0.0,12.0,0.239,0.296,0.289,-0.9,Batter,,,,,Atlanta Braves
+Anthony Santander,TOR,Batter,30,54,221.0,6.0,18.0,0.175,0.271,0.294,-0.9,Batter,,,,,Toronto Blue Jays
+Trey Sweeney,DET,Batter,25,118,326.0,6.0,32.0,0.196,0.258,0.291,-0.9,Batter,,,,,Detroit Tigers
+Orlando Arcia,- - -,Batter,30,76,214.0,3.0,13.0,0.202,0.238,0.291,-0.9,Batter,,,,,- - -
+Adael Amador,COL,Batter,22,41,128.0,1.0,10.0,0.177,0.256,0.265,-0.9,Batter,,,,,Colorado Rockies
+Hunter Renfroe,KCR,Batter,33,35,108.0,0.0,4.0,0.182,0.241,0.242,-0.9,Batter,,,,,Kansas City Royals
+Vinny Capra,- - -,Batter,28,47,105.0,1.0,6.0,0.125,0.157,0.177,-0.9,Batter,,,,,- - -
+DaShawn Keirsey Jr.,MIN,Batter,28,74,88.0,2.0,6.0,0.107,0.138,0.179,-0.9,Batter,,,,,Minnesota Twins
+Kyle Farmer,COL,Batter,34,97,300.0,8.0,31.0,0.227,0.28,0.365,-1.0,Batter,,,,,Colorado Rockies
+Keibert Ruiz,WSN,Batter,26,68,267.0,2.0,25.0,0.247,0.277,0.318,-1.0,Batter,,,,,Washington Nationals
+Heston Kjerstad,BAL,Batter,26,54,167.0,4.0,19.0,0.192,0.24,0.327,-1.1,Batter,,,,,Baltimore Orioles
+Jhonkensy Noel,CLE,Batter,23,69,153.0,6.0,13.0,0.162,0.183,0.297,-1.1,Batter,,,,,Cleveland Guardians
+Jordan Walker,STL,Batter,23,111,396.0,6.0,41.0,0.215,0.278,0.306,-1.2,Batter,,,,,St. Louis Cardinals
+Josh Rojas,CHW,Batter,31,69,211.0,2.0,11.0,0.18,0.252,0.259,-1.3,Batter,,,,,Chicago White Sox
+Jacob Stallings,- - -,Batter,35,43,129.0,0.0,9.0,0.134,0.195,0.168,-1.5,Batter,,,,,- - -
+Jac Caglianone,KCR,Batter,22,62,232.0,7.0,18.0,0.157,0.237,0.295,-1.6,Batter,,,,,Kansas City Royals
+LaMonte Wade Jr.,- - -,Batter,31,80,242.0,2.0,18.0,0.167,0.271,0.254,-1.6,Batter,,,,,- - -
+Michael Toglia,COL,Batter,26,88,337.0,11.0,32.0,0.19,0.258,0.353,-2.2,Batter,,,,,Colorado Rockies
+Tarik Skubal,DET,Pitcher,28,31,,,,,,,6.6,Pitcher,195.1,2.21,0.89,241.0,Detroit Tigers
+Paul Skenes,PIT,Pitcher,23,32,,,,,,,6.5,Pitcher,187.2,1.97,0.95,216.0,Pittsburgh Pirates
+Cristopher Sanchez,PHI,Pitcher,28,32,,,,,,,6.4,Pitcher,202.0,2.5,1.06,212.0,Philadelphia Phillies
+Garrett Crochet,BOS,Pitcher,26,32,,,,,,,5.8,Pitcher,205.1,2.59,1.03,255.0,Boston Red Sox
+Logan Webb,SFG,Pitcher,28,34,,,,,,,5.5,Pitcher,207.0,3.22,1.24,224.0,San Francisco Giants
+Jesus Luzardo,PHI,Pitcher,27,32,,,,,,,5.3,Pitcher,183.2,3.92,1.22,216.0,Philadelphia Phillies
+Yoshinobu Yamamoto,LAD,Pitcher,26,30,,,,,,,5.0,Pitcher,173.2,2.49,0.99,201.0,Los Angeles Dodgers
+Max Fried,NYY,Pitcher,31,32,,,,,,,4.8,Pitcher,195.1,2.86,1.1,189.0,New York Yankees
+Hunter Brown,HOU,Pitcher,26,31,,,,,,,4.6,Pitcher,185.1,2.43,1.03,206.0,Houston Astros
+Kevin Gausman,TOR,Pitcher,34,32,,,,,,,4.1,Pitcher,193.0,3.59,1.06,189.0,Toronto Blue Jays
+Framber Valdez,HOU,Pitcher,31,31,,,,,,,4.0,Pitcher,192.0,3.66,1.24,187.0,Houston Astros
+Ranger Suarez,PHI,Pitcher,29,26,,,,,,,4.0,Pitcher,157.1,3.2,1.22,151.0,Philadelphia Phillies
+Zack Wheeler,PHI,Pitcher,35,24,,,,,,,4.0,Pitcher,149.2,2.71,0.94,195.0,Philadelphia Phillies
+Andrew Abbott,CIN,Pitcher,26,29,,,,,,,3.9,Pitcher,166.1,2.87,1.15,149.0,Cincinnati Reds
+Nick Pivetta,SDP,Pitcher,32,31,,,,,,,3.7,Pitcher,181.2,2.87,0.99,190.0,San Diego Padres
+Nathan Eovaldi,TEX,Pitcher,35,22,,,,,,,3.7,Pitcher,130.0,1.73,0.85,129.0,Texas Rangers
+Freddy Peralta,MIL,Pitcher,29,33,,,,,,,3.6,Pitcher,176.2,2.7,1.08,204.0,Milwaukee Brewers
+Bryan Woo,SEA,Pitcher,25,30,,,,,,,3.6,Pitcher,186.2,2.94,0.93,198.0,Seattle Mariners
+Sonny Gray,STL,Pitcher,35,32,,,,,,,3.6,Pitcher,180.2,4.28,1.23,201.0,St. Louis Cardinals
+Michael Wacha,KCR,Pitcher,33,31,,,,,,,3.6,Pitcher,172.2,3.86,1.22,126.0,Kansas City Royals
+Chris Sale,ATL,Pitcher,36,21,,,,,,,3.6,Pitcher,125.2,2.58,1.07,165.0,Atlanta Braves
+Matthew Boyd,CHC,Pitcher,34,31,,,,,,,3.4,Pitcher,179.2,3.21,1.09,154.0,Chicago Cubs
+Jacob deGrom,TEX,Pitcher,37,30,,,,,,,3.4,Pitcher,172.2,2.97,0.92,185.0,Texas Rangers
+Dylan Cease,SDP,Pitcher,29,32,,,,,,,3.4,Pitcher,168.0,4.55,1.33,215.0,San Diego Padres
+Trevor Rogers,BAL,Pitcher,27,18,,,,,,,3.3,Pitcher,109.2,1.81,0.9,103.0,Baltimore Orioles
+Kris Bubic,KCR,Pitcher,27,20,,,,,,,3.3,Pitcher,116.1,2.55,1.18,116.0,Kansas City Royals
+Carlos Rodon,NYY,Pitcher,32,33,,,,,,,3.2,Pitcher,195.1,3.09,1.05,203.0,New York Yankees
+Joe Ryan,MIN,Pitcher,29,31,,,,,,,3.1,Pitcher,171.0,3.42,1.04,194.0,Minnesota Twins
+Merrill Kelly,- - -,Pitcher,36,32,,,,,,,3.1,Pitcher,184.0,3.52,1.11,167.0,- - -
+David Peterson,NYM,Pitcher,29,30,,,,,,,3.1,Pitcher,168.2,4.22,1.37,150.0,New York Mets
+Jose Soriano,LAA,Pitcher,26,31,,,,,,,3.0,Pitcher,169.0,4.26,1.4,152.0,Los Angeles Angels
+Brady Singer,CIN,Pitcher,28,32,,,,,,,2.9,Pitcher,169.2,4.03,1.24,163.0,Cincinnati Reds
+Hunter Greene,CIN,Pitcher,25,19,,,,,,,2.9,Pitcher,107.2,2.76,0.94,132.0,Cincinnati Reds
+MacKenzie Gore,WSN,Pitcher,26,30,,,,,,,2.9,Pitcher,159.2,4.17,1.35,185.0,Washington Nationals
+Nick Lodolo,CIN,Pitcher,27,29,,,,,,,2.8,Pitcher,156.2,3.33,1.08,156.0,Cincinnati Reds
+Cade Smith,CLE,Pitcher,26,76,,,,,,,2.7,Pitcher,73.2,2.93,1.0,104.0,Cleveland Guardians
+Luis Castillo,SEA,Pitcher,32,32,,,,,,,2.6,Pitcher,180.2,3.54,1.18,162.0,Seattle Mariners
+Dean Kremer,BAL,Pitcher,29,31,,,,,,,2.6,Pitcher,171.2,4.19,1.21,142.0,Baltimore Orioles
+Logan Gilbert,SEA,Pitcher,28,25,,,,,,,2.6,Pitcher,131.0,3.44,1.03,173.0,Seattle Mariners
+Aroldis Chapman,BOS,Pitcher,37,67,,,,,,,2.6,Pitcher,61.1,1.17,0.7,85.0,Boston Red Sox
+Chad Patrick,MIL,Pitcher,26,27,,,,,,,2.6,Pitcher,119.2,3.53,1.28,127.0,Milwaukee Brewers
+Clayton Kershaw,LAD,Pitcher,37,23,,,,,,,2.5,Pitcher,112.2,3.36,1.22,84.0,Los Angeles Dodgers
+Drew Rasmussen,TBR,Pitcher,29,31,,,,,,,2.5,Pitcher,150.0,2.76,1.02,127.0,Tampa Bay Rays
+Luis Severino,ATH,Pitcher,31,29,,,,,,,2.5,Pitcher,162.2,4.54,1.3,124.0,ATH
+Jack Flaherty,DET,Pitcher,29,31,,,,,,,2.5,Pitcher,161.0,4.64,1.28,188.0,Detroit Tigers
+Yusei Kikuchi,LAA,Pitcher,34,33,,,,,,,2.5,Pitcher,178.1,3.99,1.42,174.0,Los Angeles Angels
+Janson Junk,MIA,Pitcher,29,21,,,,,,,2.5,Pitcher,110.0,4.17,1.14,77.0,Miami Marlins
+Mitch Keller,PIT,Pitcher,29,32,,,,,,,2.5,Pitcher,176.1,4.19,1.26,150.0,Pittsburgh Pirates
+Kyle Freeland,COL,Pitcher,32,31,,,,,,,2.5,Pitcher,162.2,4.98,1.42,124.0,Colorado Rockies
+Casey Mize,DET,Pitcher,28,28,,,,,,,2.4,Pitcher,149.0,3.87,1.27,139.0,Detroit Tigers
+Chris Bassitt,TOR,Pitcher,36,32,,,,,,,2.4,Pitcher,170.1,3.96,1.33,166.0,Toronto Blue Jays
+George Kirby,SEA,Pitcher,27,23,,,,,,,2.4,Pitcher,126.0,4.21,1.19,137.0,Seattle Mariners
+Spencer Schwellenbach,ATL,Pitcher,25,17,,,,,,,2.4,Pitcher,110.2,3.09,0.97,108.0,Atlanta Braves
+Jack Leiter,TEX,Pitcher,25,29,,,,,,,2.3,Pitcher,151.2,3.86,1.28,148.0,Texas Rangers
+Adrian Houser,- - -,Pitcher,32,21,,,,,,,2.3,Pitcher,125.0,3.31,1.28,92.0,- - -
+Adrian Morejon,SDP,Pitcher,26,75,,,,,,,2.2,Pitcher,73.2,2.08,0.9,70.0,San Diego Padres
+Cade Horton,CHC,Pitcher,23,23,,,,,,,2.2,Pitcher,118.0,2.67,1.08,97.0,Chicago Cubs
+Robbie Ray,SFG,Pitcher,33,32,,,,,,,2.2,Pitcher,182.1,3.65,1.21,186.0,San Francisco Giants
+Garrett Whitlock,BOS,Pitcher,29,62,,,,,,,2.2,Pitcher,72.0,2.25,1.08,91.0,Boston Red Sox
+Shane Smith,CHW,Pitcher,25,29,,,,,,,2.2,Pitcher,146.1,3.81,1.2,145.0,Chicago White Sox
+Justin Verlander,SFG,Pitcher,42,29,,,,,,,2.2,Pitcher,152.0,3.85,1.36,137.0,San Francisco Giants
+Bryan Abreu,HOU,Pitcher,28,70,,,,,,,2.2,Pitcher,71.0,2.28,1.15,105.0,Houston Astros
+Nick Martinez,CIN,Pitcher,34,40,,,,,,,2.1,Pitcher,165.2,4.45,1.21,116.0,Cincinnati Reds
+Will Warren,NYY,Pitcher,26,33,,,,,,,2.1,Pitcher,162.1,4.44,1.37,171.0,New York Yankees
+Jhoan Duran,- - -,Pitcher,27,72,,,,,,,2.1,Pitcher,70.0,2.06,1.1,80.0,- - -
+Emmet Sheehan,LAD,Pitcher,25,15,,,,,,,2.1,Pitcher,73.1,2.82,0.97,89.0,Los Angeles Dodgers
+Cole Ragans,KCR,Pitcher,27,13,,,,,,,2.1,Pitcher,61.2,4.67,1.18,98.0,Kansas City Royals
+Ryan Pepiot,TBR,Pitcher,27,31,,,,,,,2.0,Pitcher,167.2,3.86,1.16,167.0,Tampa Bay Rays
+Lucas Giolito,BOS,Pitcher,30,26,,,,,,,2.0,Pitcher,145.0,3.41,1.29,121.0,Boston Red Sox
+Shane Baz,TBR,Pitcher,26,31,,,,,,,2.0,Pitcher,166.1,4.87,1.33,176.0,Tampa Bay Rays
+Edward Cabrera,MIA,Pitcher,27,26,,,,,,,2.0,Pitcher,137.2,3.53,1.23,150.0,Miami Marlins
+Ryne Nelson,ARI,Pitcher,27,33,,,,,,,2.0,Pitcher,154.0,3.39,1.07,132.0,Arizona Diamondbacks
+Edwin Diaz,NYM,Pitcher,31,62,,,,,,,2.0,Pitcher,66.1,1.63,0.87,98.0,New York Mets
+David Bednar,- - -,Pitcher,30,64,,,,,,,2.0,Pitcher,62.2,2.3,1.04,86.0,- - -
+Mason Miller,- - -,Pitcher,26,60,,,,,,,2.0,Pitcher,61.2,2.63,0.91,104.0,- - -
+Quinn Priester,MIL,Pitcher,24,29,,,,,,,1.9,Pitcher,157.1,3.32,1.24,132.0,Milwaukee Brewers
+Clay Holmes,NYM,Pitcher,32,33,,,,,,,1.9,Pitcher,165.2,3.53,1.3,129.0,New York Mets
+Tanner Bibee,CLE,Pitcher,26,31,,,,,,,1.9,Pitcher,182.1,4.24,1.23,162.0,Cleveland Guardians
+Brayan Bello,BOS,Pitcher,26,29,,,,,,,1.9,Pitcher,166.2,3.35,1.24,124.0,Boston Red Sox
+Colin Rea,CHC,Pitcher,34,32,,,,,,,1.9,Pitcher,159.1,3.95,1.25,127.0,Chicago Cubs
+Eury Perez,MIA,Pitcher,22,20,,,,,,,1.9,Pitcher,95.1,4.25,1.05,105.0,Miami Marlins
+Patrick Corbin,TEX,Pitcher,35,31,,,,,,,1.9,Pitcher,155.1,4.4,1.36,131.0,Texas Rangers
+Tyler Mahle,TEX,Pitcher,30,16,,,,,,,1.9,Pitcher,86.2,2.18,1.13,66.0,Texas Rangers
+Blake Snell,LAD,Pitcher,32,11,,,,,,,1.9,Pitcher,61.1,2.35,1.26,72.0,Los Angeles Dodgers
+Robert Suarez,SDP,Pitcher,34,70,,,,,,,1.9,Pitcher,69.2,2.97,0.9,75.0,San Diego Padres
+Andres Munoz,SEA,Pitcher,26,64,,,,,,,1.9,Pitcher,62.1,1.73,1.03,83.0,Seattle Mariners
+Shohei Ohtani,LAD,Pitcher,30,14,,,,,,,1.9,Pitcher,47.0,2.87,1.04,62.0,Los Angeles Dodgers
+Noah Cameron,KCR,Pitcher,25,24,,,,,,,1.8,Pitcher,138.1,2.99,1.1,114.0,Kansas City Royals
+Matthew Liberatore,STL,Pitcher,25,29,,,,,,,1.8,Pitcher,151.2,4.21,1.31,122.0,St. Louis Cardinals
+Kyle Hendricks,LAA,Pitcher,35,31,,,,,,,1.8,Pitcher,164.2,4.76,1.28,114.0,Los Angeles Angels
+Brandon Woodruff,MIL,Pitcher,32,12,,,,,,,1.8,Pitcher,64.2,3.2,0.91,83.0,Milwaukee Brewers
+Will Vest,DET,Pitcher,30,64,,,,,,,1.8,Pitcher,68.2,3.01,1.21,75.0,Detroit Tigers
+Taj Bradley,- - -,Pitcher,24,27,,,,,,,1.8,Pitcher,142.2,5.05,1.31,127.0,- - -
+Pablo Lopez,MIN,Pitcher,29,14,,,,,,,1.8,Pitcher,75.2,2.74,1.11,73.0,Minnesota Twins
+Brandon Pfaadt,ARI,Pitcher,26,33,,,,,,,1.7,Pitcher,176.2,5.25,1.33,147.0,Arizona Diamondbacks
+Jeffrey Springs,ATH,Pitcher,32,32,,,,,,,1.7,Pitcher,171.0,4.11,1.21,138.0,ATH
+Sandy Alcantara,MIA,Pitcher,29,31,,,,,,,1.7,Pitcher,174.2,5.36,1.27,142.0,Miami Marlins
+Logan Allen,CLE,Pitcher,26,30,,,,,,,1.7,Pitcher,156.2,4.25,1.4,122.0,Cleveland Guardians
+Stephen Kolek,- - -,Pitcher,28,19,,,,,,,1.7,Pitcher,112.2,3.51,1.14,77.0,- - -
+Gabe Speier,SEA,Pitcher,30,76,,,,,,,1.7,Pitcher,62.0,2.61,0.87,82.0,Seattle Mariners
+Abner Uribe,MIL,Pitcher,25,75,,,,,,,1.7,Pitcher,75.1,1.67,1.04,90.0,Milwaukee Brewers
+Jack Dreyer,LAD,Pitcher,26,67,,,,,,,1.7,Pitcher,76.1,2.95,1.05,74.0,Los Angeles Dodgers
+Sean Newcomb,- - -,Pitcher,32,48,,,,,,,1.7,Pitcher,92.1,2.73,1.35,91.0,- - -
+Grant Taylor,CHW,Pitcher,23,36,,,,,,,1.7,Pitcher,36.2,4.91,1.42,54.0,Chicago White Sox
+Griffin Jax,- - -,Pitcher,30,73,,,,,,,1.7,Pitcher,66.0,4.23,1.29,99.0,- - -
+Graham Ashcraft,CIN,Pitcher,27,62,,,,,,,1.6,Pitcher,65.1,3.99,1.42,64.0,Cincinnati Reds
+Trevor Megill,MIL,Pitcher,31,50,,,,,,,1.6,Pitcher,47.0,2.49,1.13,60.0,Milwaukee Brewers
+Carmen Mlodzinski,PIT,Pitcher,26,34,,,,,,,1.6,Pitcher,99.0,3.55,1.3,89.0,Pittsburgh Pirates
+Braxton Ashcraft,PIT,Pitcher,25,26,,,,,,,1.6,Pitcher,69.2,2.71,1.25,71.0,Pittsburgh Pirates
+Tyler Glasnow,LAD,Pitcher,31,18,,,,,,,1.6,Pitcher,90.1,3.19,1.1,106.0,Los Angeles Dodgers
+Steven Okert,HOU,Pitcher,33,68,,,,,,,1.6,Pitcher,71.2,3.01,0.89,84.0,Houston Astros
+Zack Littell,- - -,Pitcher,29,32,,,,,,,1.5,Pitcher,186.2,3.81,1.1,130.0,- - -
+Joey Cantillo,CLE,Pitcher,25,34,,,,,,,1.5,Pitcher,95.1,3.21,1.26,108.0,Cleveland Guardians
+Tylor Megill,NYM,Pitcher,29,14,,,,,,,1.5,Pitcher,68.1,3.95,1.36,89.0,New York Mets
+Justin Wrobleski,LAD,Pitcher,24,24,,,,,,,1.5,Pitcher,66.2,4.32,1.23,76.0,Los Angeles Dodgers
+Phil Maton,- - -,Pitcher,32,63,,,,,,,1.5,Pitcher,61.1,2.79,1.06,81.0,- - -
+Matt Strahm,PHI,Pitcher,33,66,,,,,,,1.5,Pitcher,62.1,2.74,1.07,70.0,Philadelphia Phillies
+Gavin Williams,CLE,Pitcher,25,31,,,,,,,1.4,Pitcher,167.2,3.06,1.27,173.0,Cleveland Guardians
+Eric Lauer,TOR,Pitcher,30,28,,,,,,,1.4,Pitcher,104.2,3.18,1.11,102.0,Toronto Blue Jays
+Kodai Senga,NYM,Pitcher,32,22,,,,,,,1.4,Pitcher,113.1,3.02,1.31,109.0,New York Mets
+Zebby Matthews,MIN,Pitcher,25,16,,,,,,,1.4,Pitcher,79.1,5.56,1.49,88.0,Minnesota Twins
+Shawn Armstrong,TEX,Pitcher,34,71,,,,,,,1.4,Pitcher,74.0,2.31,0.81,74.0,Texas Rangers
+Kyle Leahy,STL,Pitcher,28,62,,,,,,,1.4,Pitcher,88.0,3.07,1.23,80.0,St. Louis Cardinals
+Reese Olson,DET,Pitcher,25,13,,,,,,,1.4,Pitcher,68.2,3.15,1.21,65.0,Detroit Tigers
+Jose A. Ferrer,WSN,Pitcher,25,72,,,,,,,1.4,Pitcher,76.1,4.48,1.27,71.0,Washington Nationals
+Devin Williams,NYY,Pitcher,30,67,,,,,,,1.4,Pitcher,62.0,4.79,1.13,90.0,New York Yankees
+Randy Rodriguez,SFG,Pitcher,25,50,,,,,,,1.4,Pitcher,50.2,1.78,0.89,67.0,San Francisco Giants
+Cade Povich,BAL,Pitcher,25,22,,,,,,,1.4,Pitcher,112.1,5.21,1.5,118.0,Baltimore Orioles
+Chase Burns,CIN,Pitcher,22,13,,,,,,,1.4,Pitcher,43.1,4.57,1.32,67.0,Cincinnati Reds
+Jose Berrios,TOR,Pitcher,31,31,,,,,,,1.3,Pitcher,166.0,4.17,1.3,138.0,Toronto Blue Jays
+Eduardo Rodriguez,ARI,Pitcher,32,29,,,,,,,1.3,Pitcher,154.1,5.02,1.54,143.0,Arizona Diamondbacks
+Ronny Henriquez,MIA,Pitcher,25,69,,,,,,,1.3,Pitcher,73.0,2.22,1.1,98.0,Miami Marlins
+Davis Martin,CHW,Pitcher,28,26,,,,,,,1.3,Pitcher,142.2,4.1,1.29,104.0,Chicago White Sox
+Ben Casparius,LAD,Pitcher,26,46,,,,,,,1.3,Pitcher,77.2,4.64,1.27,71.0,Los Angeles Dodgers
+Tyler Alexander,- - -,Pitcher,30,52,,,,,,,1.3,Pitcher,97.2,4.98,1.4,82.0,- - -
+Tyler Rogers,- - -,Pitcher,34,81,,,,,,,1.3,Pitcher,77.1,1.98,0.94,48.0,- - -
+Brad Keller,CHC,Pitcher,29,68,,,,,,,1.3,Pitcher,69.2,2.07,0.96,75.0,Chicago Cubs
+Cameron Schlittler,NYY,Pitcher,24,14,,,,,,,1.3,Pitcher,73.0,2.96,1.22,84.0,New York Yankees
+Brendon Little,TOR,Pitcher,28,79,,,,,,,1.3,Pitcher,68.1,3.03,1.36,91.0,Toronto Blue Jays
+Clarke Schmidt,NYY,Pitcher,29,14,,,,,,,1.3,Pitcher,78.2,3.32,1.09,73.0,New York Yankees
+Jacob Latz,TEX,Pitcher,29,33,,,,,,,1.3,Pitcher,85.2,2.84,1.24,76.0,Texas Rangers
+Mike Burrows,PIT,Pitcher,25,23,,,,,,,1.3,Pitcher,96.0,3.94,1.24,97.0,Pittsburgh Pirates
+Jimmy Herget,COL,Pitcher,31,59,,,,,,,1.3,Pitcher,83.1,2.48,1.18,81.0,Colorado Rockies
+Jason Adam,SDP,Pitcher,33,65,,,,,,,1.2,Pitcher,65.1,1.93,1.15,70.0,San Diego Padres
+Simeon Woods Richardson,MIN,Pitcher,24,23,,,,,,,1.2,Pitcher,111.1,4.04,1.28,107.0,Minnesota Twins
+Jacob Lopez,ATH,Pitcher,27,21,,,,,,,1.2,Pitcher,92.2,4.08,1.27,113.0,ATH
+Michael Lorenzen,KCR,Pitcher,33,27,,,,,,,1.2,Pitcher,141.2,4.64,1.33,127.0,Kansas City Royals
+Hurston Waldrep,ATL,Pitcher,23,10,,,,,,,1.2,Pitcher,56.1,2.88,1.19,55.0,Atlanta Braves
+Bailey Ober,MIN,Pitcher,29,27,,,,,,,1.2,Pitcher,146.1,5.1,1.3,120.0,Minnesota Twins
+Nolan McLean,NYM,Pitcher,23,8,,,,,,,1.2,Pitcher,48.0,2.06,1.04,57.0,New York Mets
+Aaron Ashby,MIL,Pitcher,27,43,,,,,,,1.2,Pitcher,66.2,2.16,1.17,76.0,Milwaukee Brewers
+Reid Detmers,LAA,Pitcher,25,61,,,,,,,1.2,Pitcher,63.2,3.96,1.3,80.0,Los Angeles Angels
+Brad Lord,WSN,Pitcher,25,48,,,,,,,1.2,Pitcher,130.2,4.34,1.29,108.0,Washington Nationals
+Jacob Misiorowski,MIL,Pitcher,23,15,,,,,,,1.2,Pitcher,66.0,4.36,1.24,87.0,Milwaukee Brewers
+Dennis Santana,PIT,Pitcher,29,70,,,,,,,1.2,Pitcher,70.1,2.18,0.87,60.0,Pittsburgh Pirates
+Louie Varland,- - -,Pitcher,27,74,,,,,,,1.2,Pitcher,72.2,2.97,1.2,75.0,- - -
+Kyle Finnegan,- - -,Pitcher,33,56,,,,,,,1.2,Pitcher,57.0,3.47,1.11,55.0,- - -
+Trevor Williams,WSN,Pitcher,33,17,,,,,,,1.2,Pitcher,82.2,6.21,1.54,65.0,Washington Nationals
+Zac Gallen,ARI,Pitcher,29,33,,,,,,,1.1,Pitcher,192.0,4.83,1.26,175.0,Arizona Diamondbacks
+Jameson Taillon,CHC,Pitcher,33,23,,,,,,,1.1,Pitcher,129.2,3.68,1.06,98.0,Chicago Cubs
+Landen Roupp,SFG,Pitcher,26,22,,,,,,,1.1,Pitcher,106.2,3.8,1.48,102.0,San Francisco Giants
+Josh Hader,HOU,Pitcher,31,48,,,,,,,1.1,Pitcher,52.2,2.05,0.85,76.0,Houston Astros
+Bennett Sousa,HOU,Pitcher,30,44,,,,,,,1.1,Pitcher,50.2,2.84,1.03,59.0,Houston Astros
+Steven Matz,- - -,Pitcher,34,53,,,,,,,1.1,Pitcher,76.2,3.05,1.1,59.0,- - -
+Emmanuel Clase,CLE,Pitcher,27,48,,,,,,,1.1,Pitcher,47.1,3.23,1.23,47.0,Cleveland Guardians
+Joey Wentz,- - -,Pitcher,27,39,,,,,,,1.1,Pitcher,98.0,5.6,1.56,92.0,- - -
+Ben Brown,CHC,Pitcher,25,25,,,,,,,1.1,Pitcher,106.1,5.92,1.44,121.0,Chicago Cubs
+Carlos Estevez,KCR,Pitcher,32,67,,,,,,,1.1,Pitcher,66.0,2.45,1.06,54.0,Kansas City Royals
+Ian Seymour,TBR,Pitcher,26,19,,,,,,,1.1,Pitcher,57.0,3.63,1.18,64.0,Tampa Bay Rays
+Caleb Thielbar,CHC,Pitcher,38,67,,,,,,,1.1,Pitcher,58.0,2.64,0.88,56.0,Chicago Cubs
+Michael Soroka,- - -,Pitcher,27,22,,,,,,,1.1,Pitcher,89.2,4.52,1.13,95.0,- - -
+Connelly Early,BOS,Pitcher,23,4,,,,,,,1.1,Pitcher,19.1,2.33,1.09,29.0,Boston Red Sox
+Tony Santillan,CIN,Pitcher,28,80,,,,,,,1.1,Pitcher,73.2,2.44,1.11,75.0,Cincinnati Reds
+Kyle Bradish,BAL,Pitcher,28,6,,,,,,,1.1,Pitcher,32.0,2.53,1.03,47.0,Baltimore Orioles
+Matt Svanson,STL,Pitcher,26,39,,,,,,,1.0,Pitcher,60.1,1.94,0.88,68.0,St. Louis Cardinals
+Pete Fairbanks,TBR,Pitcher,31,61,,,,,,,1.0,Pitcher,60.1,2.83,1.04,59.0,Tampa Bay Rays
+Alex Vesia,LAD,Pitcher,29,68,,,,,,,1.0,Pitcher,59.2,3.02,0.99,80.0,Los Angeles Dodgers
+Raisel Iglesias,ATL,Pitcher,35,70,,,,,,,1.0,Pitcher,67.1,3.21,1.0,73.0,Atlanta Braves
+Justin Wilson,BOS,Pitcher,37,61,,,,,,,1.0,Pitcher,48.1,3.35,1.41,57.0,Boston Red Sox
+Jeremiah Estrada,SDP,Pitcher,26,77,,,,,,,1.0,Pitcher,73.0,3.45,1.16,108.0,San Diego Padres
+Hunter Dobbins,BOS,Pitcher,25,13,,,,,,,1.0,Pitcher,61.0,4.13,1.28,45.0,Boston Red Sox
+Parker Messick,CLE,Pitcher,24,7,,,,,,,1.0,Pitcher,39.2,2.72,1.31,38.0,Cleveland Guardians
+Hoby Milner,TEX,Pitcher,34,73,,,,,,,1.0,Pitcher,70.1,3.84,1.27,58.0,Texas Rangers
+Emilio Pagan,CIN,Pitcher,34,70,,,,,,,1.0,Pitcher,68.2,2.88,0.92,81.0,Cincinnati Reds
+Ryan Bergert,- - -,Pitcher,25,19,,,,,,,1.0,Pitcher,76.1,3.66,1.26,73.0,- - -
+Daniel Palencia,CHC,Pitcher,25,54,,,,,,,1.0,Pitcher,52.2,2.91,1.14,61.0,Chicago Cubs
+Edwin Uceta,TBR,Pitcher,27,70,,,,,,,0.9,Pitcher,76.0,3.79,1.17,103.0,Tampa Bay Rays
+Shota Imanaga,CHC,Pitcher,31,25,,,,,,,0.9,Pitcher,144.2,3.73,0.99,117.0,Chicago Cubs
+Mitchell Parker,WSN,Pitcher,25,33,,,,,,,0.9,Pitcher,164.2,5.68,1.43,103.0,Washington Nationals
+Lucas Erceg,KCR,Pitcher,30,61,,,,,,,0.9,Pitcher,61.1,2.64,1.17,48.0,Kansas City Royals
+Michael McGreevy,STL,Pitcher,24,17,,,,,,,0.9,Pitcher,95.2,4.42,1.25,58.0,St. Louis Cardinals
+Bryce Elder,ATL,Pitcher,26,28,,,,,,,0.9,Pitcher,156.1,5.3,1.39,131.0,Atlanta Braves
+Griffin Canning,NYM,Pitcher,29,16,,,,,,,0.9,Pitcher,76.1,3.77,1.38,70.0,New York Mets
+Spencer Strider,ATL,Pitcher,26,23,,,,,,,0.9,Pitcher,125.1,4.45,1.4,131.0,Atlanta Braves
+Jared Koenig,MIL,Pitcher,31,72,,,,,,,0.9,Pitcher,66.0,2.86,1.17,68.0,Milwaukee Brewers
+Tyler Kinley,- - -,Pitcher,34,73,,,,,,,0.9,Pitcher,72.2,3.96,1.18,73.0,- - -
+Aaron Nola,PHI,Pitcher,32,17,,,,,,,0.9,Pitcher,94.1,6.01,1.35,97.0,Philadelphia Phillies
+JoJo Romero,STL,Pitcher,28,65,,,,,,,0.9,Pitcher,61.0,2.07,1.25,55.0,St. Louis Cardinals
+Seranthony Dominguez,- - -,Pitcher,30,67,,,,,,,0.9,Pitcher,62.2,3.16,1.28,79.0,- - -
+Grant Holmes,ATL,Pitcher,29,22,,,,,,,0.9,Pitcher,115.0,3.99,1.34,123.0,Atlanta Braves
+Bubba Chandler,PIT,Pitcher,22,7,,,,,,,0.9,Pitcher,31.1,4.02,0.93,31.0,Pittsburgh Pirates
+Luis L. Ortiz,CLE,Pitcher,26,16,,,,,,,0.9,Pitcher,88.2,4.36,1.38,96.0,Cleveland Guardians
+Aaron Civale,- - -,Pitcher,30,23,,,,,,,0.9,Pitcher,102.0,4.85,1.26,88.0,- - -
+Cristian Javier,HOU,Pitcher,28,8,,,,,,,0.9,Pitcher,37.0,4.62,1.27,34.0,Houston Astros
+Justin Topa,MIN,Pitcher,34,54,,,,,,,0.9,Pitcher,60.0,3.9,1.43,49.0,Minnesota Twins
+Jose Quintana,MIL,Pitcher,36,24,,,,,,,0.8,Pitcher,131.2,3.96,1.29,89.0,Milwaukee Brewers
+Braydon Fisher,TOR,Pitcher,24,52,,,,,,,0.8,Pitcher,50.0,2.7,1.02,62.0,Toronto Blue Jays
+Dustin May,- - -,Pitcher,27,25,,,,,,,0.8,Pitcher,132.1,4.96,1.42,123.0,- - -
+Ryan Gusto,- - -,Pitcher,26,27,,,,,,,0.8,Pitcher,101.2,5.67,1.48,97.0,- - -
+Tanner Banks,PHI,Pitcher,33,69,,,,,,,0.8,Pitcher,67.1,3.07,1.01,61.0,Philadelphia Phillies
+Randy Vasquez,SDP,Pitcher,26,28,,,,,,,0.8,Pitcher,133.2,3.84,1.32,78.0,San Diego Padres
+Michael King,SDP,Pitcher,30,15,,,,,,,0.8,Pitcher,73.1,3.44,1.2,76.0,San Diego Padres
+Caleb Ferguson,- - -,Pitcher,28,70,,,,,,,0.8,Pitcher,65.1,3.58,1.16,51.0,- - -
+Matt Festa,CLE,Pitcher,32,63,,,,,,,0.8,Pitcher,54.2,4.12,1.08,56.0,Cleveland Guardians
+Andrew Kittredge,- - -,Pitcher,35,54,,,,,,,0.8,Pitcher,53.0,3.4,0.98,64.0,- - -
+Cole Sands,MIN,Pitcher,27,69,,,,,,,0.8,Pitcher,72.0,4.5,1.17,64.0,Minnesota Twins
+J.T. Ginn,ATH,Pitcher,26,23,,,,,,,0.8,Pitcher,90.1,5.08,1.36,99.0,ATH
+Logan Henderson,MIL,Pitcher,23,5,,,,,,,0.8,Pitcher,25.1,1.78,0.99,33.0,Milwaukee Brewers
+Brooks Raley,NYM,Pitcher,37,30,,,,,,,0.8,Pitcher,25.2,2.45,0.78,25.0,New York Mets
+Fernando Cruz,NYY,Pitcher,35,49,,,,,,,0.8,Pitcher,48.0,3.56,1.19,72.0,New York Yankees
+Reed Garrett,NYM,Pitcher,32,58,,,,,,,0.8,Pitcher,55.1,3.9,1.32,64.0,New York Mets
+Tommy Nance,TOR,Pitcher,34,30,,,,,,,0.8,Pitcher,31.2,1.99,1.01,32.0,Toronto Blue Jays
+Hunter Gaddis,CLE,Pitcher,27,73,,,,,,,0.8,Pitcher,66.2,3.11,1.19,73.0,Cleveland Guardians
+Matt Brash,SEA,Pitcher,27,53,,,,,,,0.8,Pitcher,47.1,2.47,1.25,58.0,Seattle Mariners
+Brandon Walter,HOU,Pitcher,28,9,,,,,,,0.8,Pitcher,53.2,3.35,0.93,52.0,Houston Astros
+Martin Perez,CHW,Pitcher,34,11,,,,,,,0.8,Pitcher,56.0,3.54,1.11,44.0,Chicago White Sox
+Orion Kerkering,PHI,Pitcher,24,69,,,,,,,0.7,Pitcher,60.0,3.3,1.37,65.0,Philadelphia Phillies
+Slade Cecconi,CLE,Pitcher,26,23,,,,,,,0.7,Pitcher,132.0,4.3,1.19,109.0,Cleveland Guardians
+Greg Weissert,BOS,Pitcher,30,72,,,,,,,0.7,Pitcher,67.0,2.82,1.16,57.0,Boston Red Sox
+Andre Pallante,STL,Pitcher,26,31,,,,,,,0.7,Pitcher,162.2,5.31,1.44,111.0,St. Louis Cardinals
+Bryan King,HOU,Pitcher,28,68,,,,,,,0.7,Pitcher,68.0,2.78,1.04,69.0,Houston Astros
+Chris Paddack,- - -,Pitcher,29,33,,,,,,,0.7,Pitcher,158.0,5.35,1.28,112.0,- - -
+Sean Burke,CHW,Pitcher,25,28,,,,,,,0.7,Pitcher,134.1,4.22,1.44,133.0,Chicago White Sox
+Corbin Burnes,ARI,Pitcher,30,11,,,,,,,0.7,Pitcher,64.1,2.66,1.17,63.0,Arizona Diamondbacks
+Drew Pomeranz,CHC,Pitcher,36,57,,,,,,,0.7,Pitcher,49.2,2.17,1.07,57.0,Chicago Cubs
+Danny Coulombe,- - -,Pitcher,35,55,,,,,,,0.7,Pitcher,43.0,2.3,1.16,43.0,- - -
+Garrett Cleavinger,TBR,Pitcher,31,67,,,,,,,0.7,Pitcher,61.1,2.35,0.95,82.0,Tampa Bay Rays
+Brock Stewart,- - -,Pitcher,33,43,,,,,,,0.7,Pitcher,37.2,2.63,1.19,44.0,- - -
+Kolby Allard,CLE,Pitcher,27,33,,,,,,,0.7,Pitcher,65.0,2.63,1.2,42.0,Cleveland Guardians
+Luis Garcia,- - -,Pitcher,38,58,,,,,,,0.7,Pitcher,55.1,3.42,1.46,48.0,- - -
+Juan Mejia,COL,Pitcher,24,55,,,,,,,0.7,Pitcher,61.1,3.96,1.26,68.0,Colorado Rockies
+Manuel Rodriguez,TBR,Pitcher,28,31,,,,,,,0.7,Pitcher,30.1,2.08,1.05,25.0,Tampa Bay Rays
+Gregory Soto,- - -,Pitcher,30,70,,,,,,,0.7,Pitcher,60.1,4.18,1.43,70.0,- - -
+Mark Leiter Jr.,NYY,Pitcher,34,59,,,,,,,0.6,Pitcher,48.1,4.84,1.53,54.0,New York Yankees
+Tanner Gordon,COL,Pitcher,27,15,,,,,,,0.6,Pitcher,75.1,6.33,1.5,62.0,Colorado Rockies
+Kenley Jansen,LAA,Pitcher,37,62,,,,,,,0.6,Pitcher,59.0,2.59,0.95,57.0,Los Angeles Angels
+Ryan Walker,SFG,Pitcher,29,68,,,,,,,0.6,Pitcher,61.1,4.11,1.27,60.0,San Francisco Giants
+Brant Hurter,DET,Pitcher,26,43,,,,,,,0.6,Pitcher,63.0,2.43,1.33,68.0,Detroit Tigers
+Shelby Miller,- - -,Pitcher,34,48,,,,,,,0.6,Pitcher,46.0,2.74,1.04,54.0,- - -
+Jakob Junis,CLE,Pitcher,32,57,,,,,,,0.6,Pitcher,66.2,2.97,1.23,55.0,Cleveland Guardians
+Brennan Bernardino,BOS,Pitcher,33,55,,,,,,,0.6,Pitcher,51.2,3.14,1.26,43.0,Boston Red Sox
+Luis Gil,NYY,Pitcher,27,11,,,,,,,0.6,Pitcher,57.0,3.32,1.4,41.0,New York Yankees
+Camilo Doval,- - -,Pitcher,27,69,,,,,,,0.6,Pitcher,65.1,3.58,1.32,72.0,- - -
+Isaac Mattson,PIT,Pitcher,29,44,,,,,,,0.6,Pitcher,47.2,2.45,1.13,45.0,Pittsburgh Pirates
+Brenan Hanifee,DET,Pitcher,27,54,,,,,,,0.6,Pitcher,60.0,3.0,1.32,40.0,Detroit Tigers
+AJ Smith-Shawver,ATL,Pitcher,22,9,,,,,,,0.6,Pitcher,44.1,3.86,1.42,42.0,Atlanta Braves
+Ronel Blanco,HOU,Pitcher,31,9,,,,,,,0.6,Pitcher,48.1,4.1,1.18,48.0,Houston Astros
+Chris Martin,TEX,Pitcher,39,49,,,,,,,0.6,Pitcher,42.1,2.98,1.2,43.0,Texas Rangers
+Hogan Harris,ATH,Pitcher,28,48,,,,,,,0.6,Pitcher,64.2,3.2,1.35,65.0,ATH
+Andrew Alvarez,WSN,Pitcher,26,5,,,,,,,0.6,Pitcher,23.1,2.31,1.11,20.0,Washington Nationals
+Felix Bautista,BAL,Pitcher,30,35,,,,,,,0.6,Pitcher,34.2,2.6,1.13,50.0,Baltimore Orioles
+Mason Englert,TBR,Pitcher,25,29,,,,,,,0.6,Pitcher,44.2,3.83,1.21,44.0,Tampa Bay Rays
+Brandon Sproat,NYM,Pitcher,24,4,,,,,,,0.6,Pitcher,20.2,4.79,1.21,17.0,New York Mets
+JP Sears,- - -,Pitcher,29,27,,,,,,,0.5,Pitcher,135.2,5.04,1.32,117.0,- - -
+Seth Lugo,KCR,Pitcher,35,26,,,,,,,0.5,Pitcher,145.1,4.15,1.29,125.0,Kansas City Royals
+Bailey Falter,- - -,Pitcher,28,26,,,,,,,0.5,Pitcher,125.1,4.45,1.28,81.0,- - -
+Wandy Peralta,SDP,Pitcher,33,71,,,,,,,0.5,Pitcher,71.2,3.14,1.34,63.0,San Diego Padres
+Eduard Bazardo,SEA,Pitcher,29,73,,,,,,,0.5,Pitcher,78.2,2.52,1.02,82.0,Seattle Mariners
+Nick Mears,MIL,Pitcher,28,63,,,,,,,0.5,Pitcher,56.2,3.49,0.97,46.0,Milwaukee Brewers
+Jose Butto,- - -,Pitcher,27,55,,,,,,,0.5,Pitcher,67.0,3.9,1.4,58.0,- - -
+Jordan Leasure,CHW,Pitcher,26,68,,,,,,,0.5,Pitcher,64.1,3.92,1.23,81.0,Chicago White Sox
+Taijuan Walker,PHI,Pitcher,32,34,,,,,,,0.5,Pitcher,123.2,4.08,1.41,86.0,Philadelphia Phillies
+Robert Garcia,TEX,Pitcher,29,71,,,,,,,0.5,Pitcher,64.0,2.95,1.25,68.0,Texas Rangers
+Victor Vodnik,COL,Pitcher,25,52,,,,,,,0.5,Pitcher,50.2,3.02,1.4,49.0,Colorado Rockies
+Luis Morales,ATH,Pitcher,22,10,,,,,,,0.5,Pitcher,48.2,3.14,1.15,43.0,ATH
+Luke Weaver,NYY,Pitcher,31,64,,,,,,,0.5,Pitcher,64.2,3.62,1.02,72.0,New York Yankees
+Bryan Baker,- - -,Pitcher,30,73,,,,,,,0.5,Pitcher,68.2,4.06,1.11,83.0,- - -
+Jake Bird,- - -,Pitcher,29,48,,,,,,,0.5,Pitcher,55.1,5.53,1.54,66.0,- - -
+Dietrich Enns,- - -,Pitcher,34,24,,,,,,,0.5,Pitcher,46.1,4.08,1.4,49.0,- - -
+Cade Cavalli,WSN,Pitcher,26,10,,,,,,,0.5,Pitcher,48.2,4.25,1.48,40.0,Washington Nationals
+Max Meyer,MIA,Pitcher,26,12,,,,,,,0.5,Pitcher,64.2,4.73,1.42,68.0,Miami Marlins
+Gordon Graceffo,STL,Pitcher,25,26,,,,,,,0.5,Pitcher,43.0,6.28,1.47,40.0,St. Louis Cardinals
+Andrew Saalfrank,ARI,Pitcher,27,28,,,,,,,0.5,Pitcher,29.0,1.24,1.0,19.0,Arizona Diamondbacks
+Hunter Harvey,KCR,Pitcher,30,12,,,,,,,0.5,Pitcher,10.2,0.0,0.66,11.0,Kansas City Royals
+Justin Lawrence,PIT,Pitcher,30,17,,,,,,,0.5,Pitcher,17.2,0.51,0.96,23.0,Pittsburgh Pirates
+Kyle Harrison,- - -,Pitcher,23,11,,,,,,,0.5,Pitcher,35.2,4.04,1.37,38.0,- - -
+Joe Boyle,TBR,Pitcher,25,13,,,,,,,0.5,Pitcher,52.0,4.67,1.37,58.0,Tampa Bay Rays
+Matt Gage,- - -,Pitcher,32,33,,,,,,,0.5,Pitcher,31.0,3.19,1.52,27.0,- - -
+Enyel De Los Santos,- - -,Pitcher,29,65,,,,,,,0.4,Pitcher,66.0,4.36,1.29,62.0,- - -
+Mike Vasil,CHW,Pitcher,25,47,,,,,,,0.4,Pitcher,101.0,2.5,1.25,82.0,Chicago White Sox
+Huascar Brazoban,NYM,Pitcher,35,52,,,,,,,0.4,Pitcher,63.0,3.57,1.24,57.0,New York Mets
+Max Scherzer,TOR,Pitcher,40,17,,,,,,,0.4,Pitcher,85.0,5.19,1.29,82.0,Toronto Blue Jays
+Yu Darvish,SDP,Pitcher,38,15,,,,,,,0.4,Pitcher,72.0,5.38,1.18,68.0,San Diego Padres
+Kody Funderburk,MIN,Pitcher,28,39,,,,,,,0.4,Pitcher,41.0,3.51,1.51,40.0,Minnesota Twins
+Tyler Gilbert,CHW,Pitcher,31,46,,,,,,,0.4,Pitcher,51.0,3.88,1.25,49.0,Chicago White Sox
+Spencer Bivens,SFG,Pitcher,31,54,,,,,,,0.4,Pitcher,81.0,4.0,1.33,61.0,San Francisco Giants
+Jonathan Cannon,CHW,Pitcher,24,22,,,,,,,0.4,Pitcher,103.2,5.82,1.49,86.0,Chicago White Sox
+Cal Quantrill,- - -,Pitcher,30,26,,,,,,,0.4,Pitcher,117.2,6.04,1.45,85.0,- - -
+Anthony Bender,MIA,Pitcher,30,51,,,,,,,0.4,Pitcher,50.0,2.16,1.06,42.0,Miami Marlins
+Aaron Bummer,ATL,Pitcher,31,42,,,,,,,0.4,Pitcher,54.1,3.81,1.25,51.0,Atlanta Braves
+Jackson Perkins,ATH,Pitcher,25,12,,,,,,,0.4,Pitcher,38.2,4.19,1.16,37.0,ATH
+Cole Sulser,TBR,Pitcher,35,18,,,,,,,0.4,Pitcher,22.2,1.99,1.19,22.0,Tampa Bay Rays
+Ben Lively,CLE,Pitcher,33,9,,,,,,,0.4,Pitcher,44.2,3.22,1.19,29.0,Cleveland Guardians
+Grant Anderson,MIL,Pitcher,28,66,,,,,,,0.4,Pitcher,69.2,3.23,1.26,74.0,Milwaukee Brewers
+Steven Wilson,CHW,Pitcher,30,59,,,,,,,0.4,Pitcher,55.1,3.42,1.3,51.0,Chicago White Sox
+Justin Slaten,BOS,Pitcher,27,36,,,,,,,0.4,Pitcher,34.0,4.24,1.09,25.0,Boston Red Sox
+Sean Manaea,NYM,Pitcher,33,15,,,,,,,0.4,Pitcher,60.2,5.64,1.22,75.0,New York Mets
+Trevor McDonald,SFG,Pitcher,24,3,,,,,,,0.4,Pitcher,15.0,1.8,1.0,14.0,San Francisco Giants
+Andrew Chafin,- - -,Pitcher,35,42,,,,,,,0.4,Pitcher,33.2,2.41,1.43,36.0,- - -
+Trey Yesavage,TOR,Pitcher,21,3,,,,,,,0.4,Pitcher,14.0,3.21,1.43,16.0,Toronto Blue Jays
+DL Hall,MIL,Pitcher,26,20,,,,,,,0.4,Pitcher,38.2,3.49,1.06,27.0,Milwaukee Brewers
+Tobias Myers,MIL,Pitcher,26,22,,,,,,,0.4,Pitcher,50.2,3.55,1.36,38.0,Milwaukee Brewers
+Zack Kelly,BOS,Pitcher,30,28,,,,,,,0.4,Pitcher,35.1,4.58,1.33,35.0,Boston Red Sox
+JT Brubaker,- - -,Pitcher,31,17,,,,,,,0.4,Pitcher,28.2,3.77,1.22,22.0,- - -
+Taylor Rashi,ARI,Pitcher,29,10,,,,,,,0.4,Pitcher,16.1,4.41,1.47,22.0,Arizona Diamondbacks
+Ryan Feltner,COL,Pitcher,28,6,,,,,,,0.4,Pitcher,30.1,4.75,1.48,25.0,Colorado Rockies
+Charlie Morton,- - -,Pitcher,41,33,,,,,,,0.3,Pitcher,142.0,5.83,1.58,149.0,- - -
+Miles Mikolas,STL,Pitcher,36,31,,,,,,,0.3,Pitcher,156.1,4.84,1.32,100.0,St. Louis Cardinals
+Brock Burke,LAA,Pitcher,28,69,,,,,,,0.3,Pitcher,61.2,3.36,1.23,52.0,Los Angeles Angels
+Jorge Lopez,WSN,Pitcher,32,26,,,,,,,0.3,Pitcher,24.2,6.57,1.3,17.0,Washington Nationals
+Angel Zerpa,KCR,Pitcher,25,69,,,,,,,0.3,Pitcher,64.2,4.18,1.38,58.0,Kansas City Royals
+Cade Gibson,MIA,Pitcher,27,44,,,,,,,0.3,Pitcher,54.2,2.63,1.19,43.0,Miami Marlins
+Justin Sterner,ATH,Pitcher,28,59,,,,,,,0.3,Pitcher,65.0,3.18,1.05,70.0,ATH
+Shane Bieber,TOR,Pitcher,30,7,,,,,,,0.3,Pitcher,40.1,3.57,1.02,37.0,Toronto Blue Jays
+Javier Assad,CHC,Pitcher,27,8,,,,,,,0.3,Pitcher,37.0,3.65,1.22,23.0,Chicago Cubs
+Jose Alvarado,PHI,Pitcher,30,28,,,,,,,0.3,Pitcher,26.0,3.81,1.31,32.0,Philadelphia Phillies
+Tyler Ferguson,ATH,Pitcher,31,56,,,,,,,0.3,Pitcher,58.0,4.66,1.33,54.0,ATH
+Kumar Rocker,TEX,Pitcher,25,14,,,,,,,0.3,Pitcher,64.1,5.74,1.46,56.0,Texas Rangers
+Riley O'Brien,STL,Pitcher,30,42,,,,,,,0.3,Pitcher,48.0,2.06,1.15,45.0,St. Louis Cardinals
+Pierce Johnson,ATL,Pitcher,34,65,,,,,,,0.3,Pitcher,59.0,3.05,1.2,59.0,Atlanta Braves
+Max Kranick,NYM,Pitcher,27,24,,,,,,,0.3,Pitcher,37.0,3.65,1.05,25.0,New York Mets
+John Schreiber,KCR,Pitcher,31,74,,,,,,,0.3,Pitcher,64.0,3.8,1.19,62.0,Kansas City Royals
+David Festa,MIN,Pitcher,25,11,,,,,,,0.3,Pitcher,53.1,5.4,1.28,53.0,Minnesota Twins
+German Marquez,COL,Pitcher,30,26,,,,,,,0.3,Pitcher,126.1,6.7,1.71,83.0,Colorado Rockies
+Albert Suarez,BAL,Pitcher,35,5,,,,,,,0.3,Pitcher,11.2,2.31,0.94,10.0,Baltimore Orioles
+Edgardo Henriquez,LAD,Pitcher,23,22,,,,,,,0.3,Pitcher,19.0,2.37,1.16,18.0,Los Angeles Dodgers
+Tyler Wells,BAL,Pitcher,30,4,,,,,,,0.3,Pitcher,21.2,2.91,0.88,18.0,Baltimore Orioles
+Dylan Lee,ATL,Pitcher,30,74,,,,,,,0.3,Pitcher,68.1,3.29,0.98,76.0,Atlanta Braves
+Kai-Wei Teng,SFG,Pitcher,26,8,,,,,,,0.3,Pitcher,29.2,6.37,1.55,39.0,San Francisco Giants
+Jordan Hicks,- - -,Pitcher,28,34,,,,,,,0.3,Pitcher,67.1,6.95,1.66,58.0,- - -
+Will Klein,LAD,Pitcher,25,14,,,,,,,0.3,Pitcher,15.1,2.35,1.57,21.0,Los Angeles Dodgers
+Wikelman Gonzalez,CHW,Pitcher,23,16,,,,,,,0.3,Pitcher,20.1,2.66,1.23,25.0,Chicago White Sox
+David Morgan,SDP,Pitcher,25,41,,,,,,,0.3,Pitcher,47.1,2.66,1.23,50.0,San Diego Padres
+Eric Orze,TBR,Pitcher,27,33,,,,,,,0.3,Pitcher,41.2,3.02,1.37,40.0,Tampa Bay Rays
+Taylor Clarke,KCR,Pitcher,32,51,,,,,,,0.3,Pitcher,55.1,3.25,0.85,44.0,Kansas City Royals
+Jaden Hill,COL,Pitcher,25,28,,,,,,,0.3,Pitcher,29.1,3.38,1.33,31.0,Colorado Rockies
+Mason Montgomery,TBR,Pitcher,25,57,,,,,,,0.3,Pitcher,46.0,5.67,1.65,63.0,Tampa Bay Rays
+Cody Laweryson,MIN,Pitcher,27,5,,,,,,,0.3,Pitcher,7.2,1.17,0.52,7.0,Minnesota Twins
+Jayden Murray,HOU,Pitcher,28,9,,,,,,,0.3,Pitcher,11.2,1.54,1.11,8.0,Houston Astros
+A.J. Minter,NYM,Pitcher,31,13,,,,,,,0.3,Pitcher,11.0,1.64,1.0,14.0,New York Mets
+Erik Sabrowski,CLE,Pitcher,27,33,,,,,,,0.3,Pitcher,29.1,1.84,1.19,42.0,Cleveland Guardians
+Rico Garcia,- - -,Pitcher,31,29,,,,,,,0.3,Pitcher,34.1,3.15,1.19,38.0,- - -
+Yerry De Los Santos,NYY,Pitcher,27,25,,,,,,,0.3,Pitcher,35.2,3.28,1.51,28.0,New York Yankees
+Juan Morillo,ARI,Pitcher,26,42,,,,,,,0.3,Pitcher,34.1,4.19,1.69,36.0,Arizona Diamondbacks
+Ryan Brasier,CHC,Pitcher,37,28,,,,,,,0.3,Pitcher,26.0,4.5,1.23,20.0,Chicago Cubs
+Connor Phillips,CIN,Pitcher,24,21,,,,,,,0.2,Pitcher,25.0,2.88,0.92,32.0,Cincinnati Reds
+Jacob Webb,TEX,Pitcher,31,55,,,,,,,0.2,Pitcher,66.0,3.0,1.03,58.0,Texas Rangers
+Jalen Beeks,ARI,Pitcher,31,61,,,,,,,0.2,Pitcher,57.1,3.77,1.08,47.0,Arizona Diamondbacks
+Mason Fluharty,TOR,Pitcher,23,55,,,,,,,0.2,Pitcher,52.2,4.44,1.14,56.0,Toronto Blue Jays
+Jason Alexander,- - -,Pitcher,32,18,,,,,,,0.2,Pitcher,77.1,4.77,1.37,65.0,- - -
+Taylor Rogers,- - -,Pitcher,34,57,,,,,,,0.2,Pitcher,50.2,3.38,1.38,53.0,- - -
+Steven Cruz,KCR,Pitcher,26,47,,,,,,,0.2,Pitcher,45.2,3.74,1.18,38.0,Kansas City Royals
+Ryan Thompson,ARI,Pitcher,33,48,,,,,,,0.2,Pitcher,41.1,3.92,1.33,36.0,Arizona Diamondbacks
+Ryan Helsley,- - -,Pitcher,30,58,,,,,,,0.2,Pitcher,56.0,4.5,1.54,63.0,- - -
+Yohan Ramirez,PIT,Pitcher,30,24,,,,,,,0.2,Pitcher,33.1,5.4,1.47,45.0,Pittsburgh Pirates
+Grant Wolfram,BAL,Pitcher,28,21,,,,,,,0.2,Pitcher,26.2,5.4,1.88,31.0,Baltimore Orioles
+Jose Suarez,ATL,Pitcher,27,7,,,,,,,0.2,Pitcher,19.1,1.86,1.29,16.0,Atlanta Braves
+Nic Enright,CLE,Pitcher,28,27,,,,,,,0.2,Pitcher,31.0,2.03,1.16,30.0,Cleveland Guardians
+Johan Oviedo,PIT,Pitcher,27,9,,,,,,,0.2,Pitcher,40.1,3.57,1.21,42.0,Pittsburgh Pirates
+PJ Poulin,WSN,Pitcher,28,28,,,,,,,0.2,Pitcher,24.2,3.65,1.46,27.0,Washington Nationals
+Ryan Weathers,MIA,Pitcher,25,8,,,,,,,0.2,Pitcher,38.1,3.99,1.28,37.0,Miami Marlins
+Jesus Tinoco,MIA,Pitcher,30,20,,,,,,,0.2,Pitcher,19.1,5.12,1.29,10.0,Miami Marlins
+Collin Snider,SEA,Pitcher,29,24,,,,,,,0.2,Pitcher,26.1,5.47,1.44,24.0,Seattle Mariners
+Sam Bachman,LAA,Pitcher,25,23,,,,,,,0.2,Pitcher,20.1,6.2,1.57,18.0,Los Angeles Angels
+Jonah Tong,NYM,Pitcher,22,5,,,,,,,0.2,Pitcher,18.2,7.71,1.77,22.0,New York Mets
+Luinder Avila,KCR,Pitcher,23,13,,,,,,,0.2,Pitcher,14.0,1.29,0.93,16.0,Kansas City Royals
+Evan Sisk,- - -,Pitcher,28,19,,,,,,,0.2,Pitcher,17.2,3.57,1.47,25.0,- - -
+Dylan Dodd,ATL,Pitcher,27,28,,,,,,,0.2,Pitcher,35.0,3.6,0.94,30.0,Atlanta Braves
+Jonathan Bowlan,KCR,Pitcher,28,34,,,,,,,0.2,Pitcher,44.1,3.86,1.22,46.0,Kansas City Royals
+Hayden Wesneski,HOU,Pitcher,27,6,,,,,,,0.2,Pitcher,32.0,4.5,1.09,29.0,Houston Astros
+Kyle Nicolas,PIT,Pitcher,26,31,,,,,,,0.2,Pitcher,38.0,4.74,1.37,34.0,Pittsburgh Pirates
+Mason Barnett,ATH,Pitcher,24,5,,,,,,,0.2,Pitcher,22.1,6.85,1.66,18.0,ATH
+Kevin Ginkel,ARI,Pitcher,31,29,,,,,,,0.2,Pitcher,25.2,7.36,1.64,29.0,Arizona Diamondbacks
+Evan Phillips,LAD,Pitcher,30,7,,,,,,,0.2,Pitcher,5.2,0.0,1.06,6.0,Los Angeles Dodgers
+Ron Marinaccio,SDP,Pitcher,29,7,,,,,,,0.2,Pitcher,10.2,0.84,0.94,12.0,San Diego Padres
+Cole Winn,TEX,Pitcher,25,33,,,,,,,0.2,Pitcher,41.2,1.51,0.96,35.0,Texas Rangers
+Kade Strowd,BAL,Pitcher,27,25,,,,,,,0.2,Pitcher,26.1,1.71,1.1,24.0,Baltimore Orioles
+Josh Winckowski,BOS,Pitcher,27,6,,,,,,,0.2,Pitcher,11.2,3.86,1.37,9.0,Boston Red Sox
+Clayton Beeter,- - -,Pitcher,26,26,,,,,,,0.2,Pitcher,25.1,4.26,1.22,33.0,- - -
+Danny Young,NYM,Pitcher,31,10,,,,,,,0.2,Pitcher,8.1,4.32,1.44,13.0,New York Mets
+Justin Hagenman,NYM,Pitcher,28,9,,,,,,,0.2,Pitcher,23.2,4.56,1.1,23.0,New York Mets
+Brandyn Garcia,- - -,Pitcher,25,14,,,,,,,0.2,Pitcher,14.1,5.65,1.81,14.0,- - -
+Caleb Boushley,TEX,Pitcher,31,25,,,,,,,0.2,Pitcher,43.1,6.02,1.57,41.0,Texas Rangers
+Paul Blackburn,- - -,Pitcher,31,15,,,,,,,0.2,Pitcher,39.0,6.23,1.51,34.0,- - -
+Sammy Peralta,LAA,Pitcher,27,5,,,,,,,0.2,Pitcher,10.2,7.59,1.88,8.0,Los Angeles Angels
+Jared Shuster,CHW,Pitcher,26,12,,,,,,,0.2,Pitcher,15.2,8.04,2.04,12.0,Chicago White Sox
+Tomoyuki Sugano,BAL,Pitcher,35,30,,,,,,,0.1,Pitcher,157.0,4.64,1.33,106.0,Baltimore Orioles
+Lake Bachar,MIA,Pitcher,30,53,,,,,,,0.1,Pitcher,71.0,3.93,1.2,75.0,Miami Marlins
+Scott Barlow,CIN,Pitcher,32,75,,,,,,,0.1,Pitcher,68.1,4.21,1.39,75.0,Cincinnati Reds
+Anthony Banda,LAD,Pitcher,31,71,,,,,,,0.1,Pitcher,65.0,3.18,1.22,61.0,Los Angeles Dodgers
+Keider Montero,DET,Pitcher,24,20,,,,,,,0.1,Pitcher,90.2,4.37,1.39,72.0,Detroit Tigers
+Erik Miller,SFG,Pitcher,27,36,,,,,,,0.1,Pitcher,30.0,1.5,1.47,22.0,San Francisco Giants
+Jackson Jobe,DET,Pitcher,22,10,,,,,,,0.1,Pitcher,49.0,4.22,1.49,39.0,Detroit Tigers
+Ryne Stanek,NYM,Pitcher,33,65,,,,,,,0.1,Pitcher,56.0,5.3,1.57,58.0,New York Mets
+A.J. Blubaugh,HOU,Pitcher,24,11,,,,,,,0.1,Pitcher,32.0,1.69,0.88,35.0,Houston Astros
+Troy Melton,DET,Pitcher,24,16,,,,,,,0.1,Pitcher,45.2,2.76,1.01,36.0,Detroit Tigers
+Yariel Rodriguez,TOR,Pitcher,28,66,,,,,,,0.1,Pitcher,73.0,3.08,1.15,66.0,Toronto Blue Jays
+Nabil Crismatt,ARI,Pitcher,30,8,,,,,,,0.1,Pitcher,34.0,3.71,1.44,25.0,Arizona Diamondbacks
+Ryan Yarbrough,NYY,Pitcher,33,19,,,,,,,0.1,Pitcher,64.0,4.36,1.2,55.0,New York Yankees
+Brandon Eisert,CHW,Pitcher,27,72,,,,,,,0.1,Pitcher,69.2,4.39,1.44,74.0,Chicago White Sox
+Yennier Cano,BAL,Pitcher,31,65,,,,,,,0.1,Pitcher,58.0,5.12,1.48,53.0,Baltimore Orioles
+Yoendrys Gomez,- - -,Pitcher,25,21,,,,,,,0.1,Pitcher,62.2,5.17,1.39,58.0,- - -
+Mick Abel,- - -,Pitcher,23,10,,,,,,,0.1,Pitcher,39.0,6.23,1.51,39.0,- - -
+Marcus Stroman,NYY,Pitcher,34,9,,,,,,,0.1,Pitcher,39.0,6.23,1.54,26.0,New York Yankees
+Robert Stephenson,LAA,Pitcher,32,12,,,,,,,0.1,Pitcher,10.0,2.7,1.0,10.0,Los Angeles Angels
+Tyler Phillips,MIA,Pitcher,27,54,,,,,,,0.1,Pitcher,77.2,2.78,1.15,52.0,Miami Marlins
+Tyler Anderson,LAA,Pitcher,35,26,,,,,,,0.1,Pitcher,136.1,4.56,1.41,104.0,Los Angeles Angels
+Chase Dollander,COL,Pitcher,23,21,,,,,,,0.1,Pitcher,98.0,6.52,1.55,82.0,Colorado Rockies
+Ryan Burr,TOR,Pitcher,31,2,,,,,,,0.1,Pitcher,2.0,0.0,1.0,3.0,Toronto Blue Jays
+Hunter Barco,PIT,Pitcher,24,2,,,,,,,0.1,Pitcher,3.0,0.0,1.0,3.0,Pittsburgh Pirates
+Austin Warren,NYM,Pitcher,29,5,,,,,,,0.1,Pitcher,9.1,0.96,0.96,9.0,New York Mets
+Bradgley Rodriguez,SDP,Pitcher,21,7,,,,,,,0.1,Pitcher,7.2,1.17,0.91,9.0,San Diego Padres
+Cristian Mena,ARI,Pitcher,22,3,,,,,,,0.1,Pitcher,6.2,1.35,0.9,8.0,Arizona Diamondbacks
+J.P. France,HOU,Pitcher,30,2,,,,,,,0.1,Pitcher,4.0,2.25,1.0,5.0,Houston Astros
+Brady Basso,ATH,Pitcher,27,11,,,,,,,0.1,Pitcher,11.2,2.31,1.8,8.0,ATH
+Elvis Alvarado,ATH,Pitcher,26,37,,,,,,,0.1,Pitcher,42.1,3.19,1.32,50.0,ATH
+Dauri Moreta,PIT,Pitcher,29,18,,,,,,,0.1,Pitcher,16.2,3.24,1.38,19.0,Pittsburgh Pirates
+Bryan Hoeing,SDP,Pitcher,28,7,,,,,,,0.1,Pitcher,8.0,3.38,1.5,5.0,San Diego Padres
+Luis Garcia,HOU,Pitcher,28,2,,,,,,,0.1,Pitcher,7.2,3.52,0.52,7.0,Houston Astros
+Yimi Garcia,TOR,Pitcher,34,22,,,,,,,0.1,Pitcher,21.0,3.86,1.19,25.0,Toronto Blue Jays
+Jose De Leon,BOS,Pitcher,32,1,,,,,,,0.1,Pitcher,6.2,4.05,1.65,8.0,Boston Red Sox
+Justin Martinez,ARI,Pitcher,23,17,,,,,,,0.1,Pitcher,15.1,4.11,1.24,22.0,Arizona Diamondbacks
+Rafael Montero,- - -,Pitcher,34,59,,,,,,,0.1,Pitcher,60.1,4.48,1.31,58.0,- - -
+Brent Suter,CIN,Pitcher,35,48,,,,,,,0.1,Pitcher,67.2,4.52,1.29,53.0,Cincinnati Reds
+Zak Kent,CLE,Pitcher,27,12,,,,,,,0.1,Pitcher,17.2,4.58,1.42,16.0,Cleveland Guardians
+Carlos Hernandez,- - -,Pitcher,28,41,,,,,,,0.1,Pitcher,43.1,6.23,1.66,39.0,- - -
+Mitch Farris,LAA,Pitcher,24,5,,,,,,,0.1,Pitcher,24.1,6.66,1.44,24.0,Los Angeles Angels
+Nick Burdi,BOS,Pitcher,32,4,,,,,,,0.1,Pitcher,5.1,0.0,1.31,5.0,Boston Red Sox
+Zach Thompson,ATL,Pitcher,31,2,,,,,,,0.1,Pitcher,3.2,0.0,0.27,3.0,Atlanta Braves
+Jose Espada,BAL,Pitcher,28,1,,,,,,,0.1,Pitcher,3.0,0.0,0.33,4.0,Baltimore Orioles
+Chase Silseth,LAA,Pitcher,25,10,,,,,,,0.1,Pitcher,11.0,1.64,1.45,13.0,Los Angeles Angels
+Darren McCaughan,MIN,Pitcher,29,3,,,,,,,0.1,Pitcher,5.1,1.69,1.13,6.0,Minnesota Twins
+Chris Devenski,NYM,Pitcher,34,13,,,,,,,0.1,Pitcher,16.2,2.16,0.9,14.0,New York Mets
+Tom Cosgrove,CHC,Pitcher,29,2,,,,,,,0.1,Pitcher,4.0,2.25,1.0,3.0,Chicago Cubs
+Kevin Herget,- - -,Pitcher,34,7,,,,,,,0.1,Pitcher,13.0,2.77,1.31,6.0,- - -
+Brent Headrick,NYY,Pitcher,27,17,,,,,,,0.1,Pitcher,23.0,3.13,1.04,30.0,New York Yankees
+Colin Selby,BAL,Pitcher,27,11,,,,,,,0.1,Pitcher,14.0,3.21,1.29,14.0,Baltimore Orioles
+Joey Lucchesi,SFG,Pitcher,32,38,,,,,,,0.1,Pitcher,38.1,3.76,1.23,31.0,San Francisco Giants
+Tyler Matzek,NYY,Pitcher,34,7,,,,,,,0.1,Pitcher,6.1,4.26,2.53,7.0,New York Yankees
+Paxton Schultz,TOR,Pitcher,27,13,,,,,,,0.1,Pitcher,24.2,4.38,1.42,28.0,Toronto Blue Jays
+Keaton Winn,SFG,Pitcher,27,7,,,,,,,0.1,Pitcher,10.0,4.5,1.4,9.0,San Francisco Giants
+Lyon Richardson,CIN,Pitcher,25,34,,,,,,,0.1,Pitcher,37.2,4.54,1.54,30.0,Cincinnati Reds
+Ian Gibaut,CIN,Pitcher,31,25,,,,,,,0.1,Pitcher,25.1,4.62,1.34,15.0,Cincinnati Reds
+Dedniel Nunez,NYM,Pitcher,29,10,,,,,,,0.1,Pitcher,9.2,4.66,1.24,11.0,New York Mets
+Adam Mazur,MIA,Pitcher,24,6,,,,,,,0.1,Pitcher,30.0,4.8,1.5,19.0,Miami Marlins
+Philip Abner,ARI,Pitcher,23,5,,,,,,,0.1,Pitcher,3.2,4.91,2.18,5.0,Arizona Diamondbacks
+Pierson Ohl,MIN,Pitcher,25,14,,,,,,,0.1,Pitcher,30.0,5.1,1.5,27.0,Minnesota Twins
+Sean Guenther,DET,Pitcher,29,9,,,,,,,0.1,Pitcher,10.1,5.23,1.45,8.0,Detroit Tigers
+Jesse Scholtens,TBR,Pitcher,31,2,,,,,,,0.1,Pitcher,8.1,5.4,1.44,12.0,Tampa Bay Rays
+Matt Krook,ATH,Pitcher,30,3,,,,,,,0.1,Pitcher,3.1,5.4,1.8,3.0,ATH
+Easton McGee,MIL,Pitcher,27,9,,,,,,,0.1,Pitcher,14.2,5.52,1.36,13.0,Milwaukee Brewers
+Jordan Wicks,CHC,Pitcher,25,8,,,,,,,0.1,Pitcher,14.1,6.28,1.74,13.0,Chicago Cubs
+Josh Walker,TOR,Pitcher,30,3,,,,,,,0.1,Pitcher,5.0,7.2,2.0,8.0,Toronto Blue Jays
+Trevor Richards,- - -,Pitcher,32,5,,,,,,,0.1,Pitcher,5.2,7.94,2.29,5.0,- - -
+Patrick Monteverde,MIA,Pitcher,27,1,,,,,,,0.1,Pitcher,3.2,9.82,2.73,4.0,Miami Marlins
+Tanner Rainey,- - -,Pitcher,32,13,,,,,,,0.1,Pitcher,9.2,11.17,1.76,11.0,- - -
+Colton Gordon,HOU,Pitcher,26,20,,,,,,,0.0,Pitcher,86.0,5.34,1.42,72.0,Houston Astros
+Tim Hill,NYY,Pitcher,35,70,,,,,,,0.0,Pitcher,67.0,3.09,1.1,37.0,New York Yankees
+Calvin Faucher,MIA,Pitcher,29,65,,,,,,,0.0,Pitcher,60.1,3.28,1.28,59.0,Miami Marlins
+Hayden Birdsong,SFG,Pitcher,23,21,,,,,,,0.0,Pitcher,65.2,4.8,1.49,68.0,San Francisco Giants
+Emerson Hancock,SEA,Pitcher,26,22,,,,,,,0.0,Pitcher,90.0,4.9,1.38,64.0,Seattle Mariners
+Grant Holman,ATH,Pitcher,25,22,,,,,,,0.0,Pitcher,23.0,5.09,1.52,17.0,ATH
+Bryce Miller,SEA,Pitcher,26,18,,,,,,,0.0,Pitcher,90.1,5.68,1.41,74.0,Seattle Mariners
+Joel Peguero,SFG,Pitcher,28,17,,,,,,,0.0,Pitcher,22.1,2.42,1.03,17.0,San Francisco Giants
+John Curtiss,ARI,Pitcher,32,30,,,,,,,0.0,Pitcher,36.2,3.93,0.93,24.0,Arizona Diamondbacks
+Lou Trivino,- - -,Pitcher,33,47,,,,,,,0.0,Pitcher,47.2,3.97,1.34,37.0,- - -
+Justin Steele,CHC,Pitcher,29,4,,,,,,,0.0,Pitcher,22.2,4.76,1.15,21.0,Chicago Cubs
+Mitch Spence,ATH,Pitcher,27,32,,,,,,,0.0,Pitcher,84.2,5.1,1.44,66.0,ATH
+Frankie Montas,NYM,Pitcher,32,9,,,,,,,0.0,Pitcher,38.2,6.28,1.6,32.0,New York Mets
+Easton Lucas,TOR,Pitcher,28,6,,,,,,,0.0,Pitcher,24.1,6.66,1.52,23.0,Toronto Blue Jays
+Rob Zastryzny,MIL,Pitcher,33,26,,,,,,,0.0,Pitcher,22.0,2.45,1.18,20.0,Milwaukee Brewers
+Ian Hamilton,NYY,Pitcher,30,36,,,,,,,0.0,Pitcher,40.0,4.28,1.25,42.0,New York Yankees
+Dylan Smith,DET,Pitcher,25,7,,,,,,,0.0,Pitcher,13.0,1.38,0.85,4.0,Detroit Tigers
+Freddy Tarnok,MIA,Pitcher,26,5,,,,,,,0.0,Pitcher,7.1,2.45,0.68,10.0,Miami Marlins
+Hunter Strickland,LAA,Pitcher,36,19,,,,,,,0.0,Pitcher,22.0,3.27,1.23,14.0,Los Angeles Angels
+Cooper Criswell,BOS,Pitcher,28,7,,,,,,,0.0,Pitcher,17.2,3.57,1.58,9.0,Boston Red Sox
+Dugan Darnell,COL,Pitcher,28,9,,,,,,,0.0,Pitcher,11.2,3.86,1.46,5.0,Colorado Rockies
+Casey Lawrence,- - -,Pitcher,37,6,,,,,,,0.0,Pitcher,17.2,4.08,1.53,7.0,- - -
+Fraser Ellard,CHW,Pitcher,27,18,,,,,,,0.0,Pitcher,17.0,4.24,1.59,22.0,Chicago White Sox
+Seth Johnson,PHI,Pitcher,26,10,,,,,,,0.0,Pitcher,12.2,4.26,1.18,17.0,Philadelphia Phillies
+Paul Sewald,- - -,Pitcher,35,22,,,,,,,0.0,Pitcher,19.2,4.58,1.22,20.0,- - -
+Tristan Beck,SFG,Pitcher,29,31,,,,,,,0.0,Pitcher,56.2,4.61,1.11,41.0,San Francisco Giants
+Ryan Borucki,- - -,Pitcher,31,39,,,,,,,0.0,Pitcher,35.0,4.63,1.29,32.0,- - -
+Andre Granillo,STL,Pitcher,25,14,,,,,,,0.0,Pitcher,21.0,4.71,1.38,18.0,St. Louis Cardinals
+Tanner Scott,LAD,Pitcher,30,61,,,,,,,0.0,Pitcher,57.0,4.74,1.26,60.0,Los Angeles Dodgers
+Sauryn Lao,- - -,Pitcher,25,8,,,,,,,0.0,Pitcher,11.0,4.91,1.45,9.0,- - -
+Brian Van Belle,TBR,Pitcher,28,4,,,,,,,0.0,Pitcher,8.1,5.4,1.56,6.0,Tampa Bay Rays
+Luis Curvelo,TEX,Pitcher,24,17,,,,,,,0.0,Pitcher,19.0,5.68,1.42,20.0,Texas Rangers
+Yosver Zulueta,CIN,Pitcher,27,7,,,,,,,0.0,Pitcher,7.1,6.14,1.23,5.0,Cincinnati Reds
+Carlos Rodriguez,MIL,Pitcher,23,4,,,,,,,0.0,Pitcher,9.2,6.52,2.28,11.0,Milwaukee Brewers
+Michael Darrell-Hicks,- - -,Pitcher,27,7,,,,,,,0.0,Pitcher,9.2,7.45,1.45,8.0,- - -
+Noah Murdock,ATH,Pitcher,26,14,,,,,,,0.0,Pitcher,17.0,13.24,2.71,21.0,ATH
+Adam Ottavino,NYY,Pitcher,39,3,,,,,,,0.0,Pitcher,1.2,0.0,2.4,3.0,New York Yankees
+Casey Kelly,ARI,Pitcher,35,2,,,,,,,0.0,Pitcher,1.2,0.0,1.2,0.0,Arizona Diamondbacks
+Luke Maile,KCR,Pitcher,34,1,,,,,,,0.0,Pitcher,1.0,0.0,1.0,0.0,Kansas City Royals
+Tomas Nido,DET,Pitcher,31,1,,,,,,,0.0,Pitcher,1.2,0.0,0.0,0.0,Detroit Tigers
+Willi Castro,MIN,Pitcher,28,1,,,,,,,0.0,Pitcher,1.0,0.0,1.0,0.0,Minnesota Twins
+Jose Quijada,LAA,Pitcher,29,2,,,,,,,0.0,Pitcher,1.1,0.0,2.25,3.0,Los Angeles Angels
+Garrett Hampson,STL,Pitcher,30,1,,,,,,,0.0,Pitcher,1.0,0.0,0.0,0.0,St. Louis Cardinals
+Weston Wilson,PHI,Pitcher,30,2,,,,,,,0.0,Pitcher,3.0,0.0,1.0,0.0,Philadelphia Phillies
+Reiver Sanmartin,CIN,Pitcher,29,1,,,,,,,0.0,Pitcher,1.2,0.0,1.8,2.0,Cincinnati Reds
+Alex Lange,DET,Pitcher,29,1,,,,,,,0.0,Pitcher,1.0,0.0,3.0,1.0,Detroit Tigers
+Miles Mastrobuoni,SEA,Pitcher,29,1,,,,,,,0.0,Pitcher,1.0,0.0,3.0,0.0,Seattle Mariners
+Alan Trejo,COL,Pitcher,29,1,,,,,,,0.0,Pitcher,1.0,0.0,1.0,0.0,Colorado Rockies
+Jhonathan Diaz,SEA,Pitcher,28,1,,,,,,,0.0,Pitcher,1.1,0.0,0.75,1.0,Seattle Mariners
+Nick Raquet,STL,Pitcher,29,2,,,,,,,0.0,Pitcher,2.0,0.0,0.5,1.0,St. Louis Cardinals
+Leo Rivas,SEA,Pitcher,27,1,,,,,,,0.0,Pitcher,1.0,0.0,4.0,0.0,Seattle Mariners
+Cesar Salazar,HOU,Pitcher,29,1,,,,,,,0.0,Pitcher,1.0,0.0,0.0,0.0,Houston Astros
+Jacob Amaya,CHW,Pitcher,26,1,,,,,,,0.0,Pitcher,1.0,0.0,0.0,0.0,Chicago White Sox
+Luis Vazquez,BAL,Pitcher,25,4,,,,,,,0.0,Pitcher,4.1,0.0,0.92,0.0,Baltimore Orioles
+Ezequiel Duran,TEX,Pitcher,26,4,,,,,,,0.0,Pitcher,3.1,0.0,0.3,0.0,Texas Rangers
+Anthony Seigler,MIL,Pitcher,26,1,,,,,,,0.0,Pitcher,1.0,0.0,1.0,0.0,Milwaukee Brewers
+Ryan Fitzgerald,MIN,Pitcher,31,2,,,,,,,0.0,Pitcher,2.0,0.0,1.0,0.0,Minnesota Twins
+Willie MacIver,ATH,Pitcher,28,2,,,,,,,0.0,Pitcher,2.0,0.0,2.0,0.0,ATH
+Nate Eaton,BOS,Pitcher,28,1,,,,,,,0.0,Pitcher,1.0,0.0,2.0,0.0,Boston Red Sox
+Michael Stefanic,TOR,Pitcher,29,1,,,,,,,0.0,Pitcher,1.0,0.0,0.0,0.0,Toronto Blue Jays
+Logan Davidson,LAA,Pitcher,27,1,,,,,,,0.0,Pitcher,1.0,0.0,0.0,1.0,Los Angeles Angels
+Austin Pope,ARI,Pitcher,26,1,,,,,,,0.0,Pitcher,2.0,0.0,1.5,1.0,Arizona Diamondbacks
+Garrett Acton,TBR,Pitcher,27,1,,,,,,,0.0,Pitcher,1.0,0.0,2.0,0.0,Tampa Bay Rays
+Alec Burleson,STL,Pitcher,26,1,,,,,,,0.0,Pitcher,1.0,0.0,1.0,0.0,St. Louis Cardinals
+Christian Koss,SFG,Pitcher,27,4,,,,,,,0.0,Pitcher,4.0,0.0,1.0,0.0,San Francisco Giants
+Christian Roa,MIA,Pitcher,26,2,,,,,,,0.0,Pitcher,3.0,0.0,1.33,3.0,Miami Marlins
+Niko Kavadas,LAA,Pitcher,26,1,,,,,,,0.0,Pitcher,1.2,0.0,2.4,1.0,Los Angeles Angels
+Dominic Hamel,NYM,Pitcher,26,1,,,,,,,0.0,Pitcher,1.0,0.0,3.0,0.0,New York Mets
+Christian Montes De Oca,ARI,Pitcher,25,1,,,,,,,0.0,Pitcher,2.2,0.0,0.38,2.0,Arizona Diamondbacks
+Bailey Horn,DET,Pitcher,27,10,,,,,,,0.0,Pitcher,11.1,1.59,1.59,10.0,Detroit Tigers
+Joey Gerber,TBR,Pitcher,28,2,,,,,,,0.0,Pitcher,4.1,2.08,0.69,4.0,Tampa Bay Rays
+Nick Sandlin,TOR,Pitcher,28,19,,,,,,,0.0,Pitcher,16.1,2.2,1.16,16.0,Toronto Blue Jays
+Craig Kimbrel,- - -,Pitcher,37,14,,,,,,,0.0,Pitcher,12.0,2.25,1.42,17.0,- - -
+Joe Rock,TBR,Pitcher,24,3,,,,,,,0.0,Pitcher,7.2,2.35,1.17,11.0,Tampa Bay Rays
+Alan Rangel,PHI,Pitcher,27,5,,,,,,,0.0,Pitcher,11.0,2.45,1.45,8.0,Philadelphia Phillies
+Michael Kopech,LAD,Pitcher,29,14,,,,,,,0.0,Pitcher,11.0,2.45,1.73,12.0,Los Angeles Dodgers
+Jake Rogers,DET,Pitcher,30,4,,,,,,,0.0,Pitcher,3.2,2.45,1.36,0.0,Detroit Tigers
+Korey Lee,CHW,Pitcher,26,2,,,,,,,0.0,Pitcher,3.0,3.0,2.0,0.0,Chicago White Sox
+Randy Wynne,CIN,Pitcher,32,1,,,,,,,0.0,Pitcher,3.0,3.0,1.33,3.0,Cincinnati Reds
+Tyler Owens,DET,Pitcher,24,3,,,,,,,0.0,Pitcher,3.0,3.0,2.0,1.0,Detroit Tigers
+Luke Williams,ATL,Pitcher,28,6,,,,,,,0.0,Pitcher,6.0,3.0,1.17,4.0,Atlanta Braves
+Ty Adcock,NYM,Pitcher,28,3,,,,,,,0.0,Pitcher,3.0,3.0,1.33,5.0,New York Mets
+A.J. Puk,ARI,Pitcher,30,8,,,,,,,0.0,Pitcher,8.0,3.38,1.25,12.0,Arizona Diamondbacks
+Luke Little,CHC,Pitcher,24,2,,,,,,,0.0,Pitcher,2.2,3.38,2.63,4.0,Chicago Cubs
+Hayden Harris,ATL,Pitcher,26,3,,,,,,,0.0,Pitcher,2.2,3.38,1.88,0.0,Atlanta Braves
+Jake Bauers,MIL,Pitcher,29,5,,,,,,,0.0,Pitcher,5.0,3.6,2.2,1.0,Milwaukee Brewers
+Tim Mayza,- - -,Pitcher,33,15,,,,,,,0.0,Pitcher,16.2,3.78,1.32,15.0,- - -
+Jose Trevino,CIN,Pitcher,32,2,,,,,,,0.0,Pitcher,2.1,3.86,2.14,1.0,Cincinnati Reds
+Marc Church,TEX,Pitcher,24,5,,,,,,,0.0,Pitcher,4.2,3.86,2.14,5.0,Texas Rangers
+Michael Petersen,- - -,Pitcher,31,15,,,,,,,0.0,Pitcher,18.0,4.0,1.39,17.0,- - -
+Luis Guerrero,BOS,Pitcher,24,13,,,,,,,0.0,Pitcher,17.1,4.15,1.33,10.0,Boston Red Sox
+Connor Seabold,- - -,Pitcher,29,7,,,,,,,0.0,Pitcher,10.1,4.35,1.74,10.0,- - -
+Carl Edwards Jr.,- - -,Pitcher,33,4,,,,,,,0.0,Pitcher,6.0,4.5,1.17,6.0,- - -
+Jacob Stallings,COL,Pitcher,35,1,,,,,,,0.0,Pitcher,2.0,4.5,1.0,1.0,Colorado Rockies
+Jose Herrera,ARI,Pitcher,28,2,,,,,,,0.0,Pitcher,2.0,4.5,2.0,0.0,Arizona Diamondbacks
+Brett de Geus,PHI,Pitcher,27,1,,,,,,,0.0,Pitcher,2.0,4.5,2.0,0.0,Philadelphia Phillies
+Yaramil Hiraldo,BAL,Pitcher,29,18,,,,,,,0.0,Pitcher,19.2,4.58,1.32,21.0,Baltimore Orioles
+Kyle Backhus,ARI,Pitcher,27,32,,,,,,,0.0,Pitcher,25.1,4.62,1.42,22.0,Arizona Diamondbacks
+Michael Fulmer,- - -,Pitcher,32,3,,,,,,,0.0,Pitcher,5.2,4.76,1.41,3.0,- - -
+Gavin Hollowell,CHC,Pitcher,27,7,,,,,,,0.0,Pitcher,9.1,4.82,1.71,10.0,Chicago Cubs
+Omar Cruz,SDP,Pitcher,26,2,,,,,,,0.0,Pitcher,3.2,4.91,1.91,5.0,San Diego Padres
+Justin Bruihl,TOR,Pitcher,28,15,,,,,,,0.0,Pitcher,13.2,5.27,1.9,18.0,Toronto Blue Jays
+Davis Daniel,ATL,Pitcher,28,3,,,,,,,0.0,Pitcher,10.0,5.4,1.6,9.0,Atlanta Braves
+Justin Garza,NYM,Pitcher,31,5,,,,,,,0.0,Pitcher,6.2,5.4,1.35,3.0,New York Mets
+Angel Perdomo,ATH,Pitcher,31,4,,,,,,,0.0,Pitcher,3.1,5.4,1.5,2.0,ATH
+Bryce Jarvis,ARI,Pitcher,27,12,,,,,,,0.0,Pitcher,22.0,5.73,1.5,21.0,Arizona Diamondbacks
+Carson Fulmer,LAA,Pitcher,31,13,,,,,,,0.0,Pitcher,29.1,5.83,1.23,26.0,Los Angeles Angels
+Austin Hedges,CLE,Pitcher,32,3,,,,,,,0.0,Pitcher,3.0,6.0,2.33,1.0,Cleveland Guardians
+Chas McCormick,HOU,Pitcher,30,3,,,,,,,0.0,Pitcher,3.0,6.0,1.67,1.0,Houston Astros
+Vinny Capra,CHW,Pitcher,28,3,,,,,,,0.0,Pitcher,3.0,6.0,1.67,1.0,Chicago White Sox
+Jack Little,LAD,Pitcher,27,2,,,,,,,0.0,Pitcher,3.0,6.0,1.67,2.0,Los Angeles Dodgers
+Carson Spiers,CIN,Pitcher,27,3,,,,,,,0.0,Pitcher,13.1,6.08,1.5,11.0,Cincinnati Reds
+Nick Anderson,COL,Pitcher,34,12,,,,,,,0.0,Pitcher,14.2,6.14,1.3,10.0,Colorado Rockies
+Matt Bowman,BAL,Pitcher,34,20,,,,,,,0.0,Pitcher,24.2,6.2,1.5,18.0,Baltimore Orioles
+Jake Woodford,ARI,Pitcher,28,22,,,,,,,0.0,Pitcher,36.1,6.44,1.6,23.0,Arizona Diamondbacks
+Liam Hendriks,BOS,Pitcher,36,14,,,,,,,0.0,Pitcher,13.2,6.59,1.39,12.0,Boston Red Sox
+Jovani Moran,BOS,Pitcher,28,2,,,,,,,0.0,Pitcher,4.0,6.75,2.0,5.0,Boston Red Sox
+Elvis Peguero,- - -,Pitcher,28,8,,,,,,,0.0,Pitcher,9.1,6.75,1.93,8.0,- - -
+Isaiah Campbell,BOS,Pitcher,27,6,,,,,,,0.0,Pitcher,7.2,7.04,1.83,3.0,Boston Red Sox
+Jon Berti,CHC,Pitcher,35,4,,,,,,,0.0,Pitcher,3.2,7.36,2.18,0.0,Chicago Cubs
+Brooks Kriske,- - -,Pitcher,31,16,,,,,,,0.0,Pitcher,18.0,7.5,1.94,18.0,- - -
+Luis F. Castillo,SEA,Pitcher,30,2,,,,,,,0.0,Pitcher,7.0,7.71,2.71,5.0,Seattle Mariners
+Jose Urquidy,DET,Pitcher,30,2,,,,,,,0.0,Pitcher,2.1,7.71,3.0,3.0,Detroit Tigers
+Jeff Brigham,ARI,Pitcher,33,4,,,,,,,0.0,Pitcher,3.1,8.1,2.4,3.0,Arizona Diamondbacks
+Scott Effross,NYY,Pitcher,31,11,,,,,,,0.0,Pitcher,10.2,8.44,1.78,6.0,New York Yankees
+Connor Gillispie,MIA,Pitcher,27,6,,,,,,,0.0,Pitcher,26.0,8.65,1.65,23.0,Miami Marlins
+Tyler Wade,SDP,Pitcher,30,1,,,,,,,0.0,Pitcher,1.0,9.0,3.0,0.0,San Diego Padres
+Touki Toussaint,LAA,Pitcher,29,1,,,,,,,0.0,Pitcher,2.0,9.0,2.5,3.0,Los Angeles Angels
+Lucas Gilbreath,COL,Pitcher,29,1,,,,,,,0.0,Pitcher,1.0,9.0,1.0,2.0,Colorado Rockies
+Yilber Diaz,ARI,Pitcher,24,1,,,,,,,0.0,Pitcher,3.0,9.0,2.33,1.0,Arizona Diamondbacks
+Jacob Barnes,TOR,Pitcher,35,6,,,,,,,0.0,Pitcher,8.0,9.0,1.63,5.0,Toronto Blue Jays
+Gerson Garabito,TEX,Pitcher,29,3,,,,,,,0.0,Pitcher,8.0,9.0,2.0,8.0,Texas Rangers
+Owen White,CHW,Pitcher,25,3,,,,,,,0.0,Pitcher,7.0,9.0,2.43,6.0,Chicago White Sox
+Tucker Barnhart,TEX,Pitcher,34,1,,,,,,,0.0,Pitcher,2.0,13.5,2.5,0.0,Texas Rangers
+Cody Bolton,CLE,Pitcher,27,1,,,,,,,0.0,Pitcher,2.0,13.5,2.0,1.0,Cleveland Guardians
+Doug Nikhazy,CLE,Pitcher,25,2,,,,,,,0.0,Pitcher,4.0,13.5,2.75,5.0,Cleveland Guardians
+Carson Ragsdale,BAL,Pitcher,27,2,,,,,,,0.0,Pitcher,5.0,14.4,2.2,4.0,Baltimore Orioles
+Jordan Weems,HOU,Pitcher,32,4,,,,,,,0.0,Pitcher,4.1,14.54,2.77,0.0,Houston Astros
+Cody Poteet,BAL,Pitcher,30,1,,,,,,,0.0,Pitcher,2.2,16.88,3.0,1.0,Baltimore Orioles
+Travis Jankowski,NYM,Pitcher,34,1,,,,,,,0.0,Pitcher,1.0,18.0,3.0,0.0,New York Mets
+Mike Yastrzemski,SFG,Pitcher,34,1,,,,,,,0.0,Pitcher,1.0,18.0,3.0,0.0,San Francisco Giants
+Ali Sanchez,TOR,Pitcher,28,1,,,,,,,0.0,Pitcher,1.0,18.0,3.0,1.0,Toronto Blue Jays
+Abraham Toro,BOS,Pitcher,28,1,,,,,,,0.0,Pitcher,1.0,18.0,5.0,0.0,Boston Red Sox
+Jake Palisch,CHW,Pitcher,26,1,,,,,,,0.0,Pitcher,1.0,18.0,3.0,0.0,Chicago White Sox
+Alex Jackson,BAL,Pitcher,29,1,,,,,,,0.0,Pitcher,1.0,27.0,5.0,0.0,Baltimore Orioles
+Nolan Hoffman,PHI,Pitcher,27,1,,,,,,,0.0,Pitcher,1.0,27.0,4.0,2.0,Philadelphia Phillies
+Nathan Wiles,ATL,Pitcher,26,1,,,,,,,0.0,Pitcher,1.0,27.0,4.0,1.0,Atlanta Braves
+Cole Wilcox,TBR,Pitcher,25,1,,,,,,,0.0,Pitcher,1.0,27.0,7.0,1.0,Tampa Bay Rays
+Logan Evans,SEA,Pitcher,24,16,,,,,,,-0.1,Pitcher,81.1,4.32,1.39,59.0,Seattle Mariners
+Chase Shugart,PIT,Pitcher,28,35,,,,,,,-0.1,Pitcher,45.0,3.4,1.11,31.0,Pittsburgh Pirates
+Chase Lee,DET,Pitcher,26,32,,,,,,,-0.1,Pitcher,37.1,4.1,1.1,36.0,Detroit Tigers
+Kirby Yates,LAD,Pitcher,38,50,,,,,,,-0.1,Pitcher,41.1,5.23,1.33,52.0,Los Angeles Dodgers
+Casey Legumina,SEA,Pitcher,28,48,,,,,,,-0.1,Pitcher,49.2,5.62,1.45,55.0,Seattle Mariners
+Antonio Senzatela,COL,Pitcher,30,30,,,,,,,-0.1,Pitcher,130.0,6.65,1.84,73.0,Colorado Rockies
+Landon Knack,LAD,Pitcher,27,10,,,,,,,-0.1,Pitcher,42.1,4.89,1.39,42.0,Los Angeles Dodgers
+Tony Gonsolin,LAD,Pitcher,31,7,,,,,,,-0.1,Pitcher,36.0,5.0,1.42,38.0,Los Angeles Dodgers
+Hector Neris,- - -,Pitcher,36,35,,,,,,,-0.1,Pitcher,26.2,6.75,1.69,35.0,- - -
+Jose Castillo,- - -,Pitcher,29,29,,,,,,,-0.1,Pitcher,32.0,3.94,1.69,30.0,- - -
+David Robertson,PHI,Pitcher,40,20,,,,,,,-0.1,Pitcher,17.2,4.08,1.47,22.0,Philadelphia Phillies
+Michael Tonkin,MIN,Pitcher,35,21,,,,,,,-0.1,Pitcher,24.0,4.88,1.17,19.0,Minnesota Twins
+Shawn Dubin,- - -,Pitcher,29,30,,,,,,,-0.1,Pitcher,33.2,5.08,1.43,28.0,- - -
+Joe Ross,PHI,Pitcher,32,37,,,,,,,-0.1,Pitcher,51.0,5.12,1.47,39.0,Philadelphia Phillies
+Blake Treinen,LAD,Pitcher,37,32,,,,,,,-0.1,Pitcher,26.2,5.4,1.84,36.0,Los Angeles Dodgers
+Matt Sauer,LAD,Pitcher,26,10,,,,,,,-0.1,Pitcher,29.2,6.37,1.45,24.0,Los Angeles Dodgers
+Roki Sasaki,LAD,Pitcher,23,10,,,,,,,-0.1,Pitcher,36.1,4.46,1.43,28.0,Los Angeles Dodgers
+Hunter Stratton,- - -,Pitcher,28,15,,,,,,,-0.1,Pitcher,19.0,5.21,1.58,16.0,- - -
+Spencer Arrighetti,HOU,Pitcher,25,7,,,,,,,-0.1,Pitcher,35.1,5.35,1.42,31.0,Houston Astros
+Julian Fernandez,- - -,Pitcher,29,4,,,,,,,-0.1,Pitcher,5.0,5.4,1.0,5.0,- - -
+Brandon Young,BAL,Pitcher,26,12,,,,,,,-0.1,Pitcher,57.2,6.24,1.54,47.0,Baltimore Orioles
+Sam Moll,CIN,Pitcher,33,23,,,,,,,-0.1,Pitcher,18.1,6.38,1.42,22.0,Cincinnati Reds
+Wade Miley,CIN,Pitcher,38,3,,,,,,,-0.1,Pitcher,12.0,6.75,1.75,7.0,Cincinnati Reds
+Spencer Turnbull,TOR,Pitcher,32,3,,,,,,,-0.1,Pitcher,6.1,7.11,2.53,4.0,Toronto Blue Jays
+Ryan Johnson,LAA,Pitcher,22,14,,,,,,,-0.1,Pitcher,14.2,7.36,1.98,16.0,Los Angeles Angels
+Sean Hjelle,SFG,Pitcher,28,12,,,,,,,-0.1,Pitcher,15.0,7.8,2.0,11.0,San Francisco Giants
+Chris Roycroft,STL,Pitcher,28,20,,,,,,,-0.1,Pitcher,20.2,7.84,1.84,15.0,St. Louis Cardinals
+Mason Thompson,WSN,Pitcher,27,14,,,,,,,-0.1,Pitcher,10.2,11.81,2.63,11.0,Washington Nationals
+Jared Triolo,PIT,Pitcher,27,1,,,,,,,-0.1,Pitcher,1.0,0.0,4.0,0.0,Pittsburgh Pirates
+Randy Dobnak,MIN,Pitcher,30,1,,,,,,,-0.1,Pitcher,5.1,1.69,0.75,1.0,Minnesota Twins
+Erasmo Ramirez,MIN,Pitcher,35,9,,,,,,,-0.1,Pitcher,11.0,2.45,1.09,5.0,Minnesota Twins
+Drey Jameson,ARI,Pitcher,27,3,,,,,,,-0.1,Pitcher,3.0,3.0,2.33,0.0,Arizona Diamondbacks
+Robert Gasser,MIL,Pitcher,26,2,,,,,,,-0.1,Pitcher,5.2,3.18,1.59,5.0,Milwaukee Brewers
+Brandon Waddell,NYM,Pitcher,31,11,,,,,,,-0.1,Pitcher,31.1,3.45,1.28,22.0,New York Mets
+Daniel Robert,PHI,Pitcher,30,15,,,,,,,-0.1,Pitcher,13.0,4.15,1.62,15.0,Philadelphia Phillies
+Ben Bowden,ATH,Pitcher,30,11,,,,,,,-0.1,Pitcher,10.2,4.22,1.31,7.0,ATH
+Dillon Tate,TOR,Pitcher,31,6,,,,,,,-0.1,Pitcher,6.1,4.26,2.21,8.0,Toronto Blue Jays
+Zach Maxwell,CIN,Pitcher,24,8,,,,,,,-0.1,Pitcher,10.0,4.5,1.4,13.0,Cincinnati Reds
+Jose Urena,- - -,Pitcher,33,19,,,,,,,-0.1,Pitcher,55.0,4.58,1.45,34.0,- - -
+Bryan Hudson,- - -,Pitcher,28,16,,,,,,,-0.1,Pitcher,15.0,4.8,1.87,19.0,- - -
+Jake Eder,LAA,Pitcher,26,8,,,,,,,-0.1,Pitcher,18.1,4.91,1.31,15.0,Los Angeles Angels
+Logan VanWey,HOU,Pitcher,26,9,,,,,,,-0.1,Pitcher,10.2,5.06,1.69,7.0,Houston Astros
+Reynaldo Lopez,ATL,Pitcher,31,1,,,,,,,-0.1,Pitcher,5.0,5.4,2.2,1.0,Atlanta Braves
+Seth Martinez,MIA,Pitcher,30,6,,,,,,,-0.1,Pitcher,6.2,5.4,1.05,4.0,Miami Marlins
+Caleb Freeman,CHW,Pitcher,27,5,,,,,,,-0.1,Pitcher,3.1,5.4,1.8,3.0,Chicago White Sox
+Roansy Contreras,- - -,Pitcher,25,5,,,,,,,-0.1,Pitcher,12.2,5.68,1.11,6.0,- - -
+Julian Merryweather,CHC,Pitcher,33,21,,,,,,,-0.1,Pitcher,18.2,5.79,1.82,15.0,Chicago Cubs
+Xzavion Curry,MIA,Pitcher,26,3,,,,,,,-0.1,Pitcher,3.0,6.0,2.33,1.0,Miami Marlins
+Scott McGough,- - -,Pitcher,35,13,,,,,,,-0.1,Pitcher,16.0,6.75,1.56,16.0,- - -
+Kevin Newman,LAA,Pitcher,31,2,,,,,,,-0.1,Pitcher,4.0,6.75,1.0,0.0,Los Angeles Angels
+Mason Black,SFG,Pitcher,25,1,,,,,,,-0.1,Pitcher,4.0,6.75,1.25,5.0,San Francisco Giants
+Luis Contreras,HOU,Pitcher,29,9,,,,,,,-0.1,Pitcher,12.0,6.75,1.58,13.0,Houston Astros
+John Rooney,HOU,Pitcher,28,1,,,,,,,-0.1,Pitcher,1.1,6.75,1.5,2.0,Houston Astros
+Joel Payamps,- - -,Pitcher,31,30,,,,,,,-0.1,Pitcher,26.1,6.84,1.52,24.0,- - -
+T.J. McFarland,ATH,Pitcher,36,27,,,,,,,-0.1,Pitcher,15.2,6.89,1.85,7.0,ATH
+Dane Dunning,- - -,Pitcher,30,12,,,,,,,-0.1,Pitcher,20.2,6.97,1.5,21.0,- - -
+Tayler Saucedo,SEA,Pitcher,32,10,,,,,,,-0.1,Pitcher,13.1,7.43,1.88,12.0,Seattle Mariners
+Miguel Castro,CHW,Pitcher,30,6,,,,,,,-0.1,Pitcher,6.0,7.5,1.67,4.0,Chicago White Sox
+Chris Stratton,- - -,Pitcher,34,15,,,,,,,-0.1,Pitcher,21.0,7.71,2.0,22.0,- - -
+Robinson Pina,- - -,Pitcher,26,2,,,,,,,-0.1,Pitcher,2.1,7.71,2.57,1.0,- - -
+Matt Waldron,SDP,Pitcher,28,1,,,,,,,-0.1,Pitcher,4.2,7.71,2.57,3.0,San Diego Padres
+Penn Murfee,CHW,Pitcher,31,15,,,,,,,-0.1,Pitcher,12.2,7.82,1.89,13.0,Chicago White Sox
+Kenta Maeda,DET,Pitcher,37,7,,,,,,,-0.1,Pitcher,8.0,7.88,1.88,8.0,Detroit Tigers
+Mike Clevinger,CHW,Pitcher,34,8,,,,,,,-0.1,Pitcher,5.2,7.94,2.29,3.0,Chicago White Sox
+Lazaro Estrada,TOR,Pitcher,26,2,,,,,,,-0.1,Pitcher,7.1,8.59,1.5,10.0,Toronto Blue Jays
+Allan Winans,NYY,Pitcher,29,3,,,,,,,-0.1,Pitcher,9.1,8.68,1.71,6.0,New York Yankees
+Andry Lara,WSN,Pitcher,22,9,,,,,,,-0.1,Pitcher,14.1,8.79,2.44,10.0,Washington Nationals
+Kyle Farmer,COL,Pitcher,34,1,,,,,,,-0.1,Pitcher,1.0,9.0,3.0,0.0,Colorado Rockies
+Reese McGuire,CHC,Pitcher,30,1,,,,,,,-0.1,Pitcher,1.0,9.0,3.0,0.0,Chicago Cubs
+Logan Porter,SFG,Pitcher,29,1,,,,,,,-0.1,Pitcher,1.0,9.0,2.0,0.0,San Francisco Giants
+Will Wilson,CLE,Pitcher,26,1,,,,,,,-0.1,Pitcher,2.0,9.0,1.0,0.0,Cleveland Guardians
+Blas Castano,SEA,Pitcher,26,1,,,,,,,-0.1,Pitcher,3.0,9.0,2.0,1.0,Seattle Mariners
+Robert Stock,BOS,Pitcher,35,2,,,,,,,-0.1,Pitcher,2.2,10.13,3.0,1.0,Boston Red Sox
+Triston McKenzie,CLE,Pitcher,27,4,,,,,,,-0.1,Pitcher,5.2,11.12,2.47,4.0,Cleveland Guardians
+Luarbert Arias,MIA,Pitcher,24,7,,,,,,,-0.1,Pitcher,10.1,11.32,2.13,10.0,Miami Marlins
+Ian Anderson,LAA,Pitcher,27,7,,,,,,,-0.1,Pitcher,9.1,11.57,2.57,8.0,Los Angeles Angels
+Bobby Miller,LAD,Pitcher,26,2,,,,,,,-0.1,Pitcher,5.0,12.6,2.6,7.0,Los Angeles Dodgers
+Rowdy Tellez,TEX,Pitcher,30,1,,,,,,,-0.1,Pitcher,2.0,13.5,2.5,0.0,Texas Rangers
+Andrew Walters,CLE,Pitcher,24,2,,,,,,,-0.1,Pitcher,1.1,13.5,1.5,2.0,Cleveland Guardians
+Vidal Brujan,ATL,Pitcher,27,2,,,,,,,-0.1,Pitcher,2.0,13.5,2.5,0.0,Atlanta Braves
+Michael Mercado,PHI,Pitcher,26,3,,,,,,,-0.1,Pitcher,3.0,15.0,3.67,4.0,Philadelphia Phillies
+Jonah Bride,MIN,Pitcher,29,4,,,,,,,-0.1,Pitcher,6.0,15.0,2.83,2.0,Minnesota Twins
+Enrique Hernandez,LAD,Pitcher,33,5,,,,,,,-0.1,Pitcher,5.1,15.19,3.56,1.0,Los Angeles Dodgers
+Kody Clemens,MIN,Pitcher,29,1,,,,,,,-0.1,Pitcher,1.0,18.0,3.0,0.0,Minnesota Twins
+Drew Sommers,DET,Pitcher,24,4,,,,,,,-0.1,Pitcher,3.0,18.0,3.33,3.0,Detroit Tigers
+Jhonny Pereda,ATH,Pitcher,29,3,,,,,,,-0.1,Pitcher,3.0,21.0,3.67,3.0,ATH
+Pablo Reyes,NYY,Pitcher,31,1,,,,,,,-0.1,Pitcher,1.0,27.0,5.0,0.0,New York Yankees
+Oswald Peraza,LAA,Pitcher,25,2,,,,,,,-0.1,Pitcher,2.1,30.86,3.86,0.0,Los Angeles Angels
+Tyler Heineman,TOR,Pitcher,34,3,,,,,,,-0.1,Pitcher,3.1,32.4,4.5,0.0,Toronto Blue Jays
+Gary Sanchez,BAL,Pitcher,32,1,,,,,,,-0.1,Pitcher,1.0,36.0,3.0,0.0,Baltimore Orioles
+Amed Rosario,WSN,Pitcher,29,1,,,,,,,-0.1,Pitcher,1.0,36.0,7.0,0.0,Washington Nationals
+Scott Kingery,LAA,Pitcher,31,1,,,,,,,-0.1,Pitcher,2.0,36.0,6.0,1.0,Los Angeles Angels
+Cooper Hummel,HOU,Pitcher,30,1,,,,,,,-0.1,Pitcher,1.0,36.0,5.0,0.0,Houston Astros
+Jorge Mateo,BAL,Pitcher,30,1,,,,,,,-0.1,Pitcher,1.0,45.0,7.0,0.0,Baltimore Orioles
+Jose Caballero,TBR,Pitcher,28,1,,,,,,,-0.1,Pitcher,1.0,54.0,6.0,0.0,Tampa Bay Rays
+Austin Nola,COL,Pitcher,35,1,,,,,,,-0.1,Pitcher,1.0,72.0,8.0,0.0,Colorado Rockies
+Emmanuel Rivera,BAL,Pitcher,29,1,,,,,,,-0.1,Pitcher,1.0,72.0,10.0,0.0,Baltimore Orioles
+Daniel Lynch IV,KCR,Pitcher,28,57,,,,,,,-0.2,Pitcher,67.2,3.06,1.36,45.0,Kansas City Royals
+Tyler Holton,DET,Pitcher,29,70,,,,,,,-0.2,Pitcher,78.2,3.66,1.04,64.0,Detroit Tigers
+Michael Kelly,ATH,Pitcher,32,42,,,,,,,-0.2,Pitcher,39.2,3.18,1.29,29.0,ATH
+Erick Fedde,- - -,Pitcher,32,32,,,,,,,-0.2,Pitcher,141.0,5.49,1.52,83.0,- - -
+Chris Murphy,BOS,Pitcher,27,23,,,,,,,-0.2,Pitcher,34.2,3.12,1.18,30.0,Boston Red Sox
+Kyle Hart,SDP,Pitcher,32,20,,,,,,,-0.2,Pitcher,43.0,5.86,1.19,37.0,San Diego Padres
+Luis Mey,CIN,Pitcher,24,23,,,,,,,-0.2,Pitcher,21.0,3.43,1.62,21.0,Cincinnati Reds
+Luke Jackson,- - -,Pitcher,33,52,,,,,,,-0.2,Pitcher,51.0,4.06,1.35,38.0,- - -
+Jackson Kowar,SEA,Pitcher,28,15,,,,,,,-0.2,Pitcher,17.0,4.24,1.24,15.0,Seattle Mariners
+Lance McCullers Jr.,HOU,Pitcher,31,16,,,,,,,-0.2,Pitcher,55.1,6.51,1.81,61.0,Houston Astros
+Carlos Carrasco,- - -,Pitcher,38,11,,,,,,,-0.2,Pitcher,45.2,7.09,1.71,34.0,- - -
+Tommy Kahnle,DET,Pitcher,35,66,,,,,,,-0.2,Pitcher,63.0,4.43,1.3,50.0,Detroit Tigers
+Valente Bellozo,MIA,Pitcher,25,32,,,,,,,-0.2,Pitcher,81.1,4.65,1.33,54.0,Miami Marlins
+Max Lazar,PHI,Pitcher,26,36,,,,,,,-0.2,Pitcher,41.1,4.79,1.28,26.0,Philadelphia Phillies
+Gregory Santos,SEA,Pitcher,25,8,,,,,,,-0.2,Pitcher,7.0,5.14,2.29,0.0,Seattle Mariners
+Corbin Martin,BAL,Pitcher,29,17,,,,,,,-0.2,Pitcher,18.0,6.0,1.72,23.0,Baltimore Orioles
+Ethan Roberts,CHC,Pitcher,27,10,,,,,,,-0.2,Pitcher,9.0,6.0,1.33,6.0,Chicago Cubs
+Andrew Hoffmann,- - -,Pitcher,25,11,,,,,,,-0.2,Pitcher,12.0,6.0,2.0,12.0,- - -
+Ben Joyce,LAA,Pitcher,24,5,,,,,,,-0.2,Pitcher,4.1,6.23,1.38,1.0,Los Angeles Angels
+Eduarniel Nunez,- - -,Pitcher,26,10,,,,,,,-0.2,Pitcher,12.2,7.11,1.89,11.0,- - -
+Kendall Graveman,ARI,Pitcher,34,19,,,,,,,-0.2,Pitcher,17.2,7.13,1.98,9.0,Arizona Diamondbacks
+John Brebbia,- - -,Pitcher,35,22,,,,,,,-0.2,Pitcher,23.1,7.71,1.71,26.0,- - -
+Jose Ruiz,- - -,Pitcher,30,18,,,,,,,-0.2,Pitcher,16.1,8.82,1.96,15.0,- - -
+Colin Poche,- - -,Pitcher,31,14,,,,,,,-0.2,Pitcher,9.1,12.54,2.79,11.0,- - -
+Erik Swanson,TOR,Pitcher,31,6,,,,,,,-0.2,Pitcher,5.1,15.19,2.44,3.0,Toronto Blue Jays
+Hunter Bigge,TBR,Pitcher,27,13,,,,,,,-0.2,Pitcher,15.0,2.4,1.07,12.0,Tampa Bay Rays
+Dan Altavilla,CHW,Pitcher,32,28,,,,,,,-0.2,Pitcher,29.0,2.48,1.17,21.0,Chicago White Sox
+Logan Gillaspie,SDP,Pitcher,28,3,,,,,,,-0.2,Pitcher,7.0,2.57,1.57,4.0,San Diego Padres
+Tommy Henry,ARI,Pitcher,27,2,,,,,,,-0.2,Pitcher,6.2,4.05,1.05,8.0,Arizona Diamondbacks
+Paul Gervase,- - -,Pitcher,25,6,,,,,,,-0.2,Pitcher,8.1,4.32,1.68,8.0,- - -
+Anthony Veneziano,- - -,Pitcher,27,26,,,,,,,-0.2,Pitcher,25.0,4.68,1.56,25.0,- - -
+Rich Hill,KCR,Pitcher,45,2,,,,,,,-0.2,Pitcher,9.0,5.0,1.89,4.0,Kansas City Royals
+Nick Hernandez,HOU,Pitcher,30,10,,,,,,,-0.2,Pitcher,10.2,5.06,1.88,11.0,Houston Astros
+Jesse Hahn,SEA,Pitcher,35,3,,,,,,,-0.2,Pitcher,5.0,5.4,2.2,3.0,Seattle Mariners
+Codi Heuer,- - -,Pitcher,28,3,,,,,,,-0.2,Pitcher,4.2,5.79,1.29,5.0,- - -
+Payton Tolle,BOS,Pitcher,22,7,,,,,,,-0.2,Pitcher,16.1,6.06,1.59,19.0,Boston Red Sox
+Craig Yoho,MIL,Pitcher,25,8,,,,,,,-0.2,Pitcher,8.2,7.27,1.96,7.0,Milwaukee Brewers
+Bruce Zimmermann,MIL,Pitcher,30,1,,,,,,,-0.2,Pitcher,6.0,7.5,1.5,1.0,Milwaukee Brewers
+Cam Sanders,PIT,Pitcher,28,6,,,,,,,-0.2,Pitcher,6.2,8.1,2.1,4.0,Pittsburgh Pirates
+Cionel Perez,BAL,Pitcher,29,19,,,,,,,-0.2,Pitcher,21.2,8.31,2.12,21.0,Baltimore Orioles
+Kyle Nelson,ARI,Pitcher,28,3,,,,,,,-0.2,Pitcher,2.0,9.0,2.5,2.0,Arizona Diamondbacks
+Nate Pearson,CHC,Pitcher,28,11,,,,,,,-0.2,Pitcher,14.2,9.2,2.18,7.0,Chicago Cubs
+Anthony Misiewicz,MIN,Pitcher,30,5,,,,,,,-0.2,Pitcher,4.2,9.64,1.93,5.0,Minnesota Twins
+J.P. Feyereisen,- - -,Pitcher,32,4,,,,,,,-0.2,Pitcher,4.0,11.25,3.0,4.0,- - -
+Tyler Zuber,- - -,Pitcher,30,10,,,,,,,-0.2,Pitcher,12.0,11.25,1.92,14.0,- - -
+Wander Suero,ATL,Pitcher,33,5,,,,,,,-0.2,Pitcher,6.1,11.37,2.21,7.0,Atlanta Braves
+Anthony Maldonado,ATH,Pitcher,27,6,,,,,,,-0.2,Pitcher,6.0,12.0,2.5,7.0,ATH
+Troy Taylor,SEA,Pitcher,23,8,,,,,,,-0.2,Pitcher,6.2,12.15,2.55,2.0,Seattle Mariners
+Rolddy Munoz,ATL,Pitcher,25,3,,,,,,,-0.2,Pitcher,3.2,12.27,2.45,5.0,Atlanta Braves
+Miguel Rojas,LAD,Pitcher,36,4,,,,,,,-0.2,Pitcher,5.0,12.6,2.6,0.0,Los Angeles Dodgers
+Forrest Whitley,- - -,Pitcher,27,10,,,,,,,-0.2,Pitcher,12.0,13.5,2.25,12.0,- - -
+Jose Corniell,TEX,Pitcher,22,1,,,,,,,-0.2,Pitcher,1.2,16.2,2.4,1.0,Texas Rangers
+Connor Thomas,MIL,Pitcher,27,2,,,,,,,-0.2,Pitcher,5.1,20.25,2.63,5.0,Milwaukee Brewers
+Geoff Hartlieb,- - -,Pitcher,31,4,,,,,,,-0.2,Pitcher,3.1,21.6,4.2,5.0,- - -
+Walker Buehler,- - -,Pitcher,30,26,,,,,,,-0.3,Pitcher,126.0,4.93,1.52,92.0,- - -
+Zach Eflin,BAL,Pitcher,31,14,,,,,,,-0.3,Pitcher,71.1,5.93,1.42,50.0,Baltimore Orioles
+Chris Flexen,CHC,Pitcher,30,21,,,,,,,-0.3,Pitcher,43.2,3.09,1.15,22.0,Chicago Cubs
+Andrew Heaney,- - -,Pitcher,34,27,,,,,,,-0.3,Pitcher,122.1,5.52,1.38,86.0,- - -
+Yuki Matsui,SDP,Pitcher,29,61,,,,,,,-0.3,Pitcher,63.1,3.98,1.36,61.0,San Diego Padres
+Connor Brogdon,LAA,Pitcher,30,43,,,,,,,-0.3,Pitcher,47.0,5.55,1.34,49.0,Los Angeles Angels
+Ryan Pressly,CHC,Pitcher,36,44,,,,,,,-0.3,Pitcher,41.1,4.35,1.52,28.0,Chicago Cubs
+Trent Thornton,SEA,Pitcher,31,33,,,,,,,-0.3,Pitcher,42.1,4.68,1.3,32.0,Seattle Mariners
+Kaleb Ort,HOU,Pitcher,33,49,,,,,,,-0.3,Pitcher,46.0,4.89,1.35,49.0,Houston Astros
+Richard Fitts,BOS,Pitcher,25,11,,,,,,,-0.3,Pitcher,45.0,5.0,1.31,40.0,Boston Red Sox
+Thomas Hatch,- - -,Pitcher,30,12,,,,,,,-0.3,Pitcher,34.0,5.82,1.68,22.0,- - -
+Cole Henry,WSN,Pitcher,25,57,,,,,,,-0.3,Pitcher,52.2,4.27,1.42,52.0,Washington Nationals
+Seth Halvorsen,COL,Pitcher,25,42,,,,,,,-0.3,Pitcher,39.2,4.99,1.56,36.0,Colorado Rockies
+Juan Burgos,- - -,Pitcher,25,13,,,,,,,-0.3,Pitcher,13.1,6.08,1.88,14.0,- - -
+Travis Adams,MIN,Pitcher,25,18,,,,,,,-0.3,Pitcher,33.2,7.49,1.66,31.0,Minnesota Twins
+Blade Tidwell,NYM,Pitcher,24,4,,,,,,,-0.3,Pitcher,15.0,9.0,2.2,10.0,New York Mets
+Sean Reynolds,SDP,Pitcher,27,19,,,,,,,-0.3,Pitcher,27.0,5.33,1.37,25.0,San Diego Padres
+Garrett McDaniels,LAA,Pitcher,25,10,,,,,,,-0.3,Pitcher,10.2,5.91,1.97,6.0,Los Angeles Angels
+Jose Leclerc,ATH,Pitcher,31,10,,,,,,,-0.3,Pitcher,9.0,6.0,2.0,8.0,ATH
+Orlando Ribalta,WSN,Pitcher,27,22,,,,,,,-0.3,Pitcher,24.1,7.03,1.85,25.0,Washington Nationals
+Sawyer Gipson-Long,DET,Pitcher,27,8,,,,,,,-0.3,Pitcher,31.1,7.18,1.28,26.0,Detroit Tigers
+McCade Brown,COL,Pitcher,24,7,,,,,,,-0.3,Pitcher,25.2,7.36,1.83,23.0,Colorado Rockies
+Victor Mederos,LAA,Pitcher,24,5,,,,,,,-0.3,Pitcher,17.0,7.41,1.76,14.0,Los Angeles Angels
+Ryan Fernandez,STL,Pitcher,27,32,,,,,,,-0.3,Pitcher,30.1,7.71,1.71,34.0,St. Louis Cardinals
+Sam Aldegheri,LAA,Pitcher,23,4,,,,,,,-0.3,Pitcher,13.2,7.9,2.2,12.0,Los Angeles Angels
+Tanner Houck,BOS,Pitcher,29,9,,,,,,,-0.3,Pitcher,43.2,8.04,1.69,32.0,Boston Red Sox
+Roddery Munoz,STL,Pitcher,25,9,,,,,,,-0.3,Pitcher,11.0,8.18,1.64,14.0,St. Louis Cardinals
+Richard Lovelady,- - -,Pitcher,29,10,,,,,,,-0.3,Pitcher,11.2,8.49,1.54,12.0,- - -
+Jesse Chavez,ATL,Pitcher,41,4,,,,,,,-0.3,Pitcher,8.0,9.0,2.38,8.0,Atlanta Braves
+Zach Brzykcy,WSN,Pitcher,25,26,,,,,,,-0.3,Pitcher,23.0,9.0,1.74,24.0,Washington Nationals
+Joey Estes,ATH,Pitcher,23,3,,,,,,,-0.3,Pitcher,11.0,9.82,2.0,6.0,ATH
+Eli Morgan,CHC,Pitcher,29,7,,,,,,,-0.3,Pitcher,7.1,12.27,2.05,4.0,Chicago Cubs
+Michel Otanez,ATH,Pitcher,27,6,,,,,,,-0.3,Pitcher,5.1,13.5,2.25,6.0,ATH
+Tom Harrington,PIT,Pitcher,23,3,,,,,,,-0.3,Pitcher,8.2,15.58,2.88,7.0,Pittsburgh Pirates
+Javier Sanoja,MIA,Pitcher,22,8,,,,,,,-0.3,Pitcher,9.1,16.39,3.11,1.0,Miami Marlins
+Chase Petty,CIN,Pitcher,22,3,,,,,,,-0.3,Pitcher,6.0,19.5,3.67,7.0,Cincinnati Reds
+Jeff Hoffman,TOR,Pitcher,32,71,,,,,,,-0.4,Pitcher,68.0,4.37,1.19,84.0,Toronto Blue Jays
+Jake Irvin,WSN,Pitcher,28,33,,,,,,,-0.4,Pitcher,180.0,5.7,1.43,124.0,Washington Nationals
+Tim Herrin,CLE,Pitcher,28,54,,,,,,,-0.4,Pitcher,42.2,4.85,1.57,45.0,Cleveland Guardians
+Daysbel Hernandez,ATL,Pitcher,28,39,,,,,,,-0.4,Pitcher,37.0,3.41,1.54,33.0,Atlanta Braves
+Josh Simpson,MIA,Pitcher,27,31,,,,,,,-0.4,Pitcher,30.2,7.34,1.83,36.0,Miami Marlins
+John King,STL,Pitcher,30,51,,,,,,,-0.4,Pitcher,48.1,4.66,1.63,28.0,St. Louis Cardinals
+Carson Whisenhunt,SFG,Pitcher,24,5,,,,,,,-0.4,Pitcher,23.1,5.01,1.46,16.0,San Francisco Giants
+Sam Long,KCR,Pitcher,29,39,,,,,,,-0.4,Pitcher,40.1,5.36,1.74,33.0,Kansas City Royals
+Jordan Romano,PHI,Pitcher,32,49,,,,,,,-0.4,Pitcher,42.2,8.23,1.45,47.0,Philadelphia Phillies
+Alek Jacob,SDP,Pitcher,27,29,,,,,,,-0.4,Pitcher,33.1,5.13,1.5,23.0,San Diego Padres
+Gunnar Hoglund,ATH,Pitcher,25,6,,,,,,,-0.4,Pitcher,32.1,6.4,1.52,23.0,ATH
+Zach Agnos,COL,Pitcher,24,30,,,,,,,-0.4,Pitcher,31.1,6.61,1.53,19.0,Colorado Rockies
+Jon Gray,TEX,Pitcher,33,6,,,,,,,-0.4,Pitcher,14.0,7.71,1.5,12.0,Texas Rangers
+Ryan Loutos,- - -,Pitcher,26,12,,,,,,,-0.4,Pitcher,12.0,12.75,2.33,8.0,- - -
+Caden Dana,LAA,Pitcher,21,7,,,,,,,-0.4,Pitcher,32.1,6.4,1.48,33.0,Los Angeles Angels
+Austin Gomber,COL,Pitcher,31,12,,,,,,,-0.4,Pitcher,57.2,7.49,1.72,34.0,Colorado Rockies
+Joe La Sorsa,CIN,Pitcher,27,5,,,,,,,-0.4,Pitcher,6.2,10.8,2.25,2.0,Cincinnati Reds
+Zach Pop,- - -,Pitcher,28,5,,,,,,,-0.4,Pitcher,6.2,14.85,2.55,3.0,- - -
+Chayce McDermott,BAL,Pitcher,26,4,,,,,,,-0.4,Pitcher,8.2,15.58,2.77,9.0,Baltimore Orioles
+Keegan Akin,BAL,Pitcher,30,64,,,,,,,-0.5,Pitcher,63.1,3.41,1.37,59.0,Baltimore Orioles
+Jackson Rutledge,WSN,Pitcher,26,63,,,,,,,-0.5,Pitcher,73.1,5.77,1.51,65.0,Washington Nationals
+Jose Fermin,LAA,Pitcher,23,40,,,,,,,-0.5,Pitcher,34.1,4.46,1.4,39.0,Los Angeles Angels
+Scott Blewett,- - -,Pitcher,29,26,,,,,,,-0.5,Pitcher,44.1,5.48,1.42,35.0,- - -
+Konnor Pilkington,WSN,Pitcher,27,32,,,,,,,-0.5,Pitcher,28.1,4.45,1.38,34.0,Washington Nationals
+Kevin Kelly,TBR,Pitcher,27,41,,,,,,,-0.5,Pitcher,39.2,5.9,1.36,35.0,Tampa Bay Rays
+Beau Brieske,DET,Pitcher,27,22,,,,,,,-0.5,Pitcher,22.0,6.55,1.64,16.0,Detroit Tigers
+Shinnosuke Ogasawara,WSN,Pitcher,27,23,,,,,,,-0.5,Pitcher,38.2,6.98,1.55,30.0,Washington Nationals
+Shaun Anderson,LAA,Pitcher,30,7,,,,,,,-0.5,Pitcher,11.1,10.32,2.03,11.0,Los Angeles Angels
+Lucas Sims,WSN,Pitcher,31,18,,,,,,,-0.5,Pitcher,12.1,13.86,2.27,13.0,Washington Nationals
+Jonathan Loaisiga,NYY,Pitcher,30,30,,,,,,,-0.5,Pitcher,29.2,4.25,1.48,25.0,New York Yankees
+Jorge Alcala,- - -,Pitcher,29,56,,,,,,,-0.5,Pitcher,55.0,6.22,1.75,61.0,- - -
+Bryse Wilson,CHW,Pitcher,27,20,,,,,,,-0.5,Pitcher,47.1,6.65,1.82,28.0,Chicago White Sox
+Colin Holderman,PIT,Pitcher,29,24,,,,,,,-0.5,Pitcher,25.2,7.01,1.95,18.0,Pittsburgh Pirates
+Eduardo Salazar,WSN,Pitcher,27,30,,,,,,,-0.5,Pitcher,29.0,8.38,2.17,23.0,Washington Nationals
+Elvin Rodriguez,- - -,Pitcher,27,7,,,,,,,-0.5,Pitcher,19.2,9.15,1.68,18.0,- - -
+Alex Carrillo,NYM,Pitcher,28,3,,,,,,,-0.5,Pitcher,4.2,13.5,1.71,4.0,New York Mets
+Didier Fuentes,ATL,Pitcher,20,4,,,,,,,-0.5,Pitcher,13.0,13.85,2.23,12.0,Atlanta Braves
+Joe Mantiply,ARI,Pitcher,34,10,,,,,,,-0.5,Pitcher,9.2,15.83,3.0,8.0,Arizona Diamondbacks
+Ryan Zeferjahn,LAA,Pitcher,27,62,,,,,,,-0.6,Pitcher,57.0,4.74,1.47,73.0,Los Angeles Angels
+Carlos Vargas,SEA,Pitcher,25,70,,,,,,,-0.6,Pitcher,77.0,3.97,1.35,54.0,Seattle Mariners
+Jack Kochanowicz,LAA,Pitcher,24,23,,,,,,,-0.6,Pitcher,111.0,6.81,1.75,72.0,Los Angeles Angels
+Cam Booser,CHW,Pitcher,33,39,,,,,,,-0.6,Pitcher,31.0,5.52,1.52,35.0,Chicago White Sox
+Osvaldo Bido,ATH,Pitcher,29,26,,,,,,,-0.6,Pitcher,79.2,5.87,1.61,68.0,ATH
+Porter Hodge,CHC,Pitcher,24,36,,,,,,,-0.6,Pitcher,33.0,6.27,1.58,40.0,Chicago Cubs
+Carson Seymour,SFG,Pitcher,26,16,,,,,,,-0.6,Pitcher,36.0,4.75,1.39,26.0,San Francisco Giants
+Scott Alexander,- - -,Pitcher,35,21,,,,,,,-0.6,Pitcher,17.2,6.11,1.81,8.0,- - -
+Anthony Molina,COL,Pitcher,23,17,,,,,,,-0.6,Pitcher,34.2,7.27,1.67,24.0,Colorado Rockies
+Tayler Scott,- - -,Pitcher,33,24,,,,,,,-0.6,Pitcher,27.1,7.9,1.9,24.0,- - -
+Alexis Diaz,- - -,Pitcher,28,18,,,,,,,-0.6,Pitcher,17.2,8.15,1.53,17.0,- - -
+Austin Cox,ATL,Pitcher,28,13,,,,,,,-0.6,Pitcher,21.1,8.86,1.73,22.0,Atlanta Braves
+Carson Palmquist,COL,Pitcher,24,9,,,,,,,-0.6,Pitcher,34.1,8.91,2.04,27.0,Colorado Rockies
+Kyle Gibson,BAL,Pitcher,37,4,,,,,,,-0.6,Pitcher,12.1,16.78,2.92,10.0,Baltimore Orioles
+George Soriano,MIA,Pitcher,26,24,,,,,,,-0.7,Pitcher,36.2,8.35,1.77,36.0,Miami Marlins
+Anthony DeSclafani,ARI,Pitcher,35,13,,,,,,,-0.7,Pitcher,38.2,5.12,1.27,36.0,Arizona Diamondbacks
+Ryan Rolison,COL,Pitcher,27,31,,,,,,,-0.7,Pitcher,42.1,7.02,1.77,25.0,Colorado Rockies
+Angel Chivilli,COL,Pitcher,22,43,,,,,,,-0.7,Pitcher,58.2,7.06,1.69,43.0,Colorado Rockies
+Luis Peralta,COL,Pitcher,24,22,,,,,,,-0.7,Pitcher,19.0,9.47,2.32,16.0,Colorado Rockies
+Noah Davis,- - -,Pitcher,28,9,,,,,,,-0.7,Pitcher,11.0,18.0,2.55,15.0,- - -
+Bowden Francis,TOR,Pitcher,29,14,,,,,,,-0.8,Pitcher,64.0,6.05,1.53,54.0,Toronto Blue Jays
+Chad Green,TOR,Pitcher,34,45,,,,,,,-0.9,Pitcher,43.2,5.56,1.47,35.0,Toronto Blue Jays
+Nestor Cortes,- - -,Pitcher,30,8,,,,,,,-0.9,Pitcher,34.1,6.29,1.63,29.0,- - -
+Genesis Cabrera,- - -,Pitcher,28,40,,,,,,,-0.9,Pitcher,42.2,6.54,1.5,35.0,- - -
+Bradley Blalock,COL,Pitcher,24,14,,,,,,,-1.0,Pitcher,58.2,9.36,1.84,27.0,Colorado Rockies
